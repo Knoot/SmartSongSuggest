@@ -94107,5 +94107,17 @@
     "characteristic": "Standard",
     "songCategory": 1,
     "starScoreSaber": 11.050000190734863
+  },
+  {
+    "name": "999",
+    "beatLeaderID": "33705xxxxxx91",
+    "hash": "36B6DC3DDD7C1FF23C91A933E6719E5DAC5711D1",
+    "difficulty": "9",
+    "characteristic": "Standard",
+    "songCategory": 16,
+    "starBeatLeader": 14.468893051147461,
+    "starAccBeatLeader": 11.78923225402832,
+    "starPassBeatLeader": 16.69746208190918,
+    "starTechBeatLeader": 5.1752829551696777
   }
 ]
