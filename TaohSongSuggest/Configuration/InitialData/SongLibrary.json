@@ -88525,6 +88525,7 @@
   {
     "name": "Dark Flight Dreamer",
     "scoreSaberID": "678111",
+    "beatSaverID": "1815a",
     "hash": "5980A139E161101F6B44687ECE408CB103B42870",
     "difficulty": "3",
     "characteristic": "Standard",
@@ -91040,6 +91041,7 @@
   {
     "name": "Chinchin 2018",
     "scoreSaberID": "686610",
+    "beatSaverID": "48716",
     "hash": "DC9F1A620DB484679EA7EB0004BFEAFD1C02E5FB",
     "difficulty": "3",
     "characteristic": "Standard",
@@ -92366,6 +92368,7 @@
   {
     "name": "i just hope you tell me when you change your mind",
     "scoreSaberID": "692819",
+    "beatSaverID": "4cbea",
     "hash": "2A2E00672D4419F08E2CDDB53C3BFDDE8DDAA78C",
     "difficulty": "9",
     "characteristic": "Standard",
@@ -93273,6 +93276,7 @@
   {
     "name": "War against the Eldritch Beasts",
     "scoreSaberID": "697751",
+    "beatSaverID": "47abb",
     "hash": "2CCF1C12F550F1D2DD7BC6F06C5E885469EC240C",
     "difficulty": "5",
     "characteristic": "Standard",
