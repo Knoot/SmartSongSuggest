@@ -28584,6 +28584,7 @@
   {
     "name": "Oyasumi",
     "scoreSaberID": "368040",
+    "beatSaverID": "1a32a",
     "hash": "8B7FC7B898AECE2967690846DA7889048C0880FF",
     "difficulty": "9",
     "characteristic": "Standard",
@@ -49566,6 +49567,7 @@
   {
     "name": "Crazy Shuffle",
     "scoreSaberID": "559752",
+    "beatSaverID": "1e3fc",
     "hash": "A4F82E6969F89AA75A5C943C67DDB3C8C7D4769B",
     "difficulty": "9",
     "characteristic": "Standard",
@@ -92085,7 +92087,7 @@
     "difficulty": "9",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 14.220000267028809
+    "starScoreSaber": 14.239999771118164
   },
   {
     "name": "Ashed Wings",
@@ -92947,6 +92949,7 @@
   {
     "name": "Lachryma",
     "scoreSaberID": "687596",
+    "beatSaverID": "4bf6a",
     "hash": "309C36A3C24B744DD39762990F06FADA58045E8E",
     "difficulty": "1",
     "characteristic": "Standard",
@@ -93520,7 +93523,7 @@
     "difficulty": "9",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 12.5600004196167
+    "starScoreSaber": 12.619999885559082
   },
   {
     "name": "Force of Quartz",
@@ -93556,7 +93559,7 @@
     "difficulty": "9",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 12.989999771118164
+    "starScoreSaber": 12.770000457763672
   },
   {
     "name": "HER",
@@ -94067,7 +94070,7 @@
     "difficulty": "9",
     "characteristic": "Standard",
     "songCategory": 17,
-    "starScoreSaber": 13.079999923706055,
+    "starScoreSaber": 13.460000038146973,
     "starBeatLeader": 13.795615196228027,
     "starAccBeatLeader": 12.93842887878418,
     "starPassBeatLeader": 11.477527618408203,
@@ -94093,7 +94096,7 @@
     "difficulty": "7",
     "characteristic": "Standard",
     "songCategory": 17,
-    "starScoreSaber": 10.619999885559082,
+    "starScoreSaber": 10.529999732971191,
     "starBeatLeader": 10.606301307678223,
     "starAccBeatLeader": 10.498386383056641,
     "starPassBeatLeader": 10.974130630493164,
@@ -94154,7 +94157,7 @@
     "difficulty": "5",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 4.9800000190734863
+    "starScoreSaber": 6.8299999237060547
   },
   {
     "name": "MOVE YOUR BODY",
@@ -94163,7 +94166,7 @@
     "difficulty": "7",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 8.15999984741211
+    "starScoreSaber": 8.2600002288818359
   },
   {
     "name": "MOVE YOUR BODY",
@@ -94172,7 +94175,7 @@
     "difficulty": "9",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 10.840000152587891
+    "starScoreSaber": 10.4399995803833
   },
   {
     "name": "EgO",
@@ -94181,7 +94184,7 @@
     "difficulty": "1",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 4.5199999809265137
+    "starScoreSaber": 5.1100001335144043
   },
   {
     "name": "EgO",
@@ -94190,7 +94193,7 @@
     "difficulty": "3",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 5.0
+    "starScoreSaber": 5.5
   },
   {
     "name": "EgO",
@@ -94199,7 +94202,7 @@
     "difficulty": "5",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 6.0100002288818359
+    "starScoreSaber": 7.4600000381469727
   },
   {
     "name": "EgO",
@@ -94208,7 +94211,7 @@
     "difficulty": "7",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 9.2399997711181641
+    "starScoreSaber": 9.4899997711181641
   },
   {
     "name": "EgO",
@@ -94217,7 +94220,7 @@
     "difficulty": "9",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 11.909999847412109
+    "starScoreSaber": 11.520000457763672
   },
   {
     "name": "Dragostea Din Tei",
@@ -94226,7 +94229,7 @@
     "difficulty": "7",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 6.3400001525878906
+    "starScoreSaber": 7.440000057220459
   },
   {
     "name": "Dragostea Din Tei",
@@ -94235,7 +94238,7 @@
     "difficulty": "9",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 10.460000038146973
+    "starScoreSaber": 10.489999771118164
   },
   {
     "name": "TOGETHER",
@@ -94244,7 +94247,7 @@
     "difficulty": "7",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 5.3499999046325684
+    "starScoreSaber": 6.7300000190734863
   },
   {
     "name": "TOGETHER",
@@ -94253,7 +94256,7 @@
     "difficulty": "9",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 8.3500003814697266
+    "starScoreSaber": 8.3000001907348633
   },
   {
     "name": "Slash Inferno",
@@ -94262,7 +94265,7 @@
     "difficulty": "5",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 4.630000114440918
+    "starScoreSaber": 5.940000057220459
   },
   {
     "name": "Slash Inferno",
@@ -94271,7 +94274,7 @@
     "difficulty": "7",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 8.6700000762939453
+    "starScoreSaber": 8.2299995422363281
   },
   {
     "name": "Slash Inferno",
@@ -94280,7 +94283,7 @@
     "difficulty": "9",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 11.720000267028809
+    "starScoreSaber": 11.460000038146973
   },
   {
     "name": "She Looked Like Me!",
@@ -94298,7 +94301,7 @@
     "difficulty": "3",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 4.4499998092651367
+    "starScoreSaber": 5.4499998092651367
   },
   {
     "name": "I must apologise",
@@ -94307,7 +94310,7 @@
     "difficulty": "5",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 5.6700000762939453
+    "starScoreSaber": 5.8899998664855957
   },
   {
     "name": "I must apologise",
@@ -94316,7 +94319,7 @@
     "difficulty": "7",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 6.9499998092651367
+    "starScoreSaber": 7.5799999237060547
   },
   {
     "name": "I must apologise",
@@ -94325,7 +94328,7 @@
     "difficulty": "9",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 9.59000015258789
+    "starScoreSaber": 9.34000015258789
   },
   {
     "name": "Knight Rider",
@@ -94334,7 +94337,7 @@
     "difficulty": "7",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 10.130000114440918
+    "starScoreSaber": 10.430000305175781
   },
   {
     "name": "Knight Rider",
@@ -94352,7 +94355,7 @@
     "difficulty": "1",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 3.5799999237060547
+    "starScoreSaber": 4.3299999237060547
   },
   {
     "name": "Pixel Perfect",
@@ -94361,7 +94364,7 @@
     "difficulty": "3",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 4.440000057220459
+    "starScoreSaber": 5.1399998664855957
   },
   {
     "name": "Pixel Perfect",
@@ -94370,7 +94373,7 @@
     "difficulty": "5",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 6.9099998474121094
+    "starScoreSaber": 7.3499999046325684
   },
   {
     "name": "Pixel Perfect",
@@ -94379,7 +94382,7 @@
     "difficulty": "7",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 10.539999961853027
+    "starScoreSaber": 10.739999771118164
   },
   {
     "name": "Pixel Perfect",
@@ -94397,7 +94400,7 @@
     "difficulty": "5",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 4.9800000190734863
+    "starScoreSaber": 5.8899998664855957
   },
   {
     "name": "Cherry Pop",
@@ -94406,7 +94409,7 @@
     "difficulty": "7",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 6.3899998664855957
+    "starScoreSaber": 6.4899997711181641
   },
   {
     "name": "Cherry Pop",
@@ -94415,7 +94418,7 @@
     "difficulty": "9",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 9.3599996566772461
+    "starScoreSaber": 9.6999998092651367
   },
   {
     "name": "B.B.K.K.B.K.K.",
@@ -94424,7 +94427,7 @@
     "difficulty": "7",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 7.309999942779541
+    "starScoreSaber": 7.820000171661377
   },
   {
     "name": "B.B.K.K.B.K.K.",
@@ -94442,7 +94445,7 @@
     "difficulty": "7",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 6.7300000190734863
+    "starScoreSaber": 7.690000057220459
   },
   {
     "name": "Dizzy Dance, Street Light",
@@ -94451,7 +94454,7 @@
     "difficulty": "9",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 9.65999984741211
+    "starScoreSaber": 10.390000343322754
   },
   {
     "name": "Burn",
@@ -94460,7 +94463,7 @@
     "difficulty": "3",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 4.21999979019165
+    "starScoreSaber": 5.679999828338623
   },
   {
     "name": "Burn",
@@ -94469,7 +94472,7 @@
     "difficulty": "5",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 6.4800000190734863
+    "starScoreSaber": 7.2899999618530273
   },
   {
     "name": "Burn",
@@ -94478,7 +94481,7 @@
     "difficulty": "7",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 7.190000057220459
+    "starScoreSaber": 7.630000114440918
   },
   {
     "name": "Burn",
@@ -94487,7 +94490,7 @@
     "difficulty": "9",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 9.1400003433227539
+    "starScoreSaber": 9.5
   },
   {
     "name": "Trip To Holland",
@@ -94496,7 +94499,7 @@
     "difficulty": "5",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 4.2899999618530273
+    "starScoreSaber": 5.0399999618530273
   },
   {
     "name": "Trip To Holland",
@@ -94505,7 +94508,7 @@
     "difficulty": "7",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 6.320000171661377
+    "starScoreSaber": 7.570000171661377
   },
   {
     "name": "Trip To Holland",
@@ -94514,7 +94517,7 @@
     "difficulty": "9",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 11.710000038146973
+    "starScoreSaber": 11.739999771118164
   },
   {
     "name": "Party Girl",
@@ -94523,7 +94526,7 @@
     "difficulty": "7",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 6.369999885559082
+    "starScoreSaber": 7.119999885559082
   },
   {
     "name": "Party Girl",
@@ -94541,7 +94544,7 @@
     "difficulty": "7",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 7.2600002288818359
+    "starScoreSaber": 8.3100004196167
   },
   {
     "name": "Quantielectromolecularifeline Tunnelling",
@@ -94550,7 +94553,7 @@
     "difficulty": "9",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 11.510000228881836
+    "starScoreSaber": 11.5600004196167
   },
   {
     "name": "Thanatophobia",
@@ -94559,7 +94562,7 @@
     "difficulty": "7",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 8.7700004577636719
+    "starScoreSaber": 9.0200004577636719
   },
   {
     "name": "Thanatophobia",
@@ -94568,7 +94571,7 @@
     "difficulty": "9",
     "characteristic": "Standard",
     "songCategory": 1,
-    "starScoreSaber": 11.050000190734863
+    "starScoreSaber": 11.0
   },
   {
     "name": "999",
@@ -94736,6 +94739,7 @@
     "name": "Downpour.vip",
     "scoreSaberID": "616953",
     "beatLeaderID": "3e82591",
+    "beatSaverID": "3e825",
     "hash": "C08487D2A3153A51E9C30F00D7D4A741A30B89A0",
     "difficulty": "9",
     "characteristic": "Standard",
@@ -94781,5 +94785,518 @@
     "characteristic": "Standard",
     "songCategory": 8,
     "complexityAccSaber": 9.3
+  },
+  {
+    "name": "FIRST:DREAMS",
+    "scoreSaberID": "826710",
+    "hash": "9158846A793B825ABC211864BF4CFF56BBA1A172",
+    "difficulty": "5",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 8.9200000762939453
+  },
+  {
+    "name": "Paradission",
+    "scoreSaberID": "700254",
+    "hash": "233DC096241A6978834E1CB46D35C4DDBA00FD6D",
+    "difficulty": "7",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 12.539999961853027
+  },
+  {
+    "name": "FIRST:DREAMS",
+    "scoreSaberID": "826708",
+    "hash": "9158846A793B825ABC211864BF4CFF56BBA1A172",
+    "difficulty": "1",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 5.5500001907348633
+  },
+  {
+    "name": "COSMIC LOOPER",
+    "scoreSaberID": "700201",
+    "hash": "67DC6AF3242A7C2A806AEFA1FF3F0CCC3BAFCBE8",
+    "difficulty": "9",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 8.7399997711181641
+  },
+  {
+    "name": "Antidote",
+    "scoreSaberID": "701536",
+    "hash": "007605B50065EC15F67C9ACCBAF323D77F552FC8",
+    "difficulty": "7",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 9.8599996566772461
+  },
+  {
+    "name": "Venomous Firefly",
+    "scoreSaberID": "813430",
+    "hash": "6CDCA4D32D9CDAA7B1573D2373225D335A78FCCE",
+    "difficulty": "7",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 12.229999542236328
+  },
+  {
+    "name": "FIRST:DREAMS",
+    "scoreSaberID": "826712",
+    "hash": "9158846A793B825ABC211864BF4CFF56BBA1A172",
+    "difficulty": "9",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 11.369999885559082
+  },
+  {
+    "name": "Antidote",
+    "scoreSaberID": "701534",
+    "hash": "007605B50065EC15F67C9ACCBAF323D77F552FC8",
+    "difficulty": "9",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 11.489999771118164
+  },
+  {
+    "name": "ZiWEiYUAN",
+    "scoreSaberID": "704339",
+    "hash": "F2ADF621CB4345B8C083081D2D5C47CA05598845",
+    "difficulty": "9",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 12.970000267028809
+  },
+  {
+    "name": "Cubibibibism",
+    "scoreSaberID": "703740",
+    "hash": "B4A787D32BD4206569DF92973167E37120BF2FEB",
+    "difficulty": "9",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 11.119999885559082
+  },
+  {
+    "name": "Bangin' Burst",
+    "scoreSaberID": "703936",
+    "hash": "C3C22AC8FDBBB32B32AB273875D395116E51B02B",
+    "difficulty": "9",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 13.359999656677246
+  },
+  {
+    "name": "FIRST:DREAMS",
+    "scoreSaberID": "826711",
+    "hash": "9158846A793B825ABC211864BF4CFF56BBA1A172",
+    "difficulty": "7",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 9.6999998092651367
+  },
+  {
+    "name": "Blackmagik Blazing",
+    "scoreSaberID": "837425",
+    "hash": "4996F93149DC3909E6565862C0E523098F83C8F8",
+    "difficulty": "7",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 8.7899999618530273
+  },
+  {
+    "name": "Bangin' Burst",
+    "scoreSaberID": "703960",
+    "hash": "C3C22AC8FDBBB32B32AB273875D395116E51B02B",
+    "difficulty": "7",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 11.090000152587891
+  },
+  {
+    "name": "Paradission",
+    "scoreSaberID": "700174",
+    "hash": "233DC096241A6978834E1CB46D35C4DDBA00FD6D",
+    "difficulty": "9",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 11.149999618530273
+  },
+  {
+    "name": "Venomous Firefly",
+    "scoreSaberID": "813431",
+    "hash": "6CDCA4D32D9CDAA7B1573D2373225D335A78FCCE",
+    "difficulty": "9",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 12.930000305175781
+  },
+  {
+    "name": "glitter ✩‧₊˚",
+    "scoreSaberID": "698149",
+    "hash": "032E768319365F65250CC99E37E2CED4EB024356",
+    "difficulty": "9",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 11.079999923706055
+  },
+  {
+    "name": "glitter ✩‧₊˚",
+    "scoreSaberID": "698212",
+    "hash": "032E768319365F65250CC99E37E2CED4EB024356",
+    "difficulty": "5",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 6.190000057220459
+  },
+  {
+    "name": "That's Why I Gave Up on Music",
+    "scoreSaberID": "704152",
+    "hash": "6EBAA69CA6451A5F9CB9C60BA8AF5E8242D4FAD6",
+    "difficulty": "9",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 9.119999885559082
+  },
+  {
+    "name": "Frightenin’ Head",
+    "scoreSaberID": "703137",
+    "hash": "DE2913E156F196A503D2DBAE634FD7B69D947D11",
+    "difficulty": "5",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 8.5
+  },
+  {
+    "name": "Donut Hole",
+    "scoreSaberID": "699386",
+    "hash": "6B00DD5F5FFB3096F2806A228A1683EB9A375BDD",
+    "difficulty": "9",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 10.640000343322754
+  },
+  {
+    "name": "Frightenin’ Head",
+    "scoreSaberID": "703138",
+    "hash": "DE2913E156F196A503D2DBAE634FD7B69D947D11",
+    "difficulty": "7",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 9.6000003814697266
+  },
+  {
+    "name": "Venomous Firefly",
+    "scoreSaberID": "813429",
+    "hash": "6CDCA4D32D9CDAA7B1573D2373225D335A78FCCE",
+    "difficulty": "5",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 9.9600000381469727
+  },
+  {
+    "name": "Donut Hole",
+    "scoreSaberID": "699397",
+    "hash": "6B00DD5F5FFB3096F2806A228A1683EB9A375BDD",
+    "difficulty": "3",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 4.429999828338623
+  },
+  {
+    "name": "Cubibibibism",
+    "scoreSaberID": "703741",
+    "hash": "B4A787D32BD4206569DF92973167E37120BF2FEB",
+    "difficulty": "7",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 11.319999694824219
+  },
+  {
+    "name": "Frightenin’ Head",
+    "scoreSaberID": "703139",
+    "hash": "DE2913E156F196A503D2DBAE634FD7B69D947D11",
+    "difficulty": "9",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 11.609999656677246
+  },
+  {
+    "name": "Checkmate",
+    "scoreSaberID": "756146",
+    "hash": "45F3CF5A78D70B559E82B4D67069E55F9263F377",
+    "difficulty": "9",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 10.609999656677246
+  },
+  {
+    "name": "Gee",
+    "scoreSaberID": "841162",
+    "hash": "BF6650ECD26F885FC78EFE56FD29468796BC0B35",
+    "difficulty": "9",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 9.3299999237060547
+  },
+  {
+    "name": "Bangin' Burst",
+    "scoreSaberID": "703922",
+    "hash": "C3C22AC8FDBBB32B32AB273875D395116E51B02B",
+    "difficulty": "5",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 8.34000015258789
+  },
+  {
+    "name": "Blackmagik Blazing",
+    "scoreSaberID": "837424",
+    "hash": "4996F93149DC3909E6565862C0E523098F83C8F8",
+    "difficulty": "5",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 5.690000057220459
+  },
+  {
+    "name": "Adios",
+    "scoreSaberID": "704044",
+    "hash": "18849729CB23E2C8C8E7FE4EAA07CB58F240AD3B",
+    "difficulty": "9",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 8.5799999237060547
+  },
+  {
+    "name": "glitter ✩‧₊˚",
+    "scoreSaberID": "698112",
+    "hash": "032E768319365F65250CC99E37E2CED4EB024356",
+    "difficulty": "7",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 7.440000057220459
+  },
+  {
+    "name": "Utakata",
+    "scoreSaberID": "704064",
+    "hash": "FE348C36940CD3505D061EABD458AA2D7499351A",
+    "difficulty": "9",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 7.7100000381469727
+  },
+  {
+    "name": "FIRST:DREAMS",
+    "scoreSaberID": "826709",
+    "hash": "9158846A793B825ABC211864BF4CFF56BBA1A172",
+    "difficulty": "3",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 6.5799999237060547
+  },
+  {
+    "name": "Hero",
+    "scoreSaberID": "703053",
+    "hash": "10B0DBDF98F7EABD805817B51263517D1CC2848F",
+    "difficulty": "9",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 6.820000171661377
+  },
+  {
+    "name": "COSMIC LOOPER",
+    "scoreSaberID": "700186",
+    "hash": "67DC6AF3242A7C2A806AEFA1FF3F0CCC3BAFCBE8",
+    "difficulty": "7",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 5.0799999237060547
+  },
+  {
+    "name": "Gee",
+    "scoreSaberID": "841161",
+    "hash": "BF6650ECD26F885FC78EFE56FD29468796BC0B35",
+    "difficulty": "7",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 6.5500001907348633
+  },
+  {
+    "name": "bad bad bad",
+    "scoreSaberID": "844975",
+    "hash": "E7CC97E261FAD3F7E4508F3F63008A7A4A7FF0C2",
+    "difficulty": "9",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 5.5999999046325684
+  },
+  {
+    "name": "Blackmagik Blazing",
+    "scoreSaberID": "837426",
+    "hash": "4996F93149DC3909E6565862C0E523098F83C8F8",
+    "difficulty": "9",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 11.289999961853027
+  },
+  {
+    "name": "Donut Hole",
+    "scoreSaberID": "699587",
+    "hash": "6B00DD5F5FFB3096F2806A228A1683EB9A375BDD",
+    "difficulty": "5",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 5.9000000953674316
+  },
+  {
+    "name": "Bangin' Burst",
+    "scoreSaberID": "703964",
+    "hash": "C3C22AC8FDBBB32B32AB273875D395116E51B02B",
+    "difficulty": "3",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 6.5799999237060547
+  },
+  {
+    "name": "Checkmate",
+    "scoreSaberID": "756145",
+    "hash": "45F3CF5A78D70B559E82B4D67069E55F9263F377",
+    "difficulty": "7",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 5.53000020980835
+  },
+  {
+    "name": "Frightenin’ Head",
+    "scoreSaberID": "703136",
+    "hash": "DE2913E156F196A503D2DBAE634FD7B69D947D11",
+    "difficulty": "3",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 5.179999828338623
+  },
+  {
+    "name": "Venomous Firefly",
+    "scoreSaberID": "813427",
+    "hash": "6CDCA4D32D9CDAA7B1573D2373225D335A78FCCE",
+    "difficulty": "1",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 4.8400001525878906
+  },
+  {
+    "name": "Donut Hole",
+    "scoreSaberID": "699378",
+    "hash": "6B00DD5F5FFB3096F2806A228A1683EB9A375BDD",
+    "difficulty": "7",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 7.0500001907348633
+  },
+  {
+    "name": "Antidote",
+    "scoreSaberID": "702057",
+    "hash": "007605B50065EC15F67C9ACCBAF323D77F552FC8",
+    "difficulty": "5",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 5.4600000381469727
+  },
+  {
+    "name": "World-Line",
+    "scoreSaberID": "847378",
+    "hash": "4C8256041AFB0111FA4AA631B6629E40E7E0DE22",
+    "difficulty": "9",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 7.5999999046325684
+  },
+  {
+    "name": "World-Line",
+    "scoreSaberID": "847377",
+    "hash": "4C8256041AFB0111FA4AA631B6629E40E7E0DE22",
+    "difficulty": "7",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 4.7100000381469727
+  },
+  {
+    "name": "bad bad bad",
+    "scoreSaberID": "844974",
+    "hash": "E7CC97E261FAD3F7E4508F3F63008A7A4A7FF0C2",
+    "difficulty": "7",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 4.369999885559082
+  },
+  {
+    "name": "World-Line",
+    "scoreSaberID": "847375",
+    "hash": "4C8256041AFB0111FA4AA631B6629E40E7E0DE22",
+    "difficulty": "3",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 3.940000057220459
+  },
+  {
+    "name": "World-Line",
+    "scoreSaberID": "847376",
+    "hash": "4C8256041AFB0111FA4AA631B6629E40E7E0DE22",
+    "difficulty": "5",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 4.2699999809265137
+  },
+  {
+    "name": "Cubibibibism",
+    "scoreSaberID": "703738",
+    "hash": "B4A787D32BD4206569DF92973167E37120BF2FEB",
+    "difficulty": "5",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 4.96999979019165
+  },
+  {
+    "name": "That's Why I Gave Up on Music",
+    "scoreSaberID": "704154",
+    "hash": "6EBAA69CA6451A5F9CB9C60BA8AF5E8242D4FAD6",
+    "difficulty": "7",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 5.559999942779541
+  },
+  {
+    "name": "Utakata",
+    "scoreSaberID": "704069",
+    "hash": "FE348C36940CD3505D061EABD458AA2D7499351A",
+    "difficulty": "5",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 4.5100002288818359
+  },
+  {
+    "name": "Adios",
+    "scoreSaberID": "704079",
+    "hash": "18849729CB23E2C8C8E7FE4EAA07CB58F240AD3B",
+    "difficulty": "3",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 3.9100000858306885
+  },
+  {
+    "name": "Gee",
+    "scoreSaberID": "841159",
+    "hash": "BF6650ECD26F885FC78EFE56FD29468796BC0B35",
+    "difficulty": "3",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 4.0399999618530273
+  },
+  {
+    "name": "Antidote",
+    "scoreSaberID": "701533",
+    "hash": "007605B50065EC15F67C9ACCBAF323D77F552FC8",
+    "difficulty": "3",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 4.53000020980835
   }
 ]
