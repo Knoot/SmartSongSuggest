@@ -136,16 +136,16 @@
     </vertical>
   </modal>
 
-  <modal id='modal' show-event='open-song-filters' hide-event='close-song-filters' clickerino-offerino-closerino="true" anchor-pos-y='0' size-delta-x='104' size-delta-y='122'>
+  <modal id='modal' show-event='open-song-filters' hide-event='close-song-filters' clickerino-offerino-closerino="true" move-to-center="false" anchor-pos-y='28' size-delta-x='104' size-delta-y='108'>
     <vertical preferred-width='94' vertical-fit='PreferredSize'>
-      <macro.as-host host='cfgInstance'>
-        <horizontal child-control-height='true' child-expand-width='false'>
-          <label text='Map Filters' font-size='5' align='Center' pref-width='76'/>
-          <button text='OK' click-event='close-song-filters' min-width='16' pref-height='8'/>
-        </horizontal>
-        <horizontal bg='panel-top' bg-color='white' size-delta-y='1' pref-height='0.5'></horizontal>
+      <horizontal child-control-height='true' child-expand-width='false'>
+        <label text='Map Filters' font-size='4' align='Center' pref-width='76'/>
+        <button text='OK' on-click='song-filters-close-click' min-width='16' pref-height='7'/>
+      </horizontal>
+      <horizontal bg='panel-top' bg-color='white' size-delta-y='1' pref-height='0.5'></horizontal>
 
-        <label text='BeatSaver' font-size='4' align='Center'/>
+      <macro.as-host host='cfgInstance'>
+        <label text='BeatSaver' font-size='3' align='Center'/>
         <slider-setting interactable='true' text='NJS Min' show-buttons='true' value='suggest-min-njs' bind-value='true' apply-on-change='true' min='0' max='~song-filter-njs-max' increment='~song-filter-njs-increment' integer-only='false' formatter='song-filter-decimal-formatter'/>
         <slider-setting interactable='true' text='NJS Max' show-buttons='true' value='suggest-max-njs' bind-value='true' apply-on-change='true' min='0' max='~song-filter-njs-max' increment='~song-filter-njs-increment' integer-only='false' formatter='song-filter-decimal-formatter'/>
         <slider-setting interactable='true' text='NPS Min' show-buttons='true' value='suggest-min-nps' bind-value='true' apply-on-change='true' min='0' max='~song-filter-nps-max' increment='~song-filter-nps-increment' integer-only='false' formatter='song-filter-decimal-formatter'/>
@@ -153,8 +153,7 @@
         <slider-setting interactable='true' text='Length Min' show-buttons='true' value='suggest-min-seconds' bind-value='true' apply-on-change='true' min='0' max='~song-filter-seconds-max' increment='~song-filter-seconds-increment' integer-only='true' formatter='song-filter-seconds-formatter'/>
         <slider-setting interactable='true' text='Length Max' show-buttons='true' value='suggest-max-seconds' bind-value='true' apply-on-change='true' min='0' max='~song-filter-seconds-max' increment='~song-filter-seconds-increment' integer-only='true' formatter='song-filter-seconds-formatter'/>
 
-        <horizontal bg='panel-top' bg-color='white' size-delta-y='1' pref-height='0.5'></horizontal>
-        <label text='Leaderboard Stars' font-size='4' align='Center'/>
+        <label text='Leaderboard Stars' font-size='3' align='Center'/>
         <slider-setting interactable='true' text='SS Min' show-buttons='true' value='suggest-min-score-saber-stars' bind-value='true' apply-on-change='true' min='0' max='~song-filter-star-max' increment='~song-filter-star-increment' integer-only='false' formatter='song-filter-star-formatter'/>
         <slider-setting interactable='true' text='SS Max' show-buttons='true' value='suggest-max-score-saber-stars' bind-value='true' apply-on-change='true' min='0' max='~song-filter-star-max' increment='~song-filter-star-increment' integer-only='false' formatter='song-filter-star-formatter'/>
         <slider-setting interactable='true' text='BL Min' show-buttons='true' value='suggest-min-beatleader-stars' bind-value='true' apply-on-change='true' min='0' max='~song-filter-star-max' increment='~song-filter-star-increment' integer-only='false' formatter='song-filter-star-formatter'/>
