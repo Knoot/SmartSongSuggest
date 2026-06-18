@@ -11,13 +11,16 @@
     
     <horizontal horizontal-fit='PreferredSize' pad='8' preferred-height='79' vertical-fit='PreferredSize' child-control-height='false' active='~suggest-show'>
       
-      <macro.as-host host='cfgInstance'>
-        <vertical spacing='0.5' child-expand-height='false'>
+      <vertical spacing='0.5' child-expand-height='false'>
 
-          <vertical child-control-height='false' bg='panel-top' pad='2' pad-bottom='1' pad-top='1' preferred-width='80'>
+        <vertical child-control-height='false' bg='panel-top' pad='2' pad-bottom='1' pad-top='1' preferred-width='80'>
+          <macro.as-host host='cfgInstance'>
             <dropdown-list-setting text='Score Board' value='suggest-leaderboard-selection' choices='suggest-leaderboard-options' bind-value="true" apply-on-change="true" pref-width="60"/>
-          </vertical>
+          </macro.as-host>
+          <button text='Map Filters' on-click='song-filters-click' pref-height='8' hover-hint='Limit suggested maps by NJS, NPS, length, and leaderboard stars.'/>
+        </vertical>
           
+        <macro.as-host host='cfgInstance'>
           <vertical child-control-height='false' bg='panel-top' pad='2' pad-bottom='1' pad-top='1' preferred-width='80'>
             <slider-setting interactable='true' text='Playlist Count' show-buttons='true' value="suggest-playlist-count" bind-value="true" apply-on-change="true" min='~suggest-playlist-min-count' max='~suggest-playlist-max-count' increment='1' integer-only='true' formatter='song-formatter'/>
           </vertical>
@@ -33,8 +36,8 @@
             <slider-setting text='Tech Focus' show-buttons='true' value="modifier-overweight" bind-value="true" apply-on-change="true" min='0' max='100' increment='1' integer-only='true' formatter='percent-formatter' hover-hint='A higher Tech level prioritize songs that players similar to you gained the most PP from. This means that even Speed-oriented players can benefit from values above 80%.' />
           </vertical>
 
-        </vertical>
-      </macro.as-host>
+        </macro.as-host>
+      </vertical>
     </horizontal>
 
     <horizontal horizontal-fit='PreferredSize' pad='8' preferred-height='79' vertical-fit='PreferredSize' active='~oldest-show'>
@@ -130,6 +133,33 @@
       
       </macro.as-host>  
       <button text='OK' click-event='close-settings' pad-top='2' min-width='25'/>
+    </vertical>
+  </modal>
+
+  <modal id='modal' show-event='open-song-filters' hide-event='close-song-filters' clickerino-offerino-closerino="true" anchor-pos-y='0' size-delta-x='104' size-delta-y='122'>
+    <vertical preferred-width='94' vertical-fit='PreferredSize'>
+      <macro.as-host host='cfgInstance'>
+        <horizontal child-control-height='true' child-expand-width='false'>
+          <label text='Map Filters' font-size='5' align='Center' pref-width='76'/>
+          <button text='OK' click-event='close-song-filters' min-width='16' pref-height='8'/>
+        </horizontal>
+        <horizontal bg='panel-top' bg-color='white' size-delta-y='1' pref-height='0.5'></horizontal>
+
+        <label text='BeatSaver' font-size='4' align='Center'/>
+        <slider-setting interactable='true' text='NJS Min' show-buttons='true' value='suggest-min-njs' bind-value='true' apply-on-change='true' min='0' max='~song-filter-njs-max' increment='~song-filter-njs-increment' integer-only='false' formatter='song-filter-decimal-formatter'/>
+        <slider-setting interactable='true' text='NJS Max' show-buttons='true' value='suggest-max-njs' bind-value='true' apply-on-change='true' min='0' max='~song-filter-njs-max' increment='~song-filter-njs-increment' integer-only='false' formatter='song-filter-decimal-formatter'/>
+        <slider-setting interactable='true' text='NPS Min' show-buttons='true' value='suggest-min-nps' bind-value='true' apply-on-change='true' min='0' max='~song-filter-nps-max' increment='~song-filter-nps-increment' integer-only='false' formatter='song-filter-decimal-formatter'/>
+        <slider-setting interactable='true' text='NPS Max' show-buttons='true' value='suggest-max-nps' bind-value='true' apply-on-change='true' min='0' max='~song-filter-nps-max' increment='~song-filter-nps-increment' integer-only='false' formatter='song-filter-decimal-formatter'/>
+        <slider-setting interactable='true' text='Length Min' show-buttons='true' value='suggest-min-seconds' bind-value='true' apply-on-change='true' min='0' max='~song-filter-seconds-max' increment='~song-filter-seconds-increment' integer-only='true' formatter='song-filter-seconds-formatter'/>
+        <slider-setting interactable='true' text='Length Max' show-buttons='true' value='suggest-max-seconds' bind-value='true' apply-on-change='true' min='0' max='~song-filter-seconds-max' increment='~song-filter-seconds-increment' integer-only='true' formatter='song-filter-seconds-formatter'/>
+
+        <horizontal bg='panel-top' bg-color='white' size-delta-y='1' pref-height='0.5'></horizontal>
+        <label text='Leaderboard Stars' font-size='4' align='Center'/>
+        <slider-setting interactable='true' text='SS Min' show-buttons='true' value='suggest-min-score-saber-stars' bind-value='true' apply-on-change='true' min='0' max='~song-filter-star-max' increment='~song-filter-star-increment' integer-only='false' formatter='song-filter-star-formatter'/>
+        <slider-setting interactable='true' text='SS Max' show-buttons='true' value='suggest-max-score-saber-stars' bind-value='true' apply-on-change='true' min='0' max='~song-filter-star-max' increment='~song-filter-star-increment' integer-only='false' formatter='song-filter-star-formatter'/>
+        <slider-setting interactable='true' text='BL Min' show-buttons='true' value='suggest-min-beatleader-stars' bind-value='true' apply-on-change='true' min='0' max='~song-filter-star-max' increment='~song-filter-star-increment' integer-only='false' formatter='song-filter-star-formatter'/>
+        <slider-setting interactable='true' text='BL Max' show-buttons='true' value='suggest-max-beatleader-stars' bind-value='true' apply-on-change='true' min='0' max='~song-filter-star-max' increment='~song-filter-star-increment' integer-only='false' formatter='song-filter-star-formatter'/>
+      </macro.as-host>
     </vertical>
   </modal>
     

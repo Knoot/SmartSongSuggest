@@ -146,6 +146,12 @@ namespace SmartSongSuggest.Managers
 
                     cfg.DefaultLeaderboardNames = new List<string> { "Score Saber", "Acc Saber", "Beat Leader" };
                     cfg.SuggestSettings = JsonConvert.DeserializeObject<List<SongSuggestSettings>>(cfg.SuggestSettingsString);
+                    foreach (var setting in cfg.SuggestSettings)
+                    {
+                        setting.FilterSettings = setting.FilterSettings ?? new FilterSettings();
+                        setting.PlaylistSettings = setting.PlaylistSettings ?? new PlaylistSettings();
+                    }
+
                     toolBox.log?.WriteLine($"Leaderboards Loaded: {cfg.SuggestSettings.Count}");
                     toolBox.log?.WriteLine($"String Loaded: {cfg.SuggestSettingsString}");
 
@@ -276,7 +282,17 @@ namespace SmartSongSuggest.Managers
             FilterSettings filterSettings = new FilterSettings
             {
                 modifierStyle = cfg.ModifierStyle,
-                modifierOverweight = cfg.ModifierOverweight
+                modifierOverweight = cfg.ModifierOverweight,
+                minNjs = cfg.ActiveLeaderboard.FilterSettings?.minNjs ?? 0,
+                maxNjs = cfg.ActiveLeaderboard.FilterSettings?.maxNjs ?? 0,
+                minNps = cfg.ActiveLeaderboard.FilterSettings?.minNps ?? 0,
+                maxNps = cfg.ActiveLeaderboard.FilterSettings?.maxNps ?? 0,
+                minSeconds = cfg.ActiveLeaderboard.FilterSettings?.minSeconds ?? 0,
+                maxSeconds = cfg.ActiveLeaderboard.FilterSettings?.maxSeconds ?? 0,
+                minScoreSaberStars = cfg.ActiveLeaderboard.FilterSettings?.minScoreSaberStars ?? 0,
+                maxScoreSaberStars = cfg.ActiveLeaderboard.FilterSettings?.maxScoreSaberStars ?? 0,
+                minBeatLeaderStars = cfg.ActiveLeaderboard.FilterSettings?.minBeatLeaderStars ?? 0,
+                maxBeatLeaderStars = cfg.ActiveLeaderboard.FilterSettings?.maxBeatLeaderStars ?? 0
             };
 
             PlaylistSettings playListSettings = new PlaylistSettings

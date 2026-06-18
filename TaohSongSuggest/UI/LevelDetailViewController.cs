@@ -173,7 +173,7 @@ namespace SmartSongSuggest.UI
             } 
         }
 
-        string levelHash => sldv != null ? Hashing.GetCustomLevelHash(sldv.beatmapLevel) : null;
+        string levelHash => sldv != null ? Hashing.ComputeCustomLevelHash(sldv.beatmapLevel) : null;
         string levelDifficulty => sldv?.beatmapKey.difficulty.SerializedName();
         string levelCharacteristic => sldv?.beatmapKey.beatmapCharacteristic?.serializedName;
         SongID songID => SongSuggestManager.toolBox.songLibrary.GetID(levelCharacteristic, levelDifficulty, levelHash);

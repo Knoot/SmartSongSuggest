@@ -190,6 +190,12 @@ namespace SmartSongSuggest.UI
             this.parserParams.EmitEvent("open-accsaber");
         }
 
+        [UIAction("song-filters-click")]
+        private void ShowSongFilters()
+        {
+            this.parserParams.EmitEvent("close-song-filters");
+            this.parserParams.EmitEvent("open-song-filters");
+        }
 
         [UIAction("categories-click")]
         private void ShowCategories()

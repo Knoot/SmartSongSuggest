@@ -44,6 +44,20 @@ namespace SmartSongSuggest.Configuration
         [Ignore]
         public SongSuggestSettings ActiveLeaderboard { get; set; } = SongSuggestManager.CreateSuggestSetting("");
 
+        [Ignore]
+        private FilterSettings ActiveFilterSettings
+        {
+            get
+            {
+                if (ActiveLeaderboard.FilterSettings == null)
+                {
+                    ActiveLeaderboard.FilterSettings = new FilterSettings();
+                }
+
+                return ActiveLeaderboard.FilterSettings;
+            }
+        }
+
         private string _leaderboardSelection = "";
         [UIValue("suggest-leaderboard-selection")]
         public virtual string LeaderboardSelection 
@@ -97,6 +111,22 @@ namespace SmartSongSuggest.Configuration
         [UIValue("complexity-slider-increment")]
         public virtual float ComplexitySliderIncrement { get; set; } = 0.1f;
         public virtual int ComplexitySliderDecimals { get; set; } = 1;
+        [UIValue("song-filter-njs-max")]
+        public virtual float SongFilterNjsMax { get; set; } = 30f;
+        [UIValue("song-filter-nps-max")]
+        public virtual float SongFilterNpsMax { get; set; } = 25f;
+        [UIValue("song-filter-seconds-max")]
+        public virtual int SongFilterSecondsMax { get; set; } = 900;
+        [UIValue("song-filter-star-max")]
+        public virtual float SongFilterStarMax { get; set; } = 20f;
+        [UIValue("song-filter-njs-increment")]
+        public virtual float SongFilterNjsIncrement { get; set; } = 0.1f;
+        [UIValue("song-filter-nps-increment")]
+        public virtual float SongFilterNpsIncrement { get; set; } = 0.1f;
+        [UIValue("song-filter-seconds-increment")]
+        public virtual int SongFilterSecondsIncrement { get; set; } = 15;
+        [UIValue("song-filter-star-increment")]
+        public virtual float SongFilterStarIncrement { get; set; } = 0.1f;
 
         public virtual string __comment_Variables__ { get; set; } = "Remaining Values are in game selectable Values";
         //Stores if defaults been updated.
@@ -170,10 +200,10 @@ namespace SmartSongSuggest.Configuration
         [UIValue("modifier-style")][Ignore]
         public virtual int ModifierStyle
         {
-            get => (int)ActiveLeaderboard.FilterSettings.modifierStyle;
+            get => (int)ActiveFilterSettings.modifierStyle;
             set
             {
-                ActiveLeaderboard.FilterSettings.modifierStyle = value;
+                ActiveFilterSettings.modifierStyle = value;
                 SaveSuggestSettings();
             }
         }
@@ -181,10 +211,120 @@ namespace SmartSongSuggest.Configuration
         [UIValue("modifier-overweight")][Ignore]
         public virtual int ModifierOverweight 
         {
-            get => (int)ActiveLeaderboard.FilterSettings.modifierOverweight;
+            get => (int)ActiveFilterSettings.modifierOverweight;
             set
             {
-                ActiveLeaderboard.FilterSettings.modifierOverweight = value;
+                ActiveFilterSettings.modifierOverweight = value;
+                SaveSuggestSettings();
+            }
+        }
+
+        [UIValue("suggest-min-njs")][Ignore]
+        public virtual float SuggestMinNjs
+        {
+            get => (float)ActiveFilterSettings.minNjs;
+            set
+            {
+                ActiveFilterSettings.minNjs = value;
+                SaveSuggestSettings();
+            }
+        }
+
+        [UIValue("suggest-max-njs")][Ignore]
+        public virtual float SuggestMaxNjs
+        {
+            get => (float)ActiveFilterSettings.maxNjs;
+            set
+            {
+                ActiveFilterSettings.maxNjs = value;
+                SaveSuggestSettings();
+            }
+        }
+
+        [UIValue("suggest-min-nps")][Ignore]
+        public virtual float SuggestMinNps
+        {
+            get => (float)ActiveFilterSettings.minNps;
+            set
+            {
+                ActiveFilterSettings.minNps = value;
+                SaveSuggestSettings();
+            }
+        }
+
+        [UIValue("suggest-max-nps")][Ignore]
+        public virtual float SuggestMaxNps
+        {
+            get => (float)ActiveFilterSettings.maxNps;
+            set
+            {
+                ActiveFilterSettings.maxNps = value;
+                SaveSuggestSettings();
+            }
+        }
+
+        [UIValue("suggest-min-seconds")][Ignore]
+        public virtual int SuggestMinSeconds
+        {
+            get => (int)ActiveFilterSettings.minSeconds;
+            set
+            {
+                ActiveFilterSettings.minSeconds = value;
+                SaveSuggestSettings();
+            }
+        }
+
+        [UIValue("suggest-max-seconds")][Ignore]
+        public virtual int SuggestMaxSeconds
+        {
+            get => (int)ActiveFilterSettings.maxSeconds;
+            set
+            {
+                ActiveFilterSettings.maxSeconds = value;
+                SaveSuggestSettings();
+            }
+        }
+
+        [UIValue("suggest-min-score-saber-stars")][Ignore]
+        public virtual float SuggestMinScoreSaberStars
+        {
+            get => (float)ActiveFilterSettings.minScoreSaberStars;
+            set
+            {
+                ActiveFilterSettings.minScoreSaberStars = value;
+                SaveSuggestSettings();
+            }
+        }
+
+        [UIValue("suggest-max-score-saber-stars")][Ignore]
+        public virtual float SuggestMaxScoreSaberStars
+        {
+            get => (float)ActiveFilterSettings.maxScoreSaberStars;
+            set
+            {
+                ActiveFilterSettings.maxScoreSaberStars = value;
+                SaveSuggestSettings();
+            }
+        }
+
+        [UIValue("suggest-min-beatleader-stars")][Ignore]
+        public virtual float SuggestMinBeatLeaderStars
+        {
+            get => (float)ActiveFilterSettings.minBeatLeaderStars;
+            set
+            {
+                ActiveFilterSettings.minBeatLeaderStars = value;
+                SaveSuggestSettings();
+            }
+        }
+
+        [UIValue("suggest-max-beatleader-stars")][Ignore]
+        public virtual float SuggestMaxBeatLeaderStars
+        {
+            get => (float)ActiveFilterSettings.maxBeatLeaderStars;
+            set
+            {
+                ActiveFilterSettings.maxBeatLeaderStars = value;
                 SaveSuggestSettings();
             }
         }
@@ -645,6 +785,35 @@ namespace SmartSongSuggest.Configuration
             return $"{sliderVal.ToString(format)}*";
         }
 
+        [UIAction("song-filter-decimal-formatter")]
+        public string SongFilterDecimalFormatter(float sliderVal)
+        {
+            if (sliderVal <= 0)
+                return "Off";
+
+            return $"{sliderVal.ToString("0.0")}";
+        }
+
+        [UIAction("song-filter-star-formatter")]
+        public string SongFilterStarFormatter(float sliderVal)
+        {
+            if (sliderVal <= 0)
+                return "Off";
+
+            return $"{sliderVal.ToString("0.0")}*";
+        }
+
+        [UIAction("song-filter-seconds-formatter")]
+        public string SongFilterSecondsFormatter(int sliderVal)
+        {
+            if (sliderVal <= 0)
+                return "Off";
+
+            int minutes = sliderVal / 60;
+            int seconds = sliderVal % 60;
+            return $"{minutes}:{seconds:00}";
+        }
+
         [UIAction("percent-weighted")]
         public string PercentFormatterWeighted(float sliderVal)
         {
@@ -742,6 +911,16 @@ namespace SmartSongSuggest.Configuration
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(RemoveOptimizedScores)));
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(ModifierOverweight)));
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(ModifierStyle)));
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(SuggestMinNjs)));
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(SuggestMaxNjs)));
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(SuggestMinNps)));
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(SuggestMaxNps)));
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(SuggestMinSeconds)));
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(SuggestMaxSeconds)));
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(SuggestMinScoreSaberStars)));
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(SuggestMaxScoreSaberStars)));
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(SuggestMinBeatLeaderStars)));
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(SuggestMaxBeatLeaderStars)));
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(UseOnlySeedSongs)));
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(IgnorePlayedDays)));
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(SuggestPlaylistCount)));
