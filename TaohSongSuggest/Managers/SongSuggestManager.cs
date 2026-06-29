@@ -292,7 +292,8 @@ namespace SmartSongSuggest.Managers
                 minScoreSaberStars = cfg.ActiveLeaderboard.FilterSettings?.minScoreSaberStars ?? 0,
                 maxScoreSaberStars = cfg.ActiveLeaderboard.FilterSettings?.maxScoreSaberStars ?? 0,
                 minBeatLeaderStars = cfg.ActiveLeaderboard.FilterSettings?.minBeatLeaderStars ?? 0,
-                maxBeatLeaderStars = cfg.ActiveLeaderboard.FilterSettings?.maxBeatLeaderStars ?? 0
+                maxBeatLeaderStars = cfg.ActiveLeaderboard.FilterSettings?.maxBeatLeaderStars ?? 0,
+                ignoreOneSaber = cfg.ActiveLeaderboard.FilterSettings?.ignoreOneSaber ?? false
             };
 
             PlaylistSettings playListSettings = new PlaylistSettings

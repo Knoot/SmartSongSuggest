@@ -329,6 +329,17 @@ namespace SmartSongSuggest.Configuration
             }
         }
 
+        [UIValue("suggest-ignore-one-saber")][Ignore]
+        public virtual bool SuggestIgnoreOneSaber
+        {
+            get => ActiveFilterSettings.ignoreOneSaber;
+            set
+            {
+                ActiveFilterSettings.ignoreOneSaber = value;
+                SaveSuggestSettings();
+            }
+        }
+
         [UIValue("remove-optimized-scores")][Ignore]
         public virtual bool RemoveOptimizedScores 
         {
@@ -921,6 +932,7 @@ namespace SmartSongSuggest.Configuration
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(SuggestMaxScoreSaberStars)));
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(SuggestMinBeatLeaderStars)));
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(SuggestMaxBeatLeaderStars)));
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(SuggestIgnoreOneSaber)));
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(UseOnlySeedSongs)));
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(IgnorePlayedDays)));
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(SuggestPlaylistCount)));

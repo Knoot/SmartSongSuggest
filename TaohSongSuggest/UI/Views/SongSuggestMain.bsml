@@ -136,7 +136,7 @@
     </vertical>
   </modal>
 
-  <modal id='modal' show-event='open-song-filters' hide-event='close-song-filters' clickerino-offerino-closerino="true" move-to-center="false" anchor-pos-y='28' size-delta-x='104' size-delta-y='108'>
+  <modal id='modal' show-event='open-song-filters' hide-event='close-song-filters' clickerino-offerino-closerino="true" move-to-center="false" anchor-pos-y='34' size-delta-x='104' size-delta-y='112'>
     <vertical preferred-width='94' vertical-fit='PreferredSize'>
       <horizontal child-control-height='true' child-expand-width='false'>
         <label text='Map Filters' font-size='4' align='Center' pref-width='76'/>
@@ -145,6 +145,7 @@
       <horizontal bg='panel-top' bg-color='white' size-delta-y='1' pref-height='0.5'></horizontal>
 
       <macro.as-host host='cfgInstance'>
+        <toggle-setting interactable='true' text='Ignore OneSaber' value='suggest-ignore-one-saber' apply-on-change='true' bind-value='true'/>
         <label text='BeatSaver' font-size='3' align='Center'/>
         <slider-setting interactable='true' text='NJS Min' show-buttons='true' value='suggest-min-njs' bind-value='true' apply-on-change='true' min='0' max='~song-filter-njs-max' increment='~song-filter-njs-increment' integer-only='false' formatter='song-filter-decimal-formatter'/>
         <slider-setting interactable='true' text='NJS Max' show-buttons='true' value='suggest-max-njs' bind-value='true' apply-on-change='true' min='0' max='~song-filter-njs-max' increment='~song-filter-njs-increment' integer-only='false' formatter='song-filter-decimal-formatter'/>
