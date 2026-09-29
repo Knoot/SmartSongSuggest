@@ -1867,7 +1867,7 @@
     "starAccBeatLeader": 3.9313411712646484,
     "starPassBeatLeader": 0.7981937527656555,
     "starTechBeatLeader": 1.0654125213623047,
-    "complexityAccSaber": 2.4,
+    "complexityAccSaber": 3.0,
     "complexityAutoBalancer": 3.58
   },
   {
@@ -5531,7 +5531,7 @@
     "nps": 3.765,
     "seconds": 97.742,
     "songCategory": 8,
-    "complexityAccSaber": 9.0
+    "complexityAccSaber": 11.0
   },
   {
     "name": "Who's Got Your Love",
@@ -9123,7 +9123,7 @@
     "nps": 2.22,
     "seconds": 213.943,
     "songCategory": 4,
-    "complexityAccSaber": 6.7
+    "complexityAccSaber": 7.2
   },
   {
     "name": "Icarus",
@@ -9433,7 +9433,7 @@
     "nps": 1.062,
     "seconds": 219.344,
     "songCategory": 2,
-    "complexityAccSaber": 3.9
+    "complexityAccSaber": 4.3
   },
   {
     "name": "Lone Digger",
@@ -9593,7 +9593,7 @@
     "nps": 2.189,
     "seconds": 195.536,
     "songCategory": 4,
-    "complexityAccSaber": 7.0
+    "complexityAccSaber": 8.3
   },
   {
     "name": "Temple Of Sound",
@@ -9740,7 +9740,7 @@
     "nps": 0.9,
     "seconds": 164.454,
     "songCategory": 2,
-    "complexityAccSaber": 3.1
+    "complexityAccSaber": 4.3
   },
   {
     "name": "Click Bait",
@@ -10271,7 +10271,7 @@
     "nps": 1.068,
     "seconds": 128.25,
     "songCategory": 2,
-    "complexityAccSaber": 2.7
+    "complexityAccSaber": 3.6
   },
   {
     "name": "176 - ikazuchi",
@@ -12127,7 +12127,7 @@
     "starAccBeatLeader": 5.0037970542907715,
     "starPassBeatLeader": 1.3798189163208008,
     "starTechBeatLeader": 1.4838756322860718,
-    "complexityAccSaber": 7.0,
+    "complexityAccSaber": 6.9,
     "complexityAutoBalancer": 4.83
   },
   {
@@ -13746,7 +13746,7 @@
     "nps": 3.335,
     "seconds": 166.992,
     "songCategory": 8,
-    "complexityAccSaber": 8.6
+    "complexityAccSaber": 10.4
   },
   {
     "name": "SUPER RISER!",
@@ -13760,7 +13760,7 @@
     "nps": 1.066,
     "seconds": 147.872,
     "songCategory": 2,
-    "complexityAccSaber": 3.4
+    "complexityAccSaber": 4.2
   },
   {
     "name": "You Are Mine",
@@ -13883,7 +13883,7 @@
     "nps": 1.029,
     "seconds": 163.242,
     "songCategory": 2,
-    "complexityAccSaber": 2.9
+    "complexityAccSaber": 4.7
   },
   {
     "name": "Keep It Up",
@@ -14056,7 +14056,7 @@
     "nps": 2.547,
     "seconds": 146.073,
     "songCategory": 4,
-    "complexityAccSaber": 6.7
+    "complexityAccSaber": 7.1
   },
   {
     "name": "PRAGMATISM",
@@ -14341,7 +14341,7 @@
     "starAccBeatLeader": 6.589178085327148,
     "starPassBeatLeader": 2.9965105056762695,
     "starTechBeatLeader": 2.8119373321533203,
-    "complexityAccSaber": 8.5,
+    "complexityAccSaber": 11.2,
     "complexityAutoBalancer": 5.11
   },
   {
@@ -14380,7 +14380,7 @@
     "starAccBeatLeader": 4.912521839141846,
     "starPassBeatLeader": 1.3572834730148315,
     "starTechBeatLeader": 1.551218867301941,
-    "complexityAccSaber": 6.7,
+    "complexityAccSaber": 8.1,
     "complexityAutoBalancer": 4.9
   },
   {
@@ -15256,7 +15256,7 @@
     "nps": 0.894,
     "seconds": 230.446,
     "songCategory": 2,
-    "complexityAccSaber": 3.9
+    "complexityAccSaber": 4.5
   },
   {
     "name": "Revenge",
@@ -16876,7 +16876,7 @@
     "nps": 0.884,
     "seconds": 180.938,
     "songCategory": 2,
-    "complexityAccSaber": 2.3
+    "complexityAccSaber": 2.2
   },
   {
     "name": "Dharma",
@@ -16890,7 +16890,7 @@
     "nps": 0.823,
     "seconds": 167.695,
     "songCategory": 2,
-    "complexityAccSaber": 3.9
+    "complexityAccSaber": 4.6
   },
   {
     "name": "GHOST",
@@ -17244,7 +17244,7 @@
     "starAccBeatLeader": 5.049427032470703,
     "starPassBeatLeader": 1.3720182180404663,
     "starTechBeatLeader": 1.2117230892181396,
-    "complexityAccSaber": 6.7,
+    "complexityAccSaber": 7.3,
     "complexityAutoBalancer": 4.75
   },
   {
@@ -17596,7 +17596,7 @@
     "nps": 1.269,
     "seconds": 174.13,
     "songCategory": 2,
-    "complexityAccSaber": 3.9
+    "complexityAccSaber": 4.7
   },
   {
     "name": "Battle Sirens",
@@ -17871,7 +17871,7 @@
     "nps": 0.731,
     "seconds": 220.165,
     "songCategory": 2,
-    "complexityAccSaber": 1.9
+    "complexityAccSaber": 2.4
   },
   {
     "name": "Who's Laughing Now",
@@ -18607,7 +18607,7 @@
     "starAccBeatLeader": 6.163714408874512,
     "starPassBeatLeader": 1.7434500455856323,
     "starTechBeatLeader": 2.8999783992767334,
-    "complexityAccSaber": 8.8,
+    "complexityAccSaber": 9.5,
     "complexityAutoBalancer": 5.01
   },
   {
@@ -19301,7 +19301,7 @@
     "nps": 4.12,
     "seconds": 234.462,
     "songCategory": 8,
-    "complexityAccSaber": 11.0
+    "complexityAccSaber": 12.1
   },
   {
     "name": "ENERGY SYNERGY MATRIX",
@@ -20740,7 +20740,7 @@
     "nps": 1.385,
     "seconds": 147.981,
     "songCategory": 2,
-    "complexityAccSaber": 4.8
+    "complexityAccSaber": 4.5
   },
   {
     "name": "Pandora",
@@ -20882,7 +20882,7 @@
     "nps": 2.779,
     "seconds": 176.686,
     "songCategory": 4,
-    "complexityAccSaber": 8.1
+    "complexityAccSaber": 8.7
   },
   {
     "name": "THE LAUNCH OF THE MEGANTO METEOR",
@@ -21275,7 +21275,7 @@
     "nps": 1.21,
     "seconds": 128.889,
     "songCategory": 2,
-    "complexityAccSaber": 5.5
+    "complexityAccSaber": 5.4
   },
   {
     "name": "Vettem a Piacon",
@@ -21934,7 +21934,7 @@
     "nps": 2.775,
     "seconds": 207.556,
     "songCategory": 8,
-    "complexityAccSaber": 8.1
+    "complexityAccSaber": 10.0
   },
   {
     "name": "Goodbye",
@@ -22089,7 +22089,7 @@
     "nps": 2.245,
     "seconds": 157.686,
     "songCategory": 4,
-    "complexityAccSaber": 5.6
+    "complexityAccSaber": 7.2
   },
   {
     "name": "Bergentruckung",
@@ -22547,7 +22547,7 @@
     "nps": 1.274,
     "seconds": 162.462,
     "songCategory": 2,
-    "complexityAccSaber": 4.0
+    "complexityAccSaber": 4.5
   },
   {
     "name": "XTREME",
@@ -23060,7 +23060,7 @@
     "starAccBeatLeader": 6.423686504364014,
     "starPassBeatLeader": 1.6320923566818237,
     "starTechBeatLeader": 2.324920892715454,
-    "complexityAccSaber": 8.7,
+    "complexityAccSaber": 9.7,
     "complexityAutoBalancer": 5.06
   },
   {
@@ -23643,7 +23643,7 @@
     "starAccBeatLeader": 5.944428443908691,
     "starPassBeatLeader": 2.4059133529663086,
     "starTechBeatLeader": 2.3357551097869873,
-    "complexityAccSaber": 9.3,
+    "complexityAccSaber": 9.2,
     "complexityAutoBalancer": 5.09
   },
   {
@@ -26085,7 +26085,7 @@
     "nps": 4.347,
     "seconds": 185.645,
     "songCategory": 4,
-    "complexityAccSaber": 8.5
+    "complexityAccSaber": 9.6
   },
   {
     "name": "I CAN'T STOP ME",
@@ -26663,7 +26663,7 @@
     "starAccBeatLeader": 6.1401848793029785,
     "starPassBeatLeader": 2.492502212524414,
     "starTechBeatLeader": 2.4013960361480713,
-    "complexityAccSaber": 8.2,
+    "complexityAccSaber": 10.3,
     "complexityAutoBalancer": 5.11
   },
   {
@@ -26825,7 +26825,7 @@
     "nps": 3.817,
     "seconds": 219.257,
     "songCategory": 4,
-    "complexityAccSaber": 7.6
+    "complexityAccSaber": 9.8
   },
   {
     "name": "Extra Credit on the Chromosome Test! VICTORY ROYALE!!!",
@@ -27128,7 +27128,7 @@
     "nps": 1.497,
     "seconds": 255.849,
     "songCategory": 2,
-    "complexityAccSaber": 4.9
+    "complexityAccSaber": 5.4
   },
   {
     "name": "Ultimate Ascension",
@@ -27294,7 +27294,7 @@
     "nps": 3.826,
     "seconds": 185.846,
     "songCategory": 8,
-    "complexityAccSaber": 9.5
+    "complexityAccSaber": 11.5
   },
   {
     "name": "Gas Mask",
@@ -27536,7 +27536,7 @@
     "nps": 3.207,
     "seconds": 163.409,
     "songCategory": 8,
-    "complexityAccSaber": 8.6
+    "complexityAccSaber": 9.4
   },
   {
     "name": "Final Boss",
@@ -27787,7 +27787,7 @@
     "difficulty": "5",
     "characteristic": "Standard",
     "songCategory": 1073741832,
-    "complexityAccSaber": 8.5
+    "complexityAccSaber": 10.8
   },
   {
     "name": "Kingslayer",
@@ -28939,7 +28939,7 @@
     "nps": 3.408,
     "seconds": 190.444,
     "songCategory": 4,
-    "complexityAccSaber": 8.3
+    "complexityAccSaber": 9.6
   },
   {
     "name": "Feelin Sky",
@@ -29081,7 +29081,7 @@
     "nps": 2.401,
     "seconds": 243.2,
     "songCategory": 8,
-    "complexityAccSaber": 9.5
+    "complexityAccSaber": 11.5
   },
   {
     "name": "Goodbye",
@@ -29298,7 +29298,7 @@
     "nps": 2.896,
     "seconds": 205.775,
     "songCategory": 8,
-    "complexityAccSaber": 8.5
+    "complexityAccSaber": 10.1
   },
   {
     "name": "I'LL SHOW YOU",
@@ -29572,7 +29572,7 @@
     "nps": 3.544,
     "seconds": 141.094,
     "songCategory": 8,
-    "complexityAccSaber": 11.2
+    "complexityAccSaber": 12.3
   },
   {
     "name": "REANIMATE",
@@ -30189,7 +30189,7 @@
     "nps": 1.223,
     "seconds": 214.286,
     "songCategory": 2,
-    "complexityAccSaber": 4.5
+    "complexityAccSaber": 5.2
   },
   {
     "name": "That's What I Like",
@@ -30203,7 +30203,7 @@
     "nps": 2.517,
     "seconds": 202.612,
     "songCategory": 4,
-    "complexityAccSaber": 7.9
+    "complexityAccSaber": 8.7
   },
   {
     "name": "24K Magic",
@@ -30217,7 +30217,7 @@
     "nps": 1.211,
     "seconds": 222.056,
     "songCategory": 2,
-    "complexityAccSaber": 4.0
+    "complexityAccSaber": 5.0
   },
   {
     "name": "Peanut Butter Jelly",
@@ -30231,7 +30231,7 @@
     "nps": 1.936,
     "seconds": 192.656,
     "songCategory": 4,
-    "complexityAccSaber": 7.2
+    "complexityAccSaber": 8.5
   },
   {
     "name": "Bang!",
@@ -30435,7 +30435,7 @@
     "nps": 3.39,
     "seconds": 223.304,
     "songCategory": 4,
-    "complexityAccSaber": 9.0
+    "complexityAccSaber": 9.1
   },
   {
     "name": "Autonomy",
@@ -30449,7 +30449,7 @@
     "nps": 4.317,
     "seconds": 223.304,
     "songCategory": 8,
-    "complexityAccSaber": 9.8
+    "complexityAccSaber": 11.0
   },
   {
     "name": "Heroes",
@@ -30463,7 +30463,7 @@
     "nps": 1.933,
     "seconds": 202.766,
     "songCategory": 4,
-    "complexityAccSaber": 7.0
+    "complexityAccSaber": 7.8
   },
   {
     "name": "Memento Mori",
@@ -30548,7 +30548,7 @@
     "nps": 1.087,
     "seconds": 182.069,
     "songCategory": 2,
-    "complexityAccSaber": 3.1
+    "complexityAccSaber": 4.7
   },
   {
     "name": "iNSaNiTY",
@@ -30922,7 +30922,7 @@
     "starAccBeatLeader": 5.526032447814941,
     "starPassBeatLeader": 1.5997368097305298,
     "starTechBeatLeader": 1.7128292322158813,
-    "complexityAccSaber": 7.4,
+    "complexityAccSaber": 8.7,
     "complexityAutoBalancer": 5.01
   },
   {
@@ -32121,7 +32121,7 @@
     "starAccBeatLeader": 5.730587482452393,
     "starPassBeatLeader": 1.9652916193008423,
     "starTechBeatLeader": 2.2335050106048584,
-    "complexityAccSaber": 8.5,
+    "complexityAccSaber": 9.5,
     "complexityAutoBalancer": 5.03
   },
   {
@@ -33050,7 +33050,7 @@
     "nps": 3.98,
     "seconds": 132.651,
     "songCategory": 8,
-    "complexityAccSaber": 9.5
+    "complexityAccSaber": 11.3
   },
   {
     "name": "KING",
@@ -33064,7 +33064,7 @@
     "nps": 1.228,
     "seconds": 128.675,
     "songCategory": 2,
-    "complexityAccSaber": 4.9
+    "complexityAccSaber": 5.1
   },
   {
     "name": "The Vampire",
@@ -33276,7 +33276,7 @@
     "nps": 3.566,
     "seconds": 184.8,
     "songCategory": 4,
-    "complexityAccSaber": 8.1
+    "complexityAccSaber": 8.8
   },
   {
     "name": "Feast Ov Goreglutton",
@@ -33385,7 +33385,7 @@
     "nps": 1.025,
     "seconds": 188.319,
     "songCategory": 2,
-    "complexityAccSaber": 3.9
+    "complexityAccSaber": 3.8
   },
   {
     "name": "QZKago Requiem",
@@ -33527,7 +33527,7 @@
     "nps": 2.708,
     "seconds": 217.53,
     "songCategory": 8,
-    "complexityAccSaber": 8.1
+    "complexityAccSaber": 10.0
   },
   {
     "name": "NOVAGROUND",
@@ -33854,7 +33854,7 @@
     "nps": 3.082,
     "seconds": 133.333,
     "songCategory": 4,
-    "complexityAccSaber": 7.6
+    "complexityAccSaber": 8.6
   },
   {
     "name": "Endless Adventure",
@@ -34077,7 +34077,7 @@
     "nps": 3.799,
     "seconds": 195.592,
     "songCategory": 8,
-    "complexityAccSaber": 9.3
+    "complexityAccSaber": 10.2
   },
   {
     "name": "Trombone",
@@ -34091,7 +34091,7 @@
     "nps": 3.33,
     "seconds": 163.968,
     "songCategory": 8,
-    "complexityAccSaber": 10.3
+    "complexityAccSaber": 10.6
   },
   {
     "name": "FLASHBACK",
@@ -34195,7 +34195,7 @@
     "nps": 3.537,
     "seconds": 204.984,
     "songCategory": 8,
-    "complexityAccSaber": 9.5
+    "complexityAccSaber": 10.9
   },
   {
     "name": "Heartbreak",
@@ -34209,7 +34209,7 @@
     "nps": 2.957,
     "seconds": 204.968,
     "songCategory": 4,
-    "complexityAccSaber": 8.5
+    "complexityAccSaber": 9.5
   },
   {
     "name": "Bailandorape",
@@ -35148,7 +35148,7 @@
     "nps": 4.029,
     "seconds": 180.186,
     "songCategory": 8,
-    "complexityAccSaber": 10.3
+    "complexityAccSaber": 11.7
   },
   {
     "name": "changes",
@@ -35807,7 +35807,7 @@
     "starAccBeatLeader": 5.916513442993164,
     "starPassBeatLeader": 2.082296848297119,
     "starTechBeatLeader": 1.6052675247192383,
-    "complexityAccSaber": 8.6,
+    "complexityAccSaber": 9.3,
     "complexityAutoBalancer": 4.99
   },
   {
@@ -35827,7 +35827,7 @@
     "starAccBeatLeader": 5.376171112060547,
     "starPassBeatLeader": 2.0750999450683594,
     "starTechBeatLeader": 1.7358732223510742,
-    "complexityAccSaber": 8.1,
+    "complexityAccSaber": 9.0,
     "complexityAutoBalancer": 5.0
   },
   {
@@ -36013,7 +36013,7 @@
     "nps": 1.515,
     "seconds": 193.398,
     "songCategory": 2,
-    "complexityAccSaber": 4.9
+    "complexityAccSaber": 4.7
   },
   {
     "name": "Matasaburo",
@@ -36027,7 +36027,7 @@
     "nps": 3.925,
     "seconds": 226.219,
     "songCategory": 8,
-    "complexityAccSaber": 9.5
+    "complexityAccSaber": 10.5
   },
   {
     "name": "Get Get Down",
@@ -36231,7 +36231,7 @@
     "nps": 0.706,
     "seconds": 230.813,
     "songCategory": 2,
-    "complexityAccSaber": 3.3
+    "complexityAccSaber": 3.9
   },
   {
     "name": "astrid",
@@ -36269,7 +36269,7 @@
     "starAccBeatLeader": 6.164037227630615,
     "starPassBeatLeader": 2.0283608436584473,
     "starTechBeatLeader": 1.6486815214157104,
-    "complexityAccSaber": 9.0,
+    "complexityAccSaber": 10.1,
     "complexityAutoBalancer": 5.06
   },
   {
@@ -36322,7 +36322,7 @@
     "nps": 1.347,
     "seconds": 164.84,
     "songCategory": 4,
-    "complexityAccSaber": 6.3
+    "complexityAccSaber": 7.2
   },
   {
     "name": "Paranoia",
@@ -36350,7 +36350,7 @@
     "nps": 1.285,
     "seconds": 171.142,
     "songCategory": 2,
-    "complexityAccSaber": 3.9
+    "complexityAccSaber": 4.3
   },
   {
     "name": "Paranoia",
@@ -36420,7 +36420,7 @@
     "nps": 1.547,
     "seconds": 183.587,
     "songCategory": 2,
-    "complexityAccSaber": 4.4
+    "complexityAccSaber": 4.5
   },
   {
     "name": "Felis",
@@ -36491,7 +36491,7 @@
     "nps": 4.301,
     "seconds": 278.78,
     "songCategory": 8,
-    "complexityAccSaber": 10.7
+    "complexityAccSaber": 11.9
   },
   {
     "name": "Felis",
@@ -36524,7 +36524,7 @@
     "nps": 2.398,
     "seconds": 238.08,
     "songCategory": 4,
-    "complexityAccSaber": 7.2
+    "complexityAccSaber": 8.5
   },
   {
     "name": "Felis",
@@ -36728,7 +36728,7 @@
     "nps": 3.793,
     "seconds": 200.357,
     "songCategory": 8,
-    "complexityAccSaber": 10.2
+    "complexityAccSaber": 11.5
   },
   {
     "name": "Bad",
@@ -36742,7 +36742,7 @@
     "nps": 3.165,
     "seconds": 191.15,
     "songCategory": 8,
-    "complexityAccSaber": 9.0
+    "complexityAccSaber": 10.2
   },
   {
     "name": "Cut Your Teeth",
@@ -36770,7 +36770,7 @@
     "nps": 1.218,
     "seconds": 174.878,
     "songCategory": 2,
-    "complexityAccSaber": 3.3
+    "complexityAccSaber": 3.7
   },
   {
     "name": "Farewell",
@@ -37272,7 +37272,7 @@
     "nps": 2.034,
     "seconds": 190.286,
     "songCategory": 4,
-    "complexityAccSaber": 6.7
+    "complexityAccSaber": 7.4
   },
   {
     "name": "simulation",
@@ -37302,7 +37302,7 @@
     "starAccBeatLeader": 6.432361602783203,
     "starPassBeatLeader": 2.629673719406128,
     "starTechBeatLeader": 2.085568428039551,
-    "complexityAccSaber": 9.0,
+    "complexityAccSaber": 10.7,
     "complexityAutoBalancer": 5.11
   },
   {
@@ -37577,7 +37577,7 @@
     "starAccBeatLeader": 6.203250408172607,
     "starPassBeatLeader": 2.3047966957092285,
     "starTechBeatLeader": 1.7333165407180786,
-    "complexityAccSaber": 9.6,
+    "complexityAccSaber": 9.9,
     "complexityAutoBalancer": 5.09
   },
   {
@@ -37858,7 +37858,7 @@
     "nps": 1.509,
     "seconds": 228.692,
     "songCategory": 2,
-    "complexityAccSaber": 4.9
+    "complexityAccSaber": 4.1
   },
   {
     "name": "Kodokushi",
@@ -38246,7 +38246,7 @@
     "nps": 4.547,
     "seconds": 130.401,
     "songCategory": 8,
-    "complexityAccSaber": 10.3
+    "complexityAccSaber": 11.3
   },
   {
     "name": "EYE",
@@ -38260,7 +38260,7 @@
     "nps": 2.879,
     "seconds": 129.197,
     "songCategory": 8,
-    "complexityAccSaber": 7.9
+    "complexityAccSaber": 9.1
   },
   {
     "name": "Carmina",
@@ -38293,7 +38293,7 @@
     "nps": 1.233,
     "seconds": 175.244,
     "songCategory": 2,
-    "complexityAccSaber": 3.9
+    "complexityAccSaber": 4.6
   },
   {
     "name": "Fly Again [NCS Release]",
@@ -38307,7 +38307,7 @@
     "nps": 3.315,
     "seconds": 184.012,
     "songCategory": 4,
-    "complexityAccSaber": 8.1
+    "complexityAccSaber": 8.9
   },
   {
     "name": "Venomous Firefly",
@@ -38435,7 +38435,7 @@
     "nps": 1.102,
     "seconds": 134.294,
     "songCategory": 2,
-    "complexityAccSaber": 4.9
+    "complexityAccSaber": 4.4
   },
   {
     "name": "EYE",
@@ -38449,7 +38449,7 @@
     "nps": 1.336,
     "seconds": 128.759,
     "songCategory": 2,
-    "complexityAccSaber": 5.2
+    "complexityAccSaber": 5.3
   },
   {
     "name": "Megalovania",
@@ -38553,7 +38553,7 @@
     "nps": 4.152,
     "seconds": 242.039,
     "songCategory": 8,
-    "complexityAccSaber": 11.5
+    "complexityAccSaber": 12.8
   },
   {
     "name": "Additional Memory",
@@ -38667,7 +38667,7 @@
     "starAccBeatLeader": 6.463901519775391,
     "starPassBeatLeader": 2.152754783630371,
     "starTechBeatLeader": 1.7459396123886108,
-    "complexityAccSaber": 9.0,
+    "complexityAccSaber": 10.3,
     "complexityAutoBalancer": 5.06
   },
   {
@@ -39512,7 +39512,7 @@
     "nps": 1.12,
     "seconds": 171.5,
     "songCategory": 2,
-    "complexityAccSaber": 2.7
+    "complexityAccSaber": 2.9
   },
   {
     "name": "Scare Me",
@@ -39626,7 +39626,7 @@
     "starAccBeatLeader": 6.440241813659668,
     "starPassBeatLeader": 2.8118488788604736,
     "starTechBeatLeader": 2.119189739227295,
-    "complexityAccSaber": 9.5,
+    "complexityAccSaber": 11.1,
     "complexityAutoBalancer": 5.02
   },
   {
@@ -39660,7 +39660,7 @@
     "nps": 2.957,
     "seconds": 166.4,
     "songCategory": 4,
-    "complexityAccSaber": 7.6
+    "complexityAccSaber": 8.9
   },
   {
     "name": "You'll Be Gone",
@@ -39769,7 +39769,7 @@
     "nps": 1.399,
     "seconds": 151.519,
     "songCategory": 2,
-    "complexityAccSaber": 4.4
+    "complexityAccSaber": 4.8
   },
   {
     "name": "Goodbye Declaration",
@@ -39783,7 +39783,7 @@
     "nps": 1.275,
     "seconds": 169.412,
     "songCategory": 2,
-    "complexityAccSaber": 4.9
+    "complexityAccSaber": 5.4
   },
   {
     "name": "Crisis",
@@ -39987,7 +39987,7 @@
     "nps": 3.058,
     "seconds": 133.761,
     "songCategory": 8,
-    "complexityAccSaber": 7.2
+    "complexityAccSaber": 8.4
   },
   {
     "name": "Toilet",
@@ -40210,7 +40210,7 @@
     "starAccBeatLeader": 5.041433811187744,
     "starPassBeatLeader": 1.7231597900390625,
     "starTechBeatLeader": 1.1349376440048218,
-    "complexityAccSaber": 6.7,
+    "complexityAccSaber": 7.4,
     "complexityAutoBalancer": 4.92
   },
   {
@@ -40510,7 +40510,7 @@
     "nps": 1.019,
     "seconds": 139.39,
     "songCategory": 2,
-    "complexityAccSaber": 3.4
+    "complexityAccSaber": 4.6
   },
   {
     "name": "what was the last thing u said",
@@ -40657,7 +40657,7 @@
     "nps": 2.799,
     "seconds": 135.762,
     "songCategory": 4,
-    "complexityAccSaber": 7.0
+    "complexityAccSaber": 7.8
   },
   {
     "name": "Digital World",
@@ -40714,7 +40714,7 @@
     "starAccBeatLeader": 6.241526126861572,
     "starPassBeatLeader": 1.8362433910369873,
     "starTechBeatLeader": 1.9352203607559204,
-    "complexityAccSaber": 9.4,
+    "complexityAccSaber": 10.9,
     "complexityAutoBalancer": 5.03
   },
   {
@@ -41076,7 +41076,7 @@
     "starAccBeatLeader": 6.197937488555908,
     "starPassBeatLeader": 2.3526415824890137,
     "starTechBeatLeader": 2.460036277770996,
-    "complexityAccSaber": 10.4,
+    "complexityAccSaber": 10.5,
     "complexityAutoBalancer": 5.14
   },
   {
@@ -41389,7 +41389,7 @@
     "nps": 1.883,
     "seconds": 149.231,
     "songCategory": 4,
-    "complexityAccSaber": 5.2
+    "complexityAccSaber": 5.8
   },
   {
     "name": "poison",
@@ -41403,7 +41403,7 @@
     "nps": 3.295,
     "seconds": 120.188,
     "songCategory": 8,
-    "complexityAccSaber": 10.7
+    "complexityAccSaber": 11.7
   },
   {
     "name": "Our Generation",
@@ -41707,7 +41707,7 @@
     "starAccBeatLeader": 5.656914234161377,
     "starPassBeatLeader": 2.96537184715271,
     "starTechBeatLeader": 1.943404197692871,
-    "complexityAccSaber": 8.0,
+    "complexityAccSaber": 8.5,
     "complexityAutoBalancer": 5.03
   },
   {
@@ -42270,7 +42270,7 @@
     "starAccBeatLeader": 6.297158718109131,
     "starPassBeatLeader": 2.3383734226226807,
     "starTechBeatLeader": 2.251194477081299,
-    "complexityAccSaber": 9.8,
+    "complexityAccSaber": 10.6,
     "complexityAutoBalancer": 5.4
   },
   {
@@ -42701,7 +42701,7 @@
     "nps": 3.716,
     "seconds": 178.416,
     "songCategory": 8,
-    "complexityAccSaber": 9.7
+    "complexityAccSaber": 11.0
   },
   {
     "name": "Tenohira De Odoru",
@@ -43245,7 +43245,7 @@
     "nps": 3.84,
     "seconds": 95.308,
     "songCategory": 8,
-    "complexityAccSaber": 9.2
+    "complexityAccSaber": 10.1
   },
   {
     "name": "Metal Bat",
@@ -43453,7 +43453,7 @@
     "starAccBeatLeader": 4.832961082458496,
     "starPassBeatLeader": 0.909048855304718,
     "starTechBeatLeader": 0.8234319090843201,
-    "complexityAccSaber": 5.95,
+    "complexityAccSaber": 6.7,
     "complexityAutoBalancer": 4.55
   },
   {
@@ -43843,7 +43843,7 @@
     "starAccBeatLeader": 6.965946674346924,
     "starPassBeatLeader": 2.7887628078460693,
     "starTechBeatLeader": 3.276038408279419,
-    "complexityAccSaber": 11.1,
+    "complexityAccSaber": 11.9,
     "complexityAutoBalancer": 5.1
   },
   {
@@ -44067,7 +44067,7 @@
     "nps": 3.372,
     "seconds": 201.081,
     "songCategory": 8,
-    "complexityAccSaber": 9.86
+    "complexityAccSaber": 10.8
   },
   {
     "name": "Empty Bed",
@@ -44124,7 +44124,7 @@
     "starAccBeatLeader": 6.192690372467041,
     "starPassBeatLeader": 2.351783275604248,
     "starTechBeatLeader": 3.112196207046509,
-    "complexityAccSaber": 10.3,
+    "complexityAccSaber": 10.8,
     "complexityAutoBalancer": 5.13
   },
   {
@@ -44209,7 +44209,7 @@
     "nps": 1.948,
     "seconds": 188.903,
     "songCategory": 4,
-    "complexityAccSaber": 7.2
+    "complexityAccSaber": 8.4
   },
   {
     "name": "Step!",
@@ -44626,7 +44626,7 @@
     "nps": 0.729,
     "seconds": 204.444,
     "songCategory": 2,
-    "complexityAccSaber": 1.7
+    "complexityAccSaber": 2.8
   },
   {
     "name": "werewolf howls.",
@@ -44725,7 +44725,7 @@
     "difficulty": "5",
     "characteristic": "Standard",
     "songCategory": 4,
-    "complexityAccSaber": 8.1
+    "complexityAccSaber": 9.0
   },
   {
     "name": "Funk Assembly",
@@ -45922,7 +45922,7 @@
     "starAccBeatLeader": 4.093925952911377,
     "starPassBeatLeader": 0.34480565786361694,
     "starTechBeatLeader": 0.4603852331638336,
-    "complexityAccSaber": 4.9,
+    "complexityAccSaber": 5.0,
     "complexityAutoBalancer": 4.04
   },
   {
@@ -45961,7 +45961,7 @@
     "starAccBeatLeader": 5.518435478210449,
     "starPassBeatLeader": 1.8204618692398071,
     "starTechBeatLeader": 2.213200330734253,
-    "complexityAccSaber": 9.1,
+    "complexityAccSaber": 9.7,
     "complexityAutoBalancer": 5.0
   },
   {
@@ -46209,7 +46209,7 @@
     "starAccBeatLeader": 5.413835525512695,
     "starPassBeatLeader": 2.316345453262329,
     "starTechBeatLeader": 1.5573804378509521,
-    "complexityAccSaber": 7.950443393,
+    "complexityAccSaber": 8.6,
     "complexityAutoBalancer": 5.08
   },
   {
@@ -46551,7 +46551,7 @@
     "starAccBeatLeader": 5.731395721435547,
     "starPassBeatLeader": 2.0472066402435303,
     "starTechBeatLeader": 2.606341600418091,
-    "complexityAccSaber": 9.0,
+    "complexityAccSaber": 10.2,
     "complexityAutoBalancer": 5.09
   },
   {
@@ -46808,7 +46808,7 @@
     "nps": 3.42,
     "seconds": 168.713,
     "songCategory": 8,
-    "complexityAccSaber": 10.7
+    "complexityAccSaber": 12.1
   },
   {
     "name": "Meikaruza",
@@ -48135,7 +48135,7 @@
     "starAccBeatLeader": 6.478180885314941,
     "starPassBeatLeader": 2.2151410579681396,
     "starTechBeatLeader": 2.2269740104675293,
-    "complexityAccSaber": 8.3,
+    "complexityAccSaber": 10.3,
     "complexityAutoBalancer": 5.03
   },
   {
@@ -48491,7 +48491,7 @@
     "starAccBeatLeader": 5.942628860473633,
     "starPassBeatLeader": 1.606237530708313,
     "starTechBeatLeader": 1.5431691408157349,
-    "complexityAccSaber": 9.0,
+    "complexityAccSaber": 9.3,
     "complexityAutoBalancer": 5.05
   },
   {
@@ -48748,7 +48748,7 @@
     "nps": 4.003,
     "seconds": 237.313,
     "songCategory": 8,
-    "complexityAccSaber": 11.0
+    "complexityAccSaber": 12.0
   },
   {
     "name": "We Move Together as One",
@@ -49697,7 +49697,7 @@
     "nps": 3.429,
     "seconds": 162.154,
     "songCategory": 4,
-    "complexityAccSaber": 9.6
+    "complexityAccSaber": 10.0
   },
   {
     "name": "HELLOHELL",
@@ -49767,7 +49767,7 @@
     "nps": 0.976,
     "seconds": 183.353,
     "songCategory": 2,
-    "complexityAccSaber": 3.8
+    "complexityAccSaber": 4.2
   },
   {
     "name": "Nothing for Free",
@@ -49781,7 +49781,7 @@
     "nps": 1.339,
     "seconds": 174.0,
     "songCategory": 2,
-    "complexityAccSaber": 4.5
+    "complexityAccSaber": 4.1
   },
   {
     "name": "Clip it Bro",
@@ -49795,7 +49795,7 @@
     "nps": 3.845,
     "seconds": 240.3,
     "songCategory": 8,
-    "complexityAccSaber": 10.6
+    "complexityAccSaber": 11.0
   },
   {
     "name": "My War",
@@ -50372,7 +50372,7 @@
     "difficulty": "1",
     "characteristic": "Standard",
     "songCategory": 1073741826,
-    "complexityAccSaber": 4.3
+    "complexityAccSaber": 4.7
   },
   {
     "name": "The Blood Moon Strikes Again (tsukimishi-hen)",
@@ -50876,7 +50876,7 @@
     "nps": 3.601,
     "seconds": 177.159,
     "songCategory": 4,
-    "complexityAccSaber": 8.9
+    "complexityAccSaber": 10.1
   },
   {
     "name": "Database",
@@ -50890,7 +50890,7 @@
     "nps": 4.517,
     "seconds": 222.034,
     "songCategory": 8,
-    "complexityAccSaber": 10.3
+    "complexityAccSaber": 10.2
   },
   {
     "name": "Dans la mer de son",
@@ -51222,7 +51222,7 @@
     "seconds": 207.429,
     "songCategory": 37,
     "starScoreSaber": 4.670000076293945,
-    "complexityAccSaber": 7.74,
+    "complexityAccSaber": 8.7,
     "complexityAutoBalancer": 5.05
   },
   {
@@ -52745,7 +52745,7 @@
     "starAccBeatLeader": 6.18630838394165,
     "starPassBeatLeader": 1.6872496604919434,
     "starTechBeatLeader": 2.241394281387329,
-    "complexityAccSaber": 9.9,
+    "complexityAccSaber": 10.2,
     "complexityAutoBalancer": 5.21
   },
   {
@@ -52999,7 +52999,7 @@
     "nps": 3.218,
     "seconds": 207.301,
     "songCategory": 4,
-    "complexityAccSaber": 7.950575227
+    "complexityAccSaber": 8.3
   },
   {
     "name": "Enhancer (Lights in the air)",
@@ -53172,7 +53172,7 @@
     "starAccBeatLeader": 6.303597927093506,
     "starPassBeatLeader": 2.0783913135528564,
     "starTechBeatLeader": 2.3691234588623047,
-    "complexityAccSaber": 9.90659478,
+    "complexityAccSaber": 10.6,
     "complexityAutoBalancer": 5.34
   },
   {
@@ -53187,7 +53187,7 @@
     "nps": 3.352,
     "seconds": 167.369,
     "songCategory": 8,
-    "complexityAccSaber": 7.9
+    "complexityAccSaber": 8.3
   },
   {
     "name": "Tell Me You Know",
@@ -53197,7 +53197,7 @@
     "difficulty": "5",
     "characteristic": "Standard",
     "songCategory": 1073741828,
-    "complexityAccSaber": 5.72
+    "complexityAccSaber": 6.6
   },
   {
     "name": "Parasite",
@@ -53530,7 +53530,7 @@
     "nps": 3.369,
     "seconds": 190.58,
     "songCategory": 8,
-    "complexityAccSaber": 11.7632478
+    "complexityAccSaber": 12.5
   },
   {
     "name": "Awe",
@@ -53837,7 +53837,7 @@
     "starAccBeatLeader": 6.174871921539307,
     "starPassBeatLeader": 2.4080066680908203,
     "starTechBeatLeader": 1.823086142539978,
-    "complexityAccSaber": 9.4,
+    "complexityAccSaber": 10.1,
     "complexityAutoBalancer": 5.06
   },
   {
@@ -53922,7 +53922,7 @@
     "nps": 3.024,
     "seconds": 182.87,
     "songCategory": 8,
-    "complexityAccSaber": 11.93
+    "complexityAccSaber": 12.5
   },
   {
     "name": "Blow Me Away",
@@ -53954,7 +53954,7 @@
     "starAccBeatLeader": 7.1994194984436035,
     "starPassBeatLeader": 2.5053977966308594,
     "starTechBeatLeader": 2.379091501235962,
-    "complexityAccSaber": 11.3,
+    "complexityAccSaber": 11.9,
     "complexityAutoBalancer": 5.83
   },
   {
@@ -54036,7 +54036,7 @@
     "seconds": 184.941,
     "songCategory": 41,
     "starScoreSaber": 4.309999942779541,
-    "complexityAccSaber": 10.05285659,
+    "complexityAccSaber": 10.6,
     "complexityAutoBalancer": 5.08
   },
   {
@@ -54839,7 +54839,7 @@
     "nps": 3.67,
     "seconds": 186.367,
     "songCategory": 4,
-    "complexityAccSaber": 7.79
+    "complexityAccSaber": 7.9
   },
   {
     "name": "Another Xronixle",
@@ -55906,7 +55906,7 @@
     "nps": 3.937,
     "seconds": 152.162,
     "songCategory": 8,
-    "complexityAccSaber": 10.79
+    "complexityAccSaber": 11.3
   },
   {
     "name": "Ludicrous Speed",
@@ -55981,7 +55981,7 @@
     "nps": 3.72,
     "seconds": 152.432,
     "songCategory": 4,
-    "complexityAccSaber": 7.23
+    "complexityAccSaber": 7.5
   },
   {
     "name": "Energy Drink",
@@ -56018,7 +56018,7 @@
     "starAccBeatLeader": 3.5706446170806885,
     "starPassBeatLeader": 0.14390046894550323,
     "starTechBeatLeader": 0.12302696704864502,
-    "complexityAccSaber": 4.052561944,
+    "complexityAccSaber": 4.1,
     "complexityAutoBalancer": 3.89
   },
   {
@@ -56160,7 +56160,7 @@
     "starAccBeatLeader": 3.9836108684539795,
     "starPassBeatLeader": 0.9771586060523987,
     "starTechBeatLeader": 0.7748497724533081,
-    "complexityAccSaber": 5.079383605,
+    "complexityAccSaber": 5.3,
     "complexityAutoBalancer": 4.3
   },
   {
@@ -56179,7 +56179,7 @@
     "starAccBeatLeader": 3.7721614837646484,
     "starPassBeatLeader": 0.23913387954235077,
     "starTechBeatLeader": 0.4029340147972107,
-    "complexityAccSaber": 2.0,
+    "complexityAccSaber": 1.9,
     "complexityAutoBalancer": 3.68
   },
   {
@@ -56579,7 +56579,7 @@
     "nps": 2.944,
     "seconds": 196.0,
     "songCategory": 8,
-    "complexityAccSaber": 8.84
+    "complexityAccSaber": 9.1
   },
   {
     "name": "Iro o Ushinatta Machi",
@@ -56862,7 +56862,7 @@
     "starAccBeatLeader": 4.982776641845703,
     "starPassBeatLeader": 2.0453271865844727,
     "starTechBeatLeader": 1.5410178899765015,
-    "complexityAccSaber": 7.229777021,
+    "complexityAccSaber": 7.8,
     "complexityAutoBalancer": 5.01
   },
   {
@@ -57099,7 +57099,7 @@
     "starAccBeatLeader": 5.2932939529418945,
     "starPassBeatLeader": 2.4396557807922363,
     "starTechBeatLeader": 1.7824891805648804,
-    "complexityAccSaber": 7.799053821,
+    "complexityAccSaber": 8.2,
     "complexityAutoBalancer": 5.14
   },
   {
@@ -57199,7 +57199,7 @@
     "nps": 1.029,
     "seconds": 181.75,
     "songCategory": 2,
-    "complexityAccSaber": 3.14
+    "complexityAccSaber": 3.6
   },
   {
     "name": "Monster",
@@ -57213,7 +57213,7 @@
     "nps": 2.464,
     "seconds": 200.471,
     "songCategory": 8,
-    "complexityAccSaber": 8.34
+    "complexityAccSaber": 8.9
   },
   {
     "name": "Downfall",
@@ -57349,7 +57349,7 @@
     "nps": 3.146,
     "seconds": 134.118,
     "songCategory": 4,
-    "complexityAccSaber": 6.10219122
+    "complexityAccSaber": 5.9
   },
   {
     "name": "MIRROR",
@@ -57491,7 +57491,7 @@
     "seconds": 173.609,
     "songCategory": 37,
     "starScoreSaber": 4.309999942779541,
-    "complexityAccSaber": 7.280097442,
+    "complexityAccSaber": 8.0,
     "complexityAutoBalancer": 4.9
   },
   {
@@ -57811,7 +57811,7 @@
     "starAccBeatLeader": 4.803248882293701,
     "starPassBeatLeader": 1.5006468296051025,
     "starTechBeatLeader": 1.306640386581421,
-    "complexityAccSaber": 7.28,
+    "complexityAccSaber": 7.7,
     "complexityAutoBalancer": 4.84
   },
   {
@@ -58056,7 +58056,7 @@
     "seconds": 148.645,
     "songCategory": 41,
     "starScoreSaber": 4.539999961853027,
-    "complexityAccSaber": 9.072578823,
+    "complexityAccSaber": 9.8,
     "complexityAutoBalancer": 5.05
   },
   {
@@ -58099,7 +58099,7 @@
     "nps": 3.012,
     "seconds": 132.823,
     "songCategory": 8,
-    "complexityAccSaber": 9.4
+    "complexityAccSaber": 10.5
   },
   {
     "name": "No Time To Explain",
@@ -58211,7 +58211,7 @@
     "nps": 3.444,
     "seconds": 187.586,
     "songCategory": 8,
-    "complexityAccSaber": 9.88
+    "complexityAccSaber": 10.5
   },
   {
     "name": "Decoy",
@@ -58362,7 +58362,7 @@
     "nps": 2.992,
     "seconds": 182.483,
     "songCategory": 8,
-    "complexityAccSaber": 8.814177026
+    "complexityAccSaber": 9.2
   },
   {
     "name": "One More",
@@ -58405,7 +58405,7 @@
     "seconds": 191.25,
     "songCategory": 41,
     "starScoreSaber": 4.659999847412109,
-    "complexityAccSaber": 9.27,
+    "complexityAccSaber": 10.2,
     "complexityAutoBalancer": 5.16
   },
   {
@@ -58542,7 +58542,7 @@
     "nps": 2.28,
     "seconds": 186.0,
     "songCategory": 4,
-    "complexityAccSaber": 5.48
+    "complexityAccSaber": 5.7
   },
   {
     "name": "Mental Chainsaw",
@@ -58781,7 +58781,7 @@
     "seconds": 230.11,
     "songCategory": 37,
     "starScoreSaber": 4.019999980926514,
-    "complexityAccSaber": 6.7,
+    "complexityAccSaber": 7.2,
     "complexityAutoBalancer": 4.66
   },
   {
@@ -58824,7 +58824,7 @@
     "nps": 3.026,
     "seconds": 160.952,
     "songCategory": 4,
-    "complexityAccSaber": 7.4
+    "complexityAccSaber": 8.0
   },
   {
     "name": "Scuffed Up Age",
@@ -58876,7 +58876,7 @@
     "nps": 3.002,
     "seconds": 127.586,
     "songCategory": 4,
-    "complexityAccSaber": 8.05
+    "complexityAccSaber": 8.7
   },
   {
     "name": "Rip It Off (Now) Rip It Off",
@@ -58923,7 +58923,7 @@
     "nps": 0.835,
     "seconds": 154.483,
     "songCategory": 2,
-    "complexityAccSaber": 1.148463164
+    "complexityAccSaber": 1.0
   },
   {
     "name": "200cc",
@@ -59018,7 +59018,7 @@
     "starAccBeatLeader": 4.3095383644104,
     "starPassBeatLeader": 1.435435175895691,
     "starTechBeatLeader": 1.1736730337142944,
-    "complexityAccSaber": 5.78,
+    "complexityAccSaber": 6.1,
     "complexityAutoBalancer": 4.56
   },
   {
@@ -59033,7 +59033,7 @@
     "nps": 1.211,
     "seconds": 185.806,
     "songCategory": 2,
-    "complexityAccSaber": 4.273608138
+    "complexityAccSaber": 4.2
   },
   {
     "name": "mr. sunshine",
@@ -59047,7 +59047,7 @@
     "nps": 3.924,
     "seconds": 168.692,
     "songCategory": 8,
-    "complexityAccSaber": 9.7
+    "complexityAccSaber": 10.2
   },
   {
     "name": "RTX 20000",
@@ -59884,7 +59884,7 @@
     "seconds": 172.0,
     "songCategory": 37,
     "starScoreSaber": 4.059999942779541,
-    "complexityAccSaber": 6.925054065,
+    "complexityAccSaber": 7.7,
     "complexityAutoBalancer": 4.91
   },
   {
@@ -59899,7 +59899,7 @@
     "nps": 0.744,
     "seconds": 159.844,
     "songCategory": 2,
-    "complexityAccSaber": 0.65
+    "complexityAccSaber": 0.4
   },
   {
     "name": "Gourmet Race",
@@ -59913,7 +59913,7 @@
     "nps": 0.797,
     "seconds": 191.91,
     "songCategory": 2,
-    "complexityAccSaber": 0.3
+    "complexityAccSaber": 0.1
   },
   {
     "name": "RTX 20000",
@@ -60508,7 +60508,7 @@
     "nps": 2.981,
     "seconds": 227.81,
     "songCategory": 4,
-    "complexityAccSaber": 8.1
+    "complexityAccSaber": 8.6
   },
   {
     "name": "Forget the Real World",
@@ -60522,7 +60522,7 @@
     "nps": 2.321,
     "seconds": 222.316,
     "songCategory": 4,
-    "complexityAccSaber": 7.49
+    "complexityAccSaber": 8.4
   },
   {
     "name": "Nyahaha ^~",
@@ -60578,7 +60578,7 @@
     "nps": 3.178,
     "seconds": 177.797,
     "songCategory": 8,
-    "complexityAccSaber": 12.51
+    "complexityAccSaber": 11.5
   },
   {
     "name": "When I use it",
@@ -60995,7 +60995,7 @@
     "seconds": 169.191,
     "songCategory": 41,
     "starScoreSaber": 4.389999866485596,
-    "complexityAccSaber": 9.05,
+    "complexityAccSaber": 10.0,
     "complexityAutoBalancer": 5.07
   },
   {
@@ -61178,7 +61178,7 @@
     "nps": 3.9,
     "seconds": 165.913,
     "songCategory": 8,
-    "complexityAccSaber": 11.86
+    "complexityAccSaber": 12.0
   },
   {
     "name": "Brooklyn",
@@ -61192,7 +61192,7 @@
     "nps": 2.951,
     "seconds": 175.887,
     "songCategory": 4,
-    "complexityAccSaber": 6.93
+    "complexityAccSaber": 7.3
   },
   {
     "name": "Aegleseeker",
@@ -61376,7 +61376,7 @@
     "seconds": 190.147,
     "songCategory": 41,
     "starScoreSaber": 4.260000228881836,
-    "complexityAccSaber": 8.29,
+    "complexityAccSaber": 9.3,
     "complexityAutoBalancer": 5.03
   },
   {
@@ -61405,7 +61405,7 @@
     "nps": 2.842,
     "seconds": 165.0,
     "songCategory": 4,
-    "complexityAccSaber": 6.96
+    "complexityAccSaber": 7.4
   },
   {
     "name": "All We Know",
@@ -61419,7 +61419,7 @@
     "nps": 3.684,
     "seconds": 181.333,
     "songCategory": 8,
-    "complexityAccSaber": 8.92
+    "complexityAccSaber": 9.5
   },
   {
     "name": "My R",
@@ -61433,7 +61433,7 @@
     "nps": 3.881,
     "seconds": 210.0,
     "songCategory": 8,
-    "complexityAccSaber": 11.4
+    "complexityAccSaber": 12.1
   },
   {
     "name": "Everything Black",
@@ -61583,7 +61583,7 @@
     "difficulty": "3",
     "characteristic": "Standard",
     "songCategory": 1073741828,
-    "complexityAccSaber": 5.54
+    "complexityAccSaber": 6.0
   },
   {
     "name": "FINAL BLENDERMAN APPEARED.",
@@ -61625,7 +61625,7 @@
     "nps": 2.109,
     "seconds": 157.44,
     "songCategory": 4,
-    "complexityAccSaber": 6.2
+    "complexityAccSaber": 6.3
   },
   {
     "name": "blind",
@@ -61639,7 +61639,7 @@
     "nps": 1.221,
     "seconds": 140.0,
     "songCategory": 2,
-    "complexityAccSaber": 3.8
+    "complexityAccSaber": 3.9
   },
   {
     "name": "Levels",
@@ -61653,7 +61653,7 @@
     "nps": 1.638,
     "seconds": 190.476,
     "songCategory": 4,
-    "complexityAccSaber": 6.7
+    "complexityAccSaber": 7.2
   },
   {
     "name": "Voices From Heaven",
@@ -61948,7 +61948,7 @@
     "nps": 3.353,
     "seconds": 184.32,
     "songCategory": 4,
-    "complexityAccSaber": 7.92
+    "complexityAccSaber": 8.2
   },
   {
     "name": "Bass Weapon: LAZERFLAME",
@@ -62088,7 +62088,7 @@
     "nps": 3.148,
     "seconds": 194.386,
     "songCategory": 4,
-    "complexityAccSaber": 7.67
+    "complexityAccSaber": 8.4
   },
   {
     "name": "Hyper Bass",
@@ -63077,7 +63077,7 @@
     "nps": 3.339,
     "seconds": 215.657,
     "songCategory": 4,
-    "complexityAccSaber": 7.8
+    "complexityAccSaber": 8.3
   },
   {
     "name": "Qrestfall",
@@ -63523,7 +63523,7 @@
     "nps": 2.305,
     "seconds": 152.679,
     "songCategory": 4,
-    "complexityAccSaber": 7.05
+    "complexityAccSaber": 7.5
   },
   {
     "name": "VANDALIZED AI",
@@ -63608,7 +63608,7 @@
     "seconds": 225.559,
     "songCategory": 41,
     "starScoreSaber": 4.670000076293945,
-    "complexityAccSaber": 9.9,
+    "complexityAccSaber": 10.5,
     "complexityAutoBalancer": 5.08
   },
   {
@@ -63819,7 +63819,7 @@
     "nps": 2.299,
     "seconds": 198.317,
     "songCategory": 4,
-    "complexityAccSaber": 7.44
+    "complexityAccSaber": 7.9
   },
   {
     "name": "Spacetime distortion",
@@ -63861,7 +63861,7 @@
     "nps": 3.324,
     "seconds": 162.75,
     "songCategory": 8,
-    "complexityAccSaber": 10.17
+    "complexityAccSaber": 11.1
   },
   {
     "name": "Eye Candy",
@@ -63875,7 +63875,7 @@
     "nps": 2.409,
     "seconds": 162.75,
     "songCategory": 8,
-    "complexityAccSaber": 8.22
+    "complexityAccSaber": 8.9
   },
   {
     "name": "Hourglass",
@@ -63889,7 +63889,7 @@
     "nps": 3.145,
     "seconds": 174.857,
     "songCategory": 4,
-    "complexityAccSaber": 8.14
+    "complexityAccSaber": 8.5
   },
   {
     "name": "Hourglass",
@@ -63903,7 +63903,7 @@
     "nps": 0.972,
     "seconds": 174.857,
     "songCategory": 2,
-    "complexityAccSaber": 2.88
+    "complexityAccSaber": 3.2
   },
   {
     "name": "Chicago",
@@ -63948,7 +63948,7 @@
     "seconds": 195.133,
     "songCategory": 37,
     "starScoreSaber": 3.700000047683716,
-    "complexityAccSaber": 5.6,
+    "complexityAccSaber": 5.7,
     "complexityAutoBalancer": 4.37
   },
   {
@@ -63977,7 +63977,7 @@
     "nps": 1.103,
     "seconds": 155.077,
     "songCategory": 2,
-    "complexityAccSaber": 3.25
+    "complexityAccSaber": 3.3
   },
   {
     "name": "FU In My Head",
@@ -63991,7 +63991,7 @@
     "nps": 2.949,
     "seconds": 166.522,
     "songCategory": 4,
-    "complexityAccSaber": 6.66
+    "complexityAccSaber": 7.4
   },
   {
     "name": "Welcome to the Internet",
@@ -64033,7 +64033,7 @@
     "nps": 3.653,
     "seconds": 156.864,
     "songCategory": 8,
-    "complexityAccSaber": 11.11
+    "complexityAccSaber": 10.8
   },
   {
     "name": "Bad Dream",
@@ -64047,7 +64047,7 @@
     "nps": 1.196,
     "seconds": 138.0,
     "songCategory": 2,
-    "complexityAccSaber": 3.5
+    "complexityAccSaber": 3.8
   },
   {
     "name": "Coffee Black",
@@ -64299,7 +64299,7 @@
     "nps": 1.144,
     "seconds": 202.834,
     "songCategory": 2,
-    "complexityAccSaber": 3.8
+    "complexityAccSaber": 3.0
   },
   {
     "name": "Onslaught",
@@ -64453,7 +64453,7 @@
     "nps": 2.471,
     "seconds": 167.143,
     "songCategory": 4,
-    "complexityAccSaber": 6.63
+    "complexityAccSaber": 7.2
   },
   {
     "name": "You're Somebody Else",
@@ -64467,7 +64467,7 @@
     "nps": 0.933,
     "seconds": 214.369,
     "songCategory": 2,
-    "complexityAccSaber": 3.59
+    "complexityAccSaber": 3.1
   },
   {
     "name": "Madeleine",
@@ -64481,7 +64481,7 @@
     "nps": 0.694,
     "seconds": 165.652,
     "songCategory": 2,
-    "complexityAccSaber": 2.0
+    "complexityAccSaber": 2.3
   },
   {
     "name": "Fractured Angel",
@@ -64537,7 +64537,7 @@
     "nps": 2.477,
     "seconds": 186.083,
     "songCategory": 4,
-    "complexityAccSaber": 8.78
+    "complexityAccSaber": 9.0
   },
   {
     "name": "Minimum",
@@ -64551,7 +64551,7 @@
     "nps": 0.935,
     "seconds": 186.067,
     "songCategory": 2,
-    "complexityAccSaber": 3.14
+    "complexityAccSaber": 3.2
   },
   {
     "name": "The Darkside",
@@ -64565,7 +64565,7 @@
     "nps": 1.328,
     "seconds": 154.355,
     "songCategory": 2,
-    "complexityAccSaber": 4.01
+    "complexityAccSaber": 3.5
   },
   {
     "name": "Poison Apple",
@@ -64663,7 +64663,7 @@
     "nps": 3.055,
     "seconds": 171.84,
     "songCategory": 4,
-    "complexityAccSaber": 8.07
+    "complexityAccSaber": 8.3
   },
   {
     "name": "Crazy Shuffle",
@@ -64943,7 +64943,7 @@
     "nps": 2.693,
     "seconds": 258.488,
     "songCategory": 4,
-    "complexityAccSaber": 7.26
+    "complexityAccSaber": 7.8
   },
   {
     "name": "Mentai Cosmic",
@@ -65139,7 +65139,7 @@
     "nps": 2.712,
     "seconds": 209.104,
     "songCategory": 4,
-    "complexityAccSaber": 8.84
+    "complexityAccSaber": 9.0
   },
   {
     "name": "A prompted error (that may or may not have cracked the quantum mechanism)",
@@ -66480,7 +66480,7 @@
     "seconds": 132.539,
     "songCategory": 37,
     "starScoreSaber": 4.159999847412109,
-    "complexityAccSaber": 6.62,
+    "complexityAccSaber": 7.1,
     "complexityAutoBalancer": 4.86
   },
   {
@@ -66831,7 +66831,7 @@
     "nps": 2.526,
     "seconds": 202.696,
     "songCategory": 4,
-    "complexityAccSaber": 5.96
+    "complexityAccSaber": 6.4
   },
   {
     "name": "Sweater Weather",
@@ -66934,7 +66934,7 @@
     "nps": 2.539,
     "seconds": 162.679,
     "songCategory": 4,
-    "complexityAccSaber": 6.74
+    "complexityAccSaber": 7.3
   },
   {
     "name": "1:15",
@@ -67018,7 +67018,7 @@
     "nps": 3.951,
     "seconds": 138.208,
     "songCategory": 8,
-    "complexityAccSaber": 9.87
+    "complexityAccSaber": 10.2
   },
   {
     "name": "Kobayashi Maru",
@@ -67032,7 +67032,7 @@
     "nps": 2.467,
     "seconds": 138.208,
     "songCategory": 4,
-    "complexityAccSaber": 6.98
+    "complexityAccSaber": 7.7
   },
   {
     "name": "Magic Man",
@@ -67046,7 +67046,7 @@
     "nps": 3.483,
     "seconds": 191.5,
     "songCategory": 8,
-    "complexityAccSaber": 10.24
+    "complexityAccSaber": 11.2
   },
   {
     "name": "The Longest Wave",
@@ -67060,7 +67060,7 @@
     "nps": 1.373,
     "seconds": 205.42,
     "songCategory": 2,
-    "complexityAccSaber": 3.4
+    "complexityAccSaber": 3.1
   },
   {
     "name": "Yoakeno Uta",
@@ -67228,7 +67228,7 @@
     "nps": 3.565,
     "seconds": 192.136,
     "songCategory": 8,
-    "complexityAccSaber": 12.11
+    "complexityAccSaber": 11.6
   },
   {
     "name": "the way things go",
@@ -67242,7 +67242,7 @@
     "nps": 2.154,
     "seconds": 163.409,
     "songCategory": 4,
-    "complexityAccSaber": 6.31
+    "complexityAccSaber": 6.7
   },
   {
     "name": "The Shower Scene",
@@ -67256,7 +67256,7 @@
     "nps": 2.662,
     "seconds": 169.384,
     "songCategory": 4,
-    "complexityAccSaber": 7.21
+    "complexityAccSaber": 7.6
   },
   {
     "name": "My God",
@@ -67270,7 +67270,7 @@
     "nps": 1.151,
     "seconds": 210.191,
     "songCategory": 2,
-    "complexityAccSaber": 3.96
+    "complexityAccSaber": 3.8
   },
   {
     "name": "Dum Dum",
@@ -67284,7 +67284,7 @@
     "nps": 2.437,
     "seconds": 164.531,
     "songCategory": 8,
-    "complexityAccSaber": 8.9
+    "complexityAccSaber": 9.2
   },
   {
     "name": "What You Know",
@@ -67294,7 +67294,7 @@
     "difficulty": "1",
     "characteristic": "Standard",
     "songCategory": 1073741826,
-    "complexityAccSaber": 4.35
+    "complexityAccSaber": 3.7
   },
   {
     "name": "Idol",
@@ -67308,7 +67308,7 @@
     "nps": 3.905,
     "seconds": 205.641,
     "songCategory": 8,
-    "complexityAccSaber": 9.29
+    "complexityAccSaber": 9.4
   },
   {
     "name": "Cupid",
@@ -67322,7 +67322,7 @@
     "nps": 1.088,
     "seconds": 134.16,
     "songCategory": 1073741826,
-    "complexityAccSaber": 1.0
+    "complexityAccSaber": 0.9
   },
   {
     "name": "Keep On Dancing",
@@ -67336,7 +67336,7 @@
     "nps": 0.994,
     "seconds": 189.078,
     "songCategory": 2,
-    "complexityAccSaber": 3.7
+    "complexityAccSaber": 3.9
   },
   {
     "name": "Luminency",
@@ -67449,7 +67449,7 @@
     "nps": 1.169,
     "seconds": 136.88,
     "songCategory": 2,
-    "complexityAccSaber": 3.1
+    "complexityAccSaber": 2.3
   },
   {
     "name": "Moskau",
@@ -67744,7 +67744,7 @@
     "seconds": 153.577,
     "songCategory": 37,
     "starScoreSaber": 4.230000019073486,
-    "complexityAccSaber": 8.2,
+    "complexityAccSaber": 8.3,
     "complexityAutoBalancer": 5.01
   },
   {
@@ -67815,7 +67815,7 @@
     "nps": 2.912,
     "seconds": 171.0,
     "songCategory": 8,
-    "complexityAccSaber": 10.31
+    "complexityAccSaber": 10.2
   },
   {
     "name": "EC2 - Still Waiting",
@@ -67848,7 +67848,7 @@
     "nps": 0.764,
     "seconds": 217.249,
     "songCategory": 2,
-    "complexityAccSaber": 1.6
+    "complexityAccSaber": 1.2
   },
   {
     "name": "What You Know",
@@ -67859,7 +67859,7 @@
     "difficulty": "3",
     "characteristic": "Standard",
     "songCategory": 4,
-    "complexityAccSaber": 8.42
+    "complexityAccSaber": 8.6
   },
   {
     "name": "NULCTRL",
@@ -68083,7 +68083,7 @@
     "nps": 2.827,
     "seconds": 168.706,
     "songCategory": 8,
-    "complexityAccSaber": 9.47
+    "complexityAccSaber": 9.8
   },
   {
     "name": "Whenever, Wherever",
@@ -68097,7 +68097,7 @@
     "nps": 3.718,
     "seconds": 192.033,
     "songCategory": 8,
-    "complexityAccSaber": 11.59
+    "complexityAccSaber": 12.0
   },
   {
     "name": "G.O.M.D",
@@ -73745,7 +73745,7 @@
     "seconds": 165.492,
     "songCategory": 37,
     "starScoreSaber": 4.03000020980835,
-    "complexityAccSaber": 6.71,
+    "complexityAccSaber": 7.6,
     "complexityAutoBalancer": 4.89
   },
   {
@@ -73886,7 +73886,7 @@
     "nps": 0.818,
     "seconds": 217.624,
     "songCategory": 2,
-    "complexityAccSaber": 2.37
+    "complexityAccSaber": 2.1
   },
   {
     "name": "Waste My Time",
@@ -73900,7 +73900,7 @@
     "nps": 2.669,
     "seconds": 152.143,
     "songCategory": 8,
-    "complexityAccSaber": 8.92
+    "complexityAccSaber": 9.8
   },
   {
     "name": "Back To You",
@@ -73914,7 +73914,7 @@
     "nps": 3.07,
     "seconds": 142.694,
     "songCategory": 4,
-    "complexityAccSaber": 8.84
+    "complexityAccSaber": 9.2
   },
   {
     "name": "Fool for you",
@@ -73928,7 +73928,7 @@
     "nps": 1.177,
     "seconds": 200.546,
     "songCategory": 2,
-    "complexityAccSaber": 4.27
+    "complexityAccSaber": 4.1
   },
   {
     "name": "Lied To",
@@ -73942,7 +73942,7 @@
     "nps": 2.887,
     "seconds": 155.156,
     "songCategory": 4,
-    "complexityAccSaber": 7.52
+    "complexityAccSaber": 8.3
   },
   {
     "name": "Lo-Fi Children",
@@ -73956,7 +73956,7 @@
     "nps": 3.094,
     "seconds": 207.143,
     "songCategory": 8,
-    "complexityAccSaber": 10.29
+    "complexityAccSaber": 10.5
   },
   {
     "name": "Lo-Fi Children",
@@ -73970,7 +73970,7 @@
     "nps": 1.255,
     "seconds": 207.143,
     "songCategory": 2,
-    "complexityAccSaber": 4.9
+    "complexityAccSaber": 5.1
   },
   {
     "name": "Black Hole",
@@ -73984,7 +73984,7 @@
     "nps": 2.032,
     "seconds": 185.565,
     "songCategory": 4,
-    "complexityAccSaber": 7.55
+    "complexityAccSaber": 8.1
   },
   {
     "name": "Hold Me While You Wait",
@@ -73998,7 +73998,7 @@
     "nps": 1.299,
     "seconds": 198.611,
     "songCategory": 2,
-    "complexityAccSaber": 4.87
+    "complexityAccSaber": 4.2
   },
   {
     "name": "El Dorado",
@@ -74012,7 +74012,7 @@
     "nps": 1.783,
     "seconds": 126.75,
     "songCategory": 4,
-    "complexityAccSaber": 5.0
+    "complexityAccSaber": 5.1
   },
   {
     "name": "Black Tortoise",
@@ -74026,7 +74026,7 @@
     "nps": 3.651,
     "seconds": 192.8,
     "songCategory": 8,
-    "complexityAccSaber": 9.52
+    "complexityAccSaber": 10.2
   },
   {
     "name": "Landslide",
@@ -74040,7 +74040,7 @@
     "nps": 0.962,
     "seconds": 190.206,
     "songCategory": 2,
-    "complexityAccSaber": 3.46
+    "complexityAccSaber": 3.7
   },
   {
     "name": "Catch Me",
@@ -74054,7 +74054,7 @@
     "nps": 3.016,
     "seconds": 147.88,
     "songCategory": 4,
-    "complexityAccSaber": 6.88
+    "complexityAccSaber": 7.2
   },
   {
     "name": "Bitter Taste",
@@ -74068,7 +74068,7 @@
     "nps": 3.027,
     "seconds": 164.211,
     "songCategory": 8,
-    "complexityAccSaber": 8.98
+    "complexityAccSaber": 9.3
   },
   {
     "name": "Don't Play Games",
@@ -74082,7 +74082,7 @@
     "nps": 3.066,
     "seconds": 155.27,
     "songCategory": 4,
-    "complexityAccSaber": 8.21
+    "complexityAccSaber": 8.9
   },
   {
     "name": "Something Good Can Work",
@@ -74096,7 +74096,7 @@
     "nps": 1.04,
     "seconds": 148.02,
     "songCategory": 2,
-    "complexityAccSaber": 2.82
+    "complexityAccSaber": 3.1
   },
   {
     "name": "ES",
@@ -74110,7 +74110,7 @@
     "nps": 3.223,
     "seconds": 124.404,
     "songCategory": 4,
-    "complexityAccSaber": 7.65
+    "complexityAccSaber": 8.0
   },
   {
     "name": "Hot Mess",
@@ -74124,7 +74124,7 @@
     "nps": 3.111,
     "seconds": 186.429,
     "songCategory": 4,
-    "complexityAccSaber": 7.31
+    "complexityAccSaber": 7.2
   },
   {
     "name": "Osmosis",
@@ -74138,7 +74138,7 @@
     "nps": 3.287,
     "seconds": 170.053,
     "songCategory": 4,
-    "complexityAccSaber": 7.12
+    "complexityAccSaber": 7.6
   },
   {
     "name": "Gold",
@@ -74152,7 +74152,7 @@
     "nps": 2.689,
     "seconds": 233.534,
     "songCategory": 4,
-    "complexityAccSaber": 8.47
+    "complexityAccSaber": 8.9
   },
   {
     "name": "I'm So Good At Being Alone",
@@ -74166,7 +74166,7 @@
     "nps": 2.841,
     "seconds": 186.875,
     "songCategory": 4,
-    "complexityAccSaber": 6.72
+    "complexityAccSaber": 6.8
   },
   {
     "name": "I'm So Good At Being Alone",
@@ -74180,7 +74180,7 @@
     "nps": 3.318,
     "seconds": 186.875,
     "songCategory": 8,
-    "complexityAccSaber": 11.51
+    "complexityAccSaber": 11.5
   },
   {
     "name": "cough drops",
@@ -74194,7 +74194,7 @@
     "nps": 3.034,
     "seconds": 161.495,
     "songCategory": 4,
-    "complexityAccSaber": 6.46
+    "complexityAccSaber": 6.7
   },
   {
     "name": "All Falls Down",
@@ -74208,7 +74208,7 @@
     "nps": 1.897,
     "seconds": 193.469,
     "songCategory": 4,
-    "complexityAccSaber": 5.33
+    "complexityAccSaber": 5.8
   },
   {
     "name": "Pointless",
@@ -74222,7 +74222,7 @@
     "nps": 0.969,
     "seconds": 233.182,
     "songCategory": 2,
-    "complexityAccSaber": 3.3
+    "complexityAccSaber": 3.4
   },
   {
     "name": "Lucky Luke",
@@ -74236,7 +74236,7 @@
     "nps": 2.388,
     "seconds": 174.721,
     "songCategory": 8,
-    "complexityAccSaber": 9.47
+    "complexityAccSaber": 10.1
   },
   {
     "name": "Caffeine",
@@ -74250,7 +74250,7 @@
     "nps": 2.803,
     "seconds": 182.692,
     "songCategory": 4,
-    "complexityAccSaber": 7.41
+    "complexityAccSaber": 7.7
   },
   {
     "name": "ANALYS",
@@ -74260,7 +74260,7 @@
     "difficulty": "3",
     "characteristic": "Standard",
     "songCategory": 8,
-    "complexityAccSaber": 8.07
+    "complexityAccSaber": 9.2
   },
   {
     "name": "Elevate",
@@ -74274,7 +74274,7 @@
     "nps": 3.474,
     "seconds": 176.743,
     "songCategory": 4,
-    "complexityAccSaber": 6.19
+    "complexityAccSaber": 6.1
   },
   {
     "name": "Stranger",
@@ -74288,7 +74288,7 @@
     "nps": 3.653,
     "seconds": 130.32,
     "songCategory": 8,
-    "complexityAccSaber": 11.8
+    "complexityAccSaber": 12.2
   },
   {
     "name": "Caroline",
@@ -74302,7 +74302,7 @@
     "nps": 2.242,
     "seconds": 148.112,
     "songCategory": 8,
-    "complexityAccSaber": 10.8
+    "complexityAccSaber": 11.6
   },
   {
     "name": "Hello My Old Heart",
@@ -74316,7 +74316,7 @@
     "nps": 0.621,
     "seconds": 248.0,
     "songCategory": 2,
-    "complexityAccSaber": 3.39
+    "complexityAccSaber": 3.4
   },
   {
     "name": "Nobody Knows",
@@ -74330,7 +74330,7 @@
     "nps": 3.072,
     "seconds": 162.787,
     "songCategory": 8,
-    "complexityAccSaber": 8.5
+    "complexityAccSaber": 8.6
   },
   {
     "name": "Smoking Gun",
@@ -74344,7 +74344,7 @@
     "nps": 2.956,
     "seconds": 146.486,
     "songCategory": 8,
-    "complexityAccSaber": 10.5
+    "complexityAccSaber": 11.4
   },
   {
     "name": "ΩΩPARTS",
@@ -75140,7 +75140,7 @@
     "seconds": 141.176,
     "songCategory": 37,
     "starScoreSaber": 4.460000038146973,
-    "complexityAccSaber": 8.0,
+    "complexityAccSaber": 8.6,
     "complexityAutoBalancer": 5.07
   },
   {
@@ -75436,7 +75436,7 @@
     "seconds": 136.5,
     "songCategory": 37,
     "starScoreSaber": 3.4700000286102295,
-    "complexityAccSaber": 4.04,
+    "complexityAccSaber": 4.3,
     "complexityAutoBalancer": 4.24
   },
   {
@@ -75452,7 +75452,7 @@
     "seconds": 136.5,
     "songCategory": 37,
     "starScoreSaber": 4.230000019073486,
-    "complexityAccSaber": 6.9,
+    "complexityAccSaber": 7.1,
     "complexityAutoBalancer": 4.85
   },
   {
@@ -76013,7 +76013,7 @@
     "nps": 3.766,
     "seconds": 139.655,
     "songCategory": 4,
-    "complexityAccSaber": 7.11
+    "complexityAccSaber": 7.5
   },
   {
     "name": "the perfect pair",
@@ -76027,7 +76027,7 @@
     "nps": 2.675,
     "seconds": 173.836,
     "songCategory": 4,
-    "complexityAccSaber": 6.03
+    "complexityAccSaber": 6.5
   },
   {
     "name": "Favorite Liar",
@@ -76041,7 +76041,7 @@
     "nps": 2.692,
     "seconds": 236.25,
     "songCategory": 8,
-    "complexityAccSaber": 9.33
+    "complexityAccSaber": 9.5
   },
   {
     "name": "Slingshot",
@@ -76055,7 +76055,7 @@
     "nps": 2.765,
     "seconds": 150.794,
     "songCategory": 4,
-    "complexityAccSaber": 5.58
+    "complexityAccSaber": 5.5
   },
   {
     "name": "I'm So Good At Being Alone",
@@ -76069,7 +76069,7 @@
     "nps": 3.355,
     "seconds": 187.188,
     "songCategory": 8,
-    "complexityAccSaber": 12.2
+    "complexityAccSaber": 11.8
   },
   {
     "name": "From The Start",
@@ -76083,7 +76083,7 @@
     "nps": 3.112,
     "seconds": 141.371,
     "songCategory": 4,
-    "complexityAccSaber": 8.07
+    "complexityAccSaber": 8.3
   },
   {
     "name": "From The Start",
@@ -76097,7 +76097,7 @@
     "nps": 0.721,
     "seconds": 160.793,
     "songCategory": 2,
-    "complexityAccSaber": 2.1
+    "complexityAccSaber": 2.8
   },
   {
     "name": "Only Human",
@@ -76111,7 +76111,7 @@
     "nps": 3.483,
     "seconds": 130.333,
     "songCategory": 8,
-    "complexityAccSaber": 8.74
+    "complexityAccSaber": 9.3
   },
   {
     "name": "Libre",
@@ -76125,7 +76125,7 @@
     "nps": 3.165,
     "seconds": 161.429,
     "songCategory": 4,
-    "complexityAccSaber": 7.7
+    "complexityAccSaber": 7.9
   },
   {
     "name": "Ik Wil Dansen",
@@ -76139,7 +76139,7 @@
     "nps": 3.451,
     "seconds": 182.857,
     "songCategory": 4,
-    "complexityAccSaber": 6.6
+    "complexityAccSaber": 6.3
   },
   {
     "name": "Womanizer",
@@ -76153,7 +76153,7 @@
     "nps": 1.16,
     "seconds": 204.316,
     "songCategory": 2,
-    "complexityAccSaber": 3.59
+    "complexityAccSaber": 3.3
   },
   {
     "name": "She Wants Me (To Be Loved) ",
@@ -76167,7 +76167,7 @@
     "nps": 3.242,
     "seconds": 195.875,
     "songCategory": 4,
-    "complexityAccSaber": 9.05
+    "complexityAccSaber": 9.3
   },
   {
     "name": "In the Lobby",
@@ -76181,7 +76181,7 @@
     "nps": 3.168,
     "seconds": 163.5,
     "songCategory": 8,
-    "complexityAccSaber": 12.05
+    "complexityAccSaber": 11.9
   },
   {
     "name": "girl in blue",
@@ -76195,7 +76195,7 @@
     "nps": 2.488,
     "seconds": 200.143,
     "songCategory": 8,
-    "complexityAccSaber": 8.83
+    "complexityAccSaber": 8.7
   },
   {
     "name": "avalanche",
@@ -76209,7 +76209,7 @@
     "nps": 0.76,
     "seconds": 194.813,
     "songCategory": 2,
-    "complexityAccSaber": 4.6
+    "complexityAccSaber": 4.4
   },
   {
     "name": "avalanche",
@@ -76223,7 +76223,7 @@
     "nps": 3.692,
     "seconds": 195.0,
     "songCategory": 8,
-    "complexityAccSaber": 11.62
+    "complexityAccSaber": 11.3
   },
   {
     "name": "It Is What It is",
@@ -76237,7 +76237,7 @@
     "nps": 1.244,
     "seconds": 120.556,
     "songCategory": 2,
-    "complexityAccSaber": 3.58
+    "complexityAccSaber": 3.1
   },
   {
     "name": "It Is What It is",
@@ -76251,7 +76251,7 @@
     "nps": 3.839,
     "seconds": 122.963,
     "songCategory": 4,
-    "complexityAccSaber": 8.85
+    "complexityAccSaber": 9.1
   },
   {
     "name": "DOPING LIFE",
@@ -76979,7 +76979,7 @@
     "nps": 0.949,
     "seconds": 149.571,
     "songCategory": 2,
-    "complexityAccSaber": 2.0
+    "complexityAccSaber": 2.4
   },
   {
     "name": "Lovers to strangers",
@@ -76993,7 +76993,7 @@
     "nps": 0.868,
     "seconds": 161.379,
     "songCategory": 2,
-    "complexityAccSaber": 3.24
+    "complexityAccSaber": 3.3
   },
   {
     "name": "My heart i surrender",
@@ -77007,7 +77007,7 @@
     "nps": 2.599,
     "seconds": 201.654,
     "songCategory": 4,
-    "complexityAccSaber": 7.92
+    "complexityAccSaber": 8.6
   },
   {
     "name": "Pretty Carolina",
@@ -77021,7 +77021,7 @@
     "nps": 2.896,
     "seconds": 155.373,
     "songCategory": 4,
-    "complexityAccSaber": 8.17
+    "complexityAccSaber": 8.6
   },
   {
     "name": "Libre",
@@ -77049,7 +77049,7 @@
     "nps": 3.793,
     "seconds": 136.296,
     "songCategory": 4,
-    "complexityAccSaber": 7.44
+    "complexityAccSaber": 7.7
   },
   {
     "name": "sundays",
@@ -77063,7 +77063,7 @@
     "nps": 3.792,
     "seconds": 148.452,
     "songCategory": 4,
-    "complexityAccSaber": 7.71
+    "complexityAccSaber": 8.3
   },
   {
     "name": "I'm A Human",
@@ -77077,7 +77077,7 @@
     "nps": 3.177,
     "seconds": 136.905,
     "songCategory": 4,
-    "complexityAccSaber": 8.74
+    "complexityAccSaber": 9.4
   },
   {
     "name": "The Negative",
@@ -77091,7 +77091,7 @@
     "nps": 3.18,
     "seconds": 138.696,
     "songCategory": 4,
-    "complexityAccSaber": 6.75
+    "complexityAccSaber": 7.2
   },
   {
     "name": "Break",
@@ -77105,7 +77105,7 @@
     "nps": 3.573,
     "seconds": 147.092,
     "songCategory": 4,
-    "complexityAccSaber": 8.58
+    "complexityAccSaber": 9.0
   },
   {
     "name": "avalanche",
@@ -77119,7 +77119,7 @@
     "nps": 3.331,
     "seconds": 194.813,
     "songCategory": 8,
-    "complexityAccSaber": 9.36
+    "complexityAccSaber": 9.5
   },
   {
     "name": "Lovers to strangers",
@@ -77133,7 +77133,7 @@
     "nps": 2.57,
     "seconds": 166.158,
     "songCategory": 8,
-    "complexityAccSaber": 9.99
+    "complexityAccSaber": 9.7
   },
   {
     "name": "Cheerleader",
@@ -77147,7 +77147,7 @@
     "nps": 2.747,
     "seconds": 235.541,
     "songCategory": 8,
-    "complexityAccSaber": 8.87
+    "complexityAccSaber": 8.8
   },
   {
     "name": "Too Much",
@@ -77161,7 +77161,7 @@
     "nps": 3.598,
     "seconds": 171.481,
     "songCategory": 8,
-    "complexityAccSaber": 9.7
+    "complexityAccSaber": 9.9
   },
   {
     "name": "Friendly Gigant Fire",
@@ -78550,7 +78550,7 @@
     "seconds": 182.4,
     "songCategory": 37,
     "starScoreSaber": 4.28000020980835,
-    "complexityAccSaber": 7.17,
+    "complexityAccSaber": 7.4,
     "complexityAutoBalancer": 4.84
   },
   {
@@ -79175,7 +79175,7 @@
     "starAccBeatLeader": 4.690219402313232,
     "starPassBeatLeader": 2.4022889137268066,
     "starTechBeatLeader": 1.4680770635604858,
-    "complexityAccSaber": 6.95,
+    "complexityAccSaber": 7.2,
     "complexityAutoBalancer": 4.74
   },
   {
@@ -79877,7 +79877,7 @@
     "seconds": 225.677,
     "songCategory": 37,
     "starScoreSaber": 4.150000095367432,
-    "complexityAccSaber": 6.51,
+    "complexityAccSaber": 7.2,
     "complexityAutoBalancer": 4.65
   },
   {
@@ -79935,7 +79935,7 @@
     "seconds": 153.6,
     "songCategory": 37,
     "starScoreSaber": 4.940000057220459,
-    "complexityAccSaber": 9.21,
+    "complexityAccSaber": 9.7,
     "complexityAutoBalancer": 5.25
   },
   {
@@ -80423,7 +80423,7 @@
     "seconds": 208.105,
     "songCategory": 35,
     "starScoreSaber": 3.4000000953674316,
-    "complexityAccSaber": 4.0,
+    "complexityAccSaber": 4.1,
     "complexityAutoBalancer": 4.2
   },
   {
@@ -80453,7 +80453,7 @@
     "seconds": 210.789,
     "songCategory": 37,
     "starScoreSaber": 4.639999866485596,
-    "complexityAccSaber": 7.65,
+    "complexityAccSaber": 7.6,
     "complexityAutoBalancer": 4.89
   },
   {
@@ -80469,7 +80469,7 @@
     "seconds": 210.789,
     "songCategory": 41,
     "starScoreSaber": 4.760000228881836,
-    "complexityAccSaber": 12.06,
+    "complexityAccSaber": 12.0,
     "complexityAutoBalancer": 5.68
   },
   {
@@ -80625,7 +80625,7 @@
     "seconds": 135.266,
     "songCategory": 37,
     "starScoreSaber": 4.860000133514404,
-    "complexityAccSaber": 7.87,
+    "complexityAccSaber": 8.2,
     "complexityAutoBalancer": 4.99
   },
   {
@@ -81117,7 +81117,7 @@
     "seconds": 178.636,
     "songCategory": 37,
     "starScoreSaber": 4.619999885559082,
-    "complexityAccSaber": 7.7,
+    "complexityAccSaber": 8.1,
     "complexityAutoBalancer": 4.95
   },
   {
@@ -82450,7 +82450,7 @@
     "seconds": 180.706,
     "songCategory": 37,
     "starScoreSaber": 4.630000114440918,
-    "complexityAccSaber": 8.69,
+    "complexityAccSaber": 8.5,
     "complexityAutoBalancer": 5.21
   },
   {
@@ -83092,7 +83092,7 @@
     "seconds": 181.0,
     "songCategory": 35,
     "starScoreSaber": 3.6500000953674316,
-    "complexityAccSaber": 4.1,
+    "complexityAccSaber": 3.0,
     "complexityAutoBalancer": 4.06
   },
   {
@@ -83122,7 +83122,7 @@
     "seconds": 291.75,
     "songCategory": 37,
     "starScoreSaber": 4.550000190734863,
-    "complexityAccSaber": 6.2,
+    "complexityAccSaber": 5.7,
     "complexityAutoBalancer": 4.46
   },
   {
@@ -84047,7 +84047,7 @@
     "nps": 1.097,
     "seconds": 146.824,
     "songCategory": 2,
-    "complexityAccSaber": 2.4
+    "complexityAccSaber": 3.2
   },
   {
     "name": "Figure You Out",
@@ -84061,7 +84061,7 @@
     "nps": 0.936,
     "seconds": 159.158,
     "songCategory": 2,
-    "complexityAccSaber": 3.4
+    "complexityAccSaber": 3.0
   },
   {
     "name": "Simple Life",
@@ -84075,7 +84075,7 @@
     "nps": 1.014,
     "seconds": 151.8,
     "songCategory": 2,
-    "complexityAccSaber": 3.72
+    "complexityAccSaber": 3.2
   },
   {
     "name": "Synchronize",
@@ -84089,7 +84089,7 @@
     "nps": 1.249,
     "seconds": 158.468,
     "songCategory": 2,
-    "complexityAccSaber": 3.34
+    "complexityAccSaber": 3.4
   },
   {
     "name": "Changes",
@@ -84117,7 +84117,7 @@
     "nps": 0.677,
     "seconds": 194.885,
     "songCategory": 2,
-    "complexityAccSaber": 1.6
+    "complexityAccSaber": 0.9
   },
   {
     "name": "Yours",
@@ -84131,7 +84131,7 @@
     "nps": 1.001,
     "seconds": 194.885,
     "songCategory": 2,
-    "complexityAccSaber": 3.4
+    "complexityAccSaber": 3.5
   },
   {
     "name": "Coffin",
@@ -84145,7 +84145,7 @@
     "nps": 0.759,
     "seconds": 184.534,
     "songCategory": 2,
-    "complexityAccSaber": 3.0
+    "complexityAccSaber": 2.5
   },
   {
     "name": "DeLorean",
@@ -84159,7 +84159,7 @@
     "nps": 0.817,
     "seconds": 161.625,
     "songCategory": 2,
-    "complexityAccSaber": 2.47
+    "complexityAccSaber": 2.3
   },
   {
     "name": "DeLorean",
@@ -84173,7 +84173,7 @@
     "nps": 1.101,
     "seconds": 161.625,
     "songCategory": 2,
-    "complexityAccSaber": 3.5
+    "complexityAccSaber": 3.4
   },
   {
     "name": "Perfect Night",
@@ -84187,7 +84187,7 @@
     "nps": 0.949,
     "seconds": 141.176,
     "songCategory": 2,
-    "complexityAccSaber": 1.76
+    "complexityAccSaber": 1.3
   },
   {
     "name": "Wish You Stayed",
@@ -84201,7 +84201,7 @@
     "nps": 0.785,
     "seconds": 170.792,
     "songCategory": 2,
-    "complexityAccSaber": 3.2
+    "complexityAccSaber": 2.6
   },
   {
     "name": "Into You",
@@ -84215,7 +84215,7 @@
     "nps": 2.488,
     "seconds": 190.476,
     "songCategory": 4,
-    "complexityAccSaber": 6.25
+    "complexityAccSaber": 6.4
   },
   {
     "name": "Mrs. Hollywood",
@@ -84229,7 +84229,7 @@
     "nps": 3.831,
     "seconds": 142.266,
     "songCategory": 4,
-    "complexityAccSaber": 9.02
+    "complexityAccSaber": 8.9
   },
   {
     "name": "Klunker",
@@ -84243,7 +84243,7 @@
     "nps": 2.832,
     "seconds": 192.794,
     "songCategory": 4,
-    "complexityAccSaber": 8.73
+    "complexityAccSaber": 9.2
   },
   {
     "name": "Figure You Out",
@@ -84257,7 +84257,7 @@
     "nps": 2.253,
     "seconds": 159.789,
     "songCategory": 4,
-    "complexityAccSaber": 7.26
+    "complexityAccSaber": 7.5
   },
   {
     "name": "Simple Life",
@@ -84271,7 +84271,7 @@
     "nps": 3.333,
     "seconds": 151.8,
     "songCategory": 4,
-    "complexityAccSaber": 8.68
+    "complexityAccSaber": 9.3
   },
   {
     "name": "Darling, The Planets",
@@ -84285,7 +84285,7 @@
     "nps": 3.219,
     "seconds": 180.811,
     "songCategory": 4,
-    "complexityAccSaber": 8.28
+    "complexityAccSaber": 8.8
   },
   {
     "name": "Brown Eyes",
@@ -84299,7 +84299,7 @@
     "nps": 3.33,
     "seconds": 160.975,
     "songCategory": 4,
-    "complexityAccSaber": 7.02
+    "complexityAccSaber": 7.4
   },
   {
     "name": "Lose Control",
@@ -84313,7 +84313,7 @@
     "nps": 2.961,
     "seconds": 141.148,
     "songCategory": 4,
-    "complexityAccSaber": 7.39
+    "complexityAccSaber": 8.1
   },
   {
     "name": "Ritalin",
@@ -84327,7 +84327,7 @@
     "nps": 2.228,
     "seconds": 183.113,
     "songCategory": 4,
-    "complexityAccSaber": 8.0
+    "complexityAccSaber": 8.3
   },
   {
     "name": "Second Rate Town",
@@ -84341,7 +84341,7 @@
     "nps": 2.82,
     "seconds": 147.541,
     "songCategory": 4,
-    "complexityAccSaber": 7.11
+    "complexityAccSaber": 7.5
   },
   {
     "name": "Second Rate Town",
@@ -84355,7 +84355,7 @@
     "nps": 2.11,
     "seconds": 147.377,
     "songCategory": 4,
-    "complexityAccSaber": 5.5
+    "complexityAccSaber": 5.2
   },
   {
     "name": "Queendom",
@@ -84369,7 +84369,7 @@
     "nps": 1.729,
     "seconds": 192.014,
     "songCategory": 4,
-    "complexityAccSaber": 5.73
+    "complexityAccSaber": 6.6
   },
   {
     "name": "Foolish Of Me",
@@ -84383,7 +84383,7 @@
     "nps": 2.833,
     "seconds": 170.5,
     "songCategory": 4,
-    "complexityAccSaber": 7.63
+    "complexityAccSaber": 7.7
   },
   {
     "name": "Memory Bank",
@@ -84397,7 +84397,7 @@
     "nps": 2.406,
     "seconds": 156.261,
     "songCategory": 8,
-    "complexityAccSaber": 9.01
+    "complexityAccSaber": 8.7
   },
   {
     "name": "Two of Many",
@@ -84411,7 +84411,7 @@
     "nps": 3.251,
     "seconds": 136.552,
     "songCategory": 8,
-    "complexityAccSaber": 10.72
+    "complexityAccSaber": 10.8
   },
   {
     "name": "Nobody",
@@ -84425,7 +84425,7 @@
     "nps": 3.206,
     "seconds": 141.0,
     "songCategory": 8,
-    "complexityAccSaber": 10.05
+    "complexityAccSaber": 10.4
   },
   {
     "name": "Simple Life",
@@ -84439,7 +84439,7 @@
     "nps": 4.071,
     "seconds": 151.8,
     "songCategory": 8,
-    "complexityAccSaber": 11.64
+    "complexityAccSaber": 11.2
   },
   {
     "name": "I See London I See France",
@@ -84453,7 +84453,7 @@
     "nps": 3.215,
     "seconds": 150.256,
     "songCategory": 4,
-    "complexityAccSaber": 6.88
+    "complexityAccSaber": 7.3
   },
   {
     "name": "Who am I",
@@ -84467,7 +84467,7 @@
     "nps": 2.532,
     "seconds": 172.623,
     "songCategory": 4,
-    "complexityAccSaber": 8.06
+    "complexityAccSaber": 8.6
   },
   {
     "name": "No More Bad Days",
@@ -84481,7 +84481,7 @@
     "nps": 2.27,
     "seconds": 205.305,
     "songCategory": 4,
-    "complexityAccSaber": 7.74
+    "complexityAccSaber": 8.1
   },
   {
     "name": "Sugardaddy",
@@ -84495,7 +84495,7 @@
     "nps": 3.469,
     "seconds": 121.654,
     "songCategory": 4,
-    "complexityAccSaber": 7.68
+    "complexityAccSaber": 7.9
   },
   {
     "name": "Sugardaddy",
@@ -84509,7 +84509,7 @@
     "nps": 1.843,
     "seconds": 120.472,
     "songCategory": 4,
-    "complexityAccSaber": 5.35
+    "complexityAccSaber": 5.6
   },
   {
     "name": "Brown Eyes",
@@ -84523,7 +84523,7 @@
     "nps": 2.74,
     "seconds": 160.975,
     "songCategory": 4,
-    "complexityAccSaber": 5.25
+    "complexityAccSaber": 5.2
   },
   {
     "name": "Synchronize",
@@ -84537,7 +84537,7 @@
     "nps": 2.966,
     "seconds": 158.468,
     "songCategory": 4,
-    "complexityAccSaber": 6.47
+    "complexityAccSaber": 6.3
   },
   {
     "name": "Won't Give Up",
@@ -84551,7 +84551,7 @@
     "nps": 2.65,
     "seconds": 171.31,
     "songCategory": 8,
-    "complexityAccSaber": 10.05
+    "complexityAccSaber": 10.2
   },
   {
     "name": "Hypnotized",
@@ -84565,7 +84565,7 @@
     "nps": 3.846,
     "seconds": 188.75,
     "songCategory": 8,
-    "complexityAccSaber": 10.86
+    "complexityAccSaber": 10.9
   },
   {
     "name": "Spectator",
@@ -84579,7 +84579,7 @@
     "nps": 2.123,
     "seconds": 182.286,
     "songCategory": 8,
-    "complexityAccSaber": 10.2
+    "complexityAccSaber": 9.8
   },
   {
     "name": "Vampire Disco",
@@ -84593,7 +84593,7 @@
     "nps": 2.247,
     "seconds": 184.696,
     "songCategory": 8,
-    "complexityAccSaber": 9.55
+    "complexityAccSaber": 9.1
   },
   {
     "name": "Halo",
@@ -84607,7 +84607,7 @@
     "nps": 2.751,
     "seconds": 218.5,
     "songCategory": 8,
-    "complexityAccSaber": 9.61
+    "complexityAccSaber": 9.1
   },
   {
     "name": "Feather",
@@ -84621,7 +84621,7 @@
     "nps": 3.585,
     "seconds": 178.542,
     "songCategory": 8,
-    "complexityAccSaber": 9.13
+    "complexityAccSaber": 9.5
   },
   {
     "name": "Home",
@@ -84649,7 +84649,7 @@
     "nps": 3.385,
     "seconds": 217.4,
     "songCategory": 4,
-    "complexityAccSaber": 9.01
+    "complexityAccSaber": 8.9
   },
   {
     "name": "Tear In My Heart",
@@ -84663,7 +84663,7 @@
     "nps": 3.165,
     "seconds": 177.25,
     "songCategory": 4,
-    "complexityAccSaber": 7.7
+    "complexityAccSaber": 7.9
   },
   {
     "name": "Yours",
@@ -84677,7 +84677,7 @@
     "nps": 2.991,
     "seconds": 161.471,
     "songCategory": 4,
-    "complexityAccSaber": 7.28
+    "complexityAccSaber": 7.3
   },
   {
     "name": "Hypnotized",
@@ -84691,7 +84691,7 @@
     "nps": 2.887,
     "seconds": 188.75,
     "songCategory": 8,
-    "complexityAccSaber": 9.26
+    "complexityAccSaber": 9.7
   },
   {
     "name": "We Don't Wanna Talk",
@@ -84705,7 +84705,7 @@
     "nps": 3.503,
     "seconds": 147.589,
     "songCategory": 8,
-    "complexityAccSaber": 11.7
+    "complexityAccSaber": 11.8
   },
   {
     "name": "Berenstein",
@@ -84719,7 +84719,7 @@
     "nps": 2.409,
     "seconds": 249.111,
     "songCategory": 8,
-    "complexityAccSaber": 9.34
+    "complexityAccSaber": 9.3
   },
   {
     "name": "chihiro",
@@ -84733,7 +84733,7 @@
     "nps": 3.422,
     "seconds": 167.442,
     "songCategory": 8,
-    "complexityAccSaber": 10.91
+    "complexityAccSaber": 10.9
   },
   {
     "name": "HONEY",
@@ -84747,7 +84747,7 @@
     "nps": 2.89,
     "seconds": 164.357,
     "songCategory": 8,
-    "complexityAccSaber": 10.13
+    "complexityAccSaber": 9.9
   },
   {
     "name": "Synchronize",
@@ -84761,7 +84761,7 @@
     "nps": 3.111,
     "seconds": 158.468,
     "songCategory": 8,
-    "complexityAccSaber": 10.78
+    "complexityAccSaber": 11.3
   },
   {
     "name": "Liar Liar",
@@ -84775,7 +84775,7 @@
     "nps": 2.867,
     "seconds": 161.163,
     "songCategory": 8,
-    "complexityAccSaber": 10.59
+    "complexityAccSaber": 10.6
   },
   {
     "name": "i like the way you kiss me",
@@ -84789,7 +84789,7 @@
     "nps": 3.259,
     "seconds": 138.064,
     "songCategory": 8,
-    "complexityAccSaber": 9.9
+    "complexityAccSaber": 10.1
   },
   {
     "name": "Cave Me In",
@@ -84803,7 +84803,7 @@
     "nps": 3.523,
     "seconds": 190.439,
     "songCategory": 8,
-    "complexityAccSaber": 11.36
+    "complexityAccSaber": 11.2
   },
   {
     "name": "i remember",
@@ -84817,7 +84817,7 @@
     "nps": 3.151,
     "seconds": 180.584,
     "songCategory": 8,
-    "complexityAccSaber": 9.82
+    "complexityAccSaber": 9.7
   },
   {
     "name": "Ephemera",
@@ -86367,7 +86367,7 @@
     "seconds": 149.497,
     "songCategory": 37,
     "starScoreSaber": 4.179999828338623,
-    "complexityAccSaber": 5.6,
+    "complexityAccSaber": 6.0,
     "complexityAutoBalancer": 4.49
   },
   {
@@ -86383,7 +86383,7 @@
     "seconds": 149.497,
     "songCategory": 37,
     "starScoreSaber": 4.840000152587891,
-    "complexityAccSaber": 8.7,
+    "complexityAccSaber": 8.2,
     "complexityAutoBalancer": 5.19
   },
   {
@@ -89552,7 +89552,7 @@
     "seconds": 149.039,
     "songCategory": 37,
     "starScoreSaber": 5.010000228881836,
-    "complexityAccSaber": 7.8,
+    "complexityAccSaber": 7.7,
     "complexityAutoBalancer": 4.89
   },
   {
@@ -90200,7 +90200,7 @@
     "seconds": 136.791,
     "songCategory": 41,
     "starScoreSaber": 4.610000133514404,
-    "complexityAccSaber": 7.0,
+    "complexityAccSaber": 7.2,
     "complexityAutoBalancer": 4.83
   },
   {
@@ -90356,7 +90356,7 @@
     "seconds": 131.905,
     "songCategory": 41,
     "starScoreSaber": 5.739999771118164,
-    "complexityAccSaber": 10.3,
+    "complexityAccSaber": 10.2,
     "complexityAutoBalancer": 5.45
   },
   {
@@ -90838,6 +90838,7 @@
   {
     "name": "I Swear I'll Be Just Fine",
     "scoreSaberID": "654512",
+    "beatLeaderID": "3dfeaxx11",
     "beatSaverID": "3dfea",
     "hash": "F6EE518106FFA3EA15863DE58C38DB2117D75B51",
     "difficulty": "1",
@@ -90845,8 +90846,9 @@
     "njs": 12.0,
     "nps": 2.134,
     "seconds": 149.039,
-    "songCategory": 33,
+    "songCategory": 37,
     "starScoreSaber": 4.079999923706055,
+    "complexityAccSaber": 5.7,
     "complexityAutoBalancer": 4.35
   },
   {
@@ -91114,7 +91116,7 @@
     "seconds": 156.525,
     "songCategory": 41,
     "starScoreSaber": 5.619999885559082,
-    "complexityAccSaber": 10.8,
+    "complexityAccSaber": 10.7,
     "complexityAutoBalancer": 5.58
   },
   {
@@ -91163,7 +91165,7 @@
     "seconds": 152.183,
     "songCategory": 37,
     "starScoreSaber": 4.019999980926514,
-    "complexityAccSaber": 5.3,
+    "complexityAccSaber": 4.9,
     "complexityAutoBalancer": 4.11
   },
   {
@@ -91179,7 +91181,7 @@
     "seconds": 138.947,
     "songCategory": 35,
     "starScoreSaber": 3.119999885559082,
-    "complexityAccSaber": 3.6,
+    "complexityAccSaber": 2.1,
     "complexityAutoBalancer": 3.81
   },
   {
@@ -91674,7 +91676,7 @@
     "seconds": 152.183,
     "songCategory": 37,
     "starScoreSaber": 4.559999942779541,
-    "complexityAccSaber": 6.2,
+    "complexityAccSaber": 6.1,
     "complexityAutoBalancer": 4.56
   },
   {
@@ -91844,7 +91846,7 @@
     "seconds": 156.525,
     "songCategory": 35,
     "starScoreSaber": 3.4200000762939453,
-    "complexityAccSaber": 3.9,
+    "complexityAccSaber": 3.2,
     "complexityAutoBalancer": 3.81
   },
   {
@@ -92949,7 +92951,7 @@
     "seconds": 180.0,
     "songCategory": 37,
     "starScoreSaber": 4.409999847412109,
-    "complexityAccSaber": 5.5,
+    "complexityAccSaber": 5.6,
     "complexityAutoBalancer": 4.27
   },
   {
@@ -92965,7 +92967,7 @@
     "seconds": 180.0,
     "songCategory": 41,
     "starScoreSaber": 5.309999942779541,
-    "complexityAccSaber": 8.3,
+    "complexityAccSaber": 8.4,
     "complexityAutoBalancer": 5.09
   },
   {
@@ -110750,7 +110752,7 @@
     "starAccBeatLeader": 6.209086894989014,
     "starPassBeatLeader": 1.806171178817749,
     "starTechBeatLeader": 2.893251419067383,
-    "complexityAccSaber": 11.0,
+    "complexityAccSaber": 10.7,
     "complexityAutoBalancer": 5.69
   },
   {
@@ -113727,7 +113729,7 @@
     "starAccBeatLeader": 4.6199822425842285,
     "starPassBeatLeader": 1.6154916286468506,
     "starTechBeatLeader": 1.2365347146987915,
-    "complexityAccSaber": 6.6,
+    "complexityAccSaber": 7.0,
     "complexityAutoBalancer": 4.86
   },
   {
@@ -114779,7 +114781,7 @@
     "nps": 0.895,
     "seconds": 225.698,
     "songCategory": 2,
-    "complexityAccSaber": 4.9
+    "complexityAccSaber": 3.7
   },
   {
     "name": "Dancing Off My Sins",
@@ -114793,7 +114795,7 @@
     "nps": 0.883,
     "seconds": 231.081,
     "songCategory": 2,
-    "complexityAccSaber": 4.2
+    "complexityAccSaber": 3.1
   },
   {
     "name": "Body Language",
@@ -114807,7 +114809,7 @@
     "nps": 0.897,
     "seconds": 197.241,
     "songCategory": 2,
-    "complexityAccSaber": 4.4
+    "complexityAccSaber": 3.6
   },
   {
     "name": "i am not who i was",
@@ -114821,7 +114823,7 @@
     "nps": 0.912,
     "seconds": 135.923,
     "songCategory": 2,
-    "complexityAccSaber": 3.5
+    "complexityAccSaber": 2.9
   },
   {
     "name": "Busy woman",
@@ -114835,7 +114837,7 @@
     "nps": 0.909,
     "seconds": 178.205,
     "songCategory": 2,
-    "complexityAccSaber": 3.0
+    "complexityAccSaber": 1.6
   },
   {
     "name": "Like This",
@@ -114849,7 +114851,7 @@
     "nps": 3.14,
     "seconds": 150.322,
     "songCategory": 4,
-    "complexityAccSaber": 7.4
+    "complexityAccSaber": 7.6
   },
   {
     "name": "Busy woman",
@@ -114863,7 +114865,7 @@
     "nps": 2.022,
     "seconds": 180.513,
     "songCategory": 4,
-    "complexityAccSaber": 6.3
+    "complexityAccSaber": 5.8
   },
   {
     "name": "Manchild",
@@ -114877,7 +114879,7 @@
     "nps": 1.811,
     "seconds": 194.878,
     "songCategory": 4,
-    "complexityAccSaber": 6.4
+    "complexityAccSaber": 5.4
   },
   {
     "name": "Lush Life",
@@ -114891,7 +114893,7 @@
     "nps": 3.016,
     "seconds": 195.612,
     "songCategory": 4,
-    "complexityAccSaber": 6.3
+    "complexityAccSaber": 6.2
   },
   {
     "name": "Illegal",
@@ -114905,7 +114907,7 @@
     "nps": 3.163,
     "seconds": 148.085,
     "songCategory": 4,
-    "complexityAccSaber": 7.4
+    "complexityAccSaber": 7.7
   },
   {
     "name": "Perspective",
@@ -114933,7 +114935,7 @@
     "nps": 2.538,
     "seconds": 182.019,
     "songCategory": 4,
-    "complexityAccSaber": 6.8
+    "complexityAccSaber": 6.2
   },
   {
     "name": "lemons",
@@ -114947,7 +114949,7 @@
     "nps": 3.199,
     "seconds": 141.94,
     "songCategory": 4,
-    "complexityAccSaber": 7.9
+    "complexityAccSaber": 8.4
   },
   {
     "name": "Into You",
@@ -114961,7 +114963,7 @@
     "nps": 3.769,
     "seconds": 190.476,
     "songCategory": 8,
-    "complexityAccSaber": 10.2
+    "complexityAccSaber": 10.5
   },
   {
     "name": "gum!",
@@ -114975,7 +114977,7 @@
     "nps": 3.051,
     "seconds": 202.185,
     "songCategory": 8,
-    "complexityAccSaber": 10.0
+    "complexityAccSaber": 10.3
   },
   {
     "name": "Someone Else",
@@ -114989,7 +114991,7 @@
     "nps": 2.907,
     "seconds": 191.625,
     "songCategory": 8,
-    "complexityAccSaber": 10.4
+    "complexityAccSaber": 10.6
   },
   {
     "name": "Killshot",
@@ -115003,7 +115005,7 @@
     "nps": 3.025,
     "seconds": 214.242,
     "songCategory": 8,
-    "complexityAccSaber": 9.6
+    "complexityAccSaber": 9.3
   },
   {
     "name": "Hypnotize",
@@ -115017,7 +115019,7 @@
     "nps": 3.1,
     "seconds": 178.696,
     "songCategory": 8,
-    "complexityAccSaber": 11.5
+    "complexityAccSaber": 11.1
   },
   {
     "name": "Better Than You",
@@ -115031,7 +115033,7 @@
     "nps": 3.237,
     "seconds": 146.118,
     "songCategory": 8,
-    "complexityAccSaber": 9.8
+    "complexityAccSaber": 9.5
   },
   {
     "name": "No Plans",
@@ -115045,7 +115047,7 @@
     "nps": 2.86,
     "seconds": 101.389,
     "songCategory": 8,
-    "complexityAccSaber": 8.9
+    "complexityAccSaber": 9.1
   },
   {
     "name": "Lush Life",
@@ -115059,7 +115061,7 @@
     "nps": 3.313,
     "seconds": 195.612,
     "songCategory": 8,
-    "complexityAccSaber": 12.0
+    "complexityAccSaber": 11.8
   },
   {
     "name": "Body Language",
@@ -116926,7 +116928,7 @@
     "seconds": 189.474,
     "songCategory": 37,
     "starScoreSaber": 4.690000057220459,
-    "complexityAccSaber": 6.9,
+    "complexityAccSaber": 7.0,
     "complexityAutoBalancer": 4.81
   },
   {
@@ -116942,7 +116944,7 @@
     "seconds": 189.474,
     "songCategory": 41,
     "starScoreSaber": 5.03000020980835,
-    "complexityAccSaber": 9.1,
+    "complexityAccSaber": 9.0,
     "complexityAutoBalancer": 5.25
   },
   {
@@ -117923,7 +117925,7 @@
     "nps": 1.796,
     "seconds": 158.453,
     "songCategory": 4,
-    "complexityAccSaber": 6.5
+    "complexityAccSaber": 6.9
   },
   {
     "name": "Eat That Up, It’s Good for You",
@@ -117937,7 +117939,7 @@
     "nps": 3.395,
     "seconds": 184.954,
     "songCategory": 4,
-    "complexityAccSaber": 7.2
+    "complexityAccSaber": 7.0
   },
   {
     "name": "Someone Else",
@@ -117951,7 +117953,7 @@
     "nps": 2.818,
     "seconds": 191.625,
     "songCategory": 4,
-    "complexityAccSaber": 6.2
+    "complexityAccSaber": 6.1
   },
   {
     "name": "Talking to Heads",
@@ -117965,7 +117967,7 @@
     "nps": 3.393,
     "seconds": 258.207,
     "songCategory": 4,
-    "complexityAccSaber": 9.1
+    "complexityAccSaber": 9.0
   },
   {
     "name": "10 things i hate about you",
@@ -117979,7 +117981,7 @@
     "nps": 3.277,
     "seconds": 135.17,
     "songCategory": 4,
-    "complexityAccSaber": 6.3
+    "complexityAccSaber": 6.0
   },
   {
     "name": "Always, Everytime",
@@ -117993,7 +117995,7 @@
     "nps": 3.094,
     "seconds": 169.662,
     "songCategory": 4,
-    "complexityAccSaber": 8.8
+    "complexityAccSaber": 8.1
   },
   {
     "name": "i am not who i was",
@@ -118021,7 +118023,7 @@
     "nps": 3.574,
     "seconds": 151.105,
     "songCategory": 4,
-    "complexityAccSaber": 8.0
+    "complexityAccSaber": 7.8
   },
   {
     "name": "Free",
@@ -118035,7 +118037,7 @@
     "nps": 3.138,
     "seconds": 180.179,
     "songCategory": 4,
-    "complexityAccSaber": 9.5
+    "complexityAccSaber": 9.2
   },
   {
     "name": "Body Language",
@@ -118049,7 +118051,7 @@
     "nps": 3.436,
     "seconds": 197.931,
     "songCategory": 8,
-    "complexityAccSaber": 10.8
+    "complexityAccSaber": 10.3
   },
   {
     "name": "Join the Club",
@@ -118063,7 +118065,7 @@
     "nps": 3.949,
     "seconds": 138.0,
     "songCategory": 8,
-    "complexityAccSaber": 10.3
+    "complexityAccSaber": 10.1
   },
   {
     "name": "stuck",
@@ -118077,7 +118079,7 @@
     "nps": 3.713,
     "seconds": 151.105,
     "songCategory": 8,
-    "complexityAccSaber": 12.7
+    "complexityAccSaber": 12.2
   },
   {
     "name": "The Unknowing",
@@ -118091,7 +118093,7 @@
     "nps": 3.024,
     "seconds": 185.167,
     "songCategory": 8,
-    "complexityAccSaber": 9.0
+    "complexityAccSaber": 9.4
   },
   {
     "name": "stuck",
@@ -118105,7 +118107,7 @@
     "nps": 1.363,
     "seconds": 151.105,
     "songCategory": 2,
-    "complexityAccSaber": 3.9
+    "complexityAccSaber": 3.0
   },
   {
     "name": "Tough Luck",
@@ -118119,7 +118121,7 @@
     "nps": 1.246,
     "seconds": 189.438,
     "songCategory": 2,
-    "complexityAccSaber": 5.0
+    "complexityAccSaber": 3.8
   },
   {
     "name": "Lovefool",
@@ -118133,7 +118135,7 @@
     "nps": 1.088,
     "seconds": 185.715,
     "songCategory": 2,
-    "complexityAccSaber": 4.0
+    "complexityAccSaber": 3.1
   },
   {
     "name": "It's My Bad",
@@ -118147,7 +118149,7 @@
     "nps": 1.282,
     "seconds": 187.159,
     "songCategory": 2,
-    "complexityAccSaber": 4.0
+    "complexityAccSaber": 3.8
   },
   {
     "name": "NO NAME",
@@ -118715,7 +118717,7 @@
     "nps": 2.676,
     "seconds": 182.0,
     "songCategory": 4,
-    "complexityAccSaber": 8.6
+    "complexityAccSaber": 8.3
   },
   {
     "name": "In The Dark",
@@ -118743,7 +118745,7 @@
     "nps": 3.889,
     "seconds": 179.752,
     "songCategory": 4,
-    "complexityAccSaber": 6.8
+    "complexityAccSaber": 6.6
   },
   {
     "name": "Turné",
@@ -118757,7 +118759,7 @@
     "nps": 2.633,
     "seconds": 166.714,
     "songCategory": 4,
-    "complexityAccSaber": 7.1
+    "complexityAccSaber": 6.0
   },
   {
     "name": "Hard Times",
@@ -118772,7 +118774,7 @@
     "seconds": 179.117,
     "songCategory": 5,
     "starScoreSaber": 3.809999942779541,
-    "complexityAccSaber": 5.3
+    "complexityAccSaber": 5.1
   },
   {
     "name": "Sentiment",
@@ -118786,7 +118788,7 @@
     "nps": 2.805,
     "seconds": 182.5,
     "songCategory": 4,
-    "complexityAccSaber": 5.8
+    "complexityAccSaber": 5.6
   },
   {
     "name": "Phoenix",
@@ -118800,7 +118802,7 @@
     "nps": 3.032,
     "seconds": 235.455,
     "songCategory": 8,
-    "complexityAccSaber": 10.5
+    "complexityAccSaber": 9.8
   },
   {
     "name": "only wanna dance",
@@ -118814,7 +118816,7 @@
     "nps": 3.486,
     "seconds": 142.012,
     "songCategory": 8,
-    "complexityAccSaber": 9.5
+    "complexityAccSaber": 9.1
   },
   {
     "name": "Busy Earnin",
@@ -118828,7 +118830,7 @@
     "nps": 3.212,
     "seconds": 172.463,
     "songCategory": 8,
-    "complexityAccSaber": 10.4
+    "complexityAccSaber": 9.9
   },
   {
     "name": "The Adults Are Talking",
@@ -118842,7 +118844,7 @@
     "nps": 3.364,
     "seconds": 239.909,
     "songCategory": 8,
-    "complexityAccSaber": 10.3
+    "complexityAccSaber": 10.2
   },
   {
     "name": "RUNAWAY",
@@ -118856,7 +118858,7 @@
     "nps": 2.469,
     "seconds": 140.132,
     "songCategory": 8,
-    "complexityAccSaber": 10.2
+    "complexityAccSaber": 9.7
   },
   {
     "name": "Cross The Street",
@@ -118870,7 +118872,7 @@
     "nps": 3.099,
     "seconds": 165.833,
     "songCategory": 8,
-    "complexityAccSaber": 9.3
+    "complexityAccSaber": 8.6
   },
   {
     "name": "favorite",
@@ -118884,7 +118886,7 @@
     "nps": 3.379,
     "seconds": 123.402,
     "songCategory": 8,
-    "complexityAccSaber": 11.8
+    "complexityAccSaber": 11.1
   },
   {
     "name": "Wall",
@@ -118898,7 +118900,7 @@
     "nps": 1.356,
     "seconds": 163.765,
     "songCategory": 2,
-    "complexityAccSaber": 3.8
+    "complexityAccSaber": 2.5
   },
   {
     "name": "Mr. Bubbles",
@@ -118912,7 +118914,7 @@
     "nps": 0.751,
     "seconds": 153.214,
     "songCategory": 2,
-    "complexityAccSaber": 4.3
+    "complexityAccSaber": 4.1
   },
   {
     "name": "Everytime We Touch",
@@ -118926,7 +118928,7 @@
     "nps": 1.265,
     "seconds": 151.8,
     "songCategory": 2,
-    "complexityAccSaber": 3.3
+    "complexityAccSaber": 2.8
   },
   {
     "name": "Sports car",
@@ -118940,7 +118942,7 @@
     "nps": 2.749,
     "seconds": 151.682,
     "songCategory": 8,
-    "complexityAccSaber": 11.0
+    "complexityAccSaber": 10.2
   },
   {
     "name": "Bury Me",
@@ -118954,7 +118956,7 @@
     "nps": 3.112,
     "seconds": 144.607,
     "songCategory": 8,
-    "complexityAccSaber": 11.7
+    "complexityAccSaber": 11.6
   },
   {
     "name": "JETLAGG!",
@@ -119125,7 +119127,7 @@
     "seconds": 184.226,
     "songCategory": 5,
     "starScoreSaber": 5.139999866485596,
-    "complexityAccSaber": 7.4
+    "complexityAccSaber": 7.5
   },
   {
     "name": "EmbryO",
@@ -120484,6 +120486,7 @@
   {
     "name": "Break Over",
     "scoreSaberID": "685921",
+    "beatLeaderID": "47b4exxx31",
     "beatSaverID": "47b4e",
     "hash": "0A8E630031B9301ED964CE3A742BE27732122265",
     "difficulty": "3",
@@ -120491,8 +120494,9 @@
     "njs": 14.0,
     "nps": 3.268,
     "seconds": 124.541,
-    "songCategory": 1,
-    "starScoreSaber": 5.150000095367432
+    "songCategory": 5,
+    "starScoreSaber": 5.150000095367432,
+    "complexityAccSaber": 7.7
   },
   {
     "name": "You Spin Me Round (Like a Record)",
@@ -120571,7 +120575,7 @@
     "nps": 2.651,
     "seconds": 122.168,
     "songCategory": 4,
-    "complexityAccSaber": 6.0
+    "complexityAccSaber": 6.1
   },
   {
     "name": "Onbezonnen",
@@ -120599,7 +120603,7 @@
     "nps": 2.466,
     "seconds": 174.783,
     "songCategory": 4,
-    "complexityAccSaber": 5.7
+    "complexityAccSaber": 5.6
   },
   {
     "name": "hours",
@@ -120613,7 +120617,7 @@
     "nps": 3.429,
     "seconds": 174.091,
     "songCategory": 4,
-    "complexityAccSaber": 7.2
+    "complexityAccSaber": 6.6
   },
   {
     "name": "Electric Love",
@@ -120627,7 +120631,7 @@
     "nps": 2.575,
     "seconds": 204.671,
     "songCategory": 4,
-    "complexityAccSaber": 7.6
+    "complexityAccSaber": 8.2
   },
   {
     "name": "Ano band",
@@ -120641,7 +120645,7 @@
     "nps": 1.587,
     "seconds": 190.25,
     "songCategory": 4,
-    "complexityAccSaber": 5.5
+    "complexityAccSaber": 4.8
   },
   {
     "name": "Mr. Bubbles",
@@ -120655,7 +120659,7 @@
     "nps": 2.917,
     "seconds": 153.214,
     "songCategory": 4,
-    "complexityAccSaber": 8.5
+    "complexityAccSaber": 8.4
   },
   {
     "name": "New Type of Hero",
@@ -120669,7 +120673,7 @@
     "nps": 3.116,
     "seconds": 181.315,
     "songCategory": 8,
-    "complexityAccSaber": 12.2
+    "complexityAccSaber": 11.2
   },
   {
     "name": "Once a Day",
@@ -120683,7 +120687,7 @@
     "nps": 2.889,
     "seconds": 207.667,
     "songCategory": 8,
-    "complexityAccSaber": 9.5
+    "complexityAccSaber": 9.4
   },
   {
     "name": "Girls In Bikinis",
@@ -120697,7 +120701,7 @@
     "nps": 3.445,
     "seconds": 135.259,
     "songCategory": 8,
-    "complexityAccSaber": 9.9
+    "complexityAccSaber": 9.8
   },
   {
     "name": "hours",
@@ -120711,7 +120715,7 @@
     "nps": 3.481,
     "seconds": 174.091,
     "songCategory": 8,
-    "complexityAccSaber": 11.7
+    "complexityAccSaber": 11.1
   },
   {
     "name": "Muse",
@@ -120725,7 +120729,7 @@
     "nps": 2.755,
     "seconds": 140.455,
     "songCategory": 8,
-    "complexityAccSaber": 8.2
+    "complexityAccSaber": 8.3
   },
   {
     "name": "Horror Show",
@@ -120739,7 +120743,7 @@
     "nps": 3.114,
     "seconds": 122.664,
     "songCategory": 8,
-    "complexityAccSaber": 11.4
+    "complexityAccSaber": 10.5
   },
   {
     "name": "Runnin' Mouth",
@@ -120753,7 +120757,7 @@
     "nps": 2.608,
     "seconds": 137.25,
     "songCategory": 8,
-    "complexityAccSaber": 10.1
+    "complexityAccSaber": 10.0
   },
   {
     "name": "Liar Liar",
@@ -120767,7 +120771,7 @@
     "nps": 1.018,
     "seconds": 166.919,
     "songCategory": 2,
-    "complexityAccSaber": 6.2
+    "complexityAccSaber": 5.3
   },
   {
     "name": "r u ok?",
@@ -120781,7 +120785,7 @@
     "nps": 1.126,
     "seconds": 158.906,
     "songCategory": 2,
-    "complexityAccSaber": 3.4
+    "complexityAccSaber": 2.3
   },
   {
     "name": "Turné",
@@ -120795,7 +120799,7 @@
     "nps": 0.942,
     "seconds": 166.714,
     "songCategory": 2,
-    "complexityAccSaber": 3.9
+    "complexityAccSaber": 3.3
   },
   {
     "name": "Sanity Krush",
@@ -123472,7 +123476,7 @@
     "nps": 2.088,
     "seconds": 131.724,
     "songCategory": 4,
-    "complexityAccSaber": 4.5
+    "complexityAccSaber": 3.9
   },
   {
     "name": "Chromatically",
@@ -123486,7 +123490,7 @@
     "nps": 2.421,
     "seconds": 187.5,
     "songCategory": 4,
-    "complexityAccSaber": 5.1
+    "complexityAccSaber": 4.6
   },
   {
     "name": "99%",
@@ -123500,7 +123504,7 @@
     "nps": 3.211,
     "seconds": 131.724,
     "songCategory": 4,
-    "complexityAccSaber": 6.1
+    "complexityAccSaber": 6.2
   },
   {
     "name": "When You Know Someone",
@@ -123514,7 +123518,7 @@
     "nps": 3.26,
     "seconds": 133.125,
     "songCategory": 4,
-    "complexityAccSaber": 6.5
+    "complexityAccSaber": 7.2
   },
   {
     "name": "CASINO RAVE",
@@ -123528,7 +123532,7 @@
     "nps": 2.696,
     "seconds": 159.141,
     "songCategory": 4,
-    "complexityAccSaber": 6.0
+    "complexityAccSaber": 6.1
   },
   {
     "name": "Hush",
@@ -123556,7 +123560,7 @@
     "nps": 3.061,
     "seconds": 204.5,
     "songCategory": 8,
-    "complexityAccSaber": 10.3
+    "complexityAccSaber": 10.1
   },
   {
     "name": "HYPNOTIZE",
@@ -123570,7 +123574,7 @@
     "nps": 3.343,
     "seconds": 164.531,
     "songCategory": 8,
-    "complexityAccSaber": 10.4
+    "complexityAccSaber": 9.9
   },
   {
     "name": "Magic",
@@ -123598,7 +123602,7 @@
     "nps": 3.617,
     "seconds": 162.553,
     "songCategory": 8,
-    "complexityAccSaber": 10.3
+    "complexityAccSaber": 11.2
   },
   {
     "name": "Good Girl",
@@ -123612,7 +123616,7 @@
     "nps": 2.882,
     "seconds": 114.857,
     "songCategory": 8,
-    "complexityAccSaber": 10.5
+    "complexityAccSaber": 10.2
   },
   {
     "name": "Chromatically",
@@ -123626,7 +123630,7 @@
     "nps": 1.157,
     "seconds": 187.5,
     "songCategory": 2,
-    "complexityAccSaber": 4.3
+    "complexityAccSaber": 3.9
   },
   {
     "name": "Royals",
@@ -123640,7 +123644,7 @@
     "nps": 1.153,
     "seconds": 185.647,
     "songCategory": 2,
-    "complexityAccSaber": 3.6
+    "complexityAccSaber": 3.3
   },
   {
     "name": "Interdixion",
@@ -123898,7 +123902,7 @@
     "starAccBeatLeader": 4.112118244171143,
     "starPassBeatLeader": 0.7356901168823242,
     "starTechBeatLeader": 0.6917566657066345,
-    "complexityAccSaber": 5.9
+    "complexityAccSaber": 6.7
   },
   {
     "name": "toxic till the end",
@@ -124259,7 +124263,7 @@
     "seconds": 158.348,
     "songCategory": 5,
     "starScoreSaber": 4.510000228881836,
-    "complexityAccSaber": 6.2
+    "complexityAccSaber": 6.0
   },
   {
     "name": "Polka Dot Dobbins",
@@ -124516,7 +124520,7 @@
     "nps": 3.399,
     "seconds": 173.455,
     "songCategory": 8,
-    "complexityAccSaber": 9.8
+    "complexityAccSaber": 9.9
   },
   {
     "name": "can't slow down",
@@ -124530,7 +124534,7 @@
     "nps": 3.231,
     "seconds": 173.622,
     "songCategory": 8,
-    "complexityAccSaber": 8.8
+    "complexityAccSaber": 8.9
   },
   {
     "name": "Underestimated Your High",
@@ -124544,7 +124548,7 @@
     "nps": 2.828,
     "seconds": 218.137,
     "songCategory": 8,
-    "complexityAccSaber": 10.9
+    "complexityAccSaber": 10.8
   },
   {
     "name": "My Girl",
@@ -124558,7 +124562,7 @@
     "nps": 2.708,
     "seconds": 152.86,
     "songCategory": 8,
-    "complexityAccSaber": 9.8
+    "complexityAccSaber": 9.7
   },
   {
     "name": "Capsize",
@@ -124572,7 +124576,7 @@
     "nps": 3.276,
     "seconds": 166.08,
     "songCategory": 8,
-    "complexityAccSaber": 10.3
+    "complexityAccSaber": 9.9
   },
   {
     "name": "Can't Keep A Beat",
@@ -124586,7 +124590,7 @@
     "nps": 3.427,
     "seconds": 161.375,
     "songCategory": 8,
-    "complexityAccSaber": 10.1
+    "complexityAccSaber": 9.8
   },
   {
     "name": "SUPERSCAR",
@@ -124614,7 +124618,7 @@
     "nps": 3.258,
     "seconds": 164.531,
     "songCategory": 4,
-    "complexityAccSaber": 6.8
+    "complexityAccSaber": 6.7
   },
   {
     "name": "Rift",
@@ -124628,7 +124632,7 @@
     "nps": 2.967,
     "seconds": 174.266,
     "songCategory": 4,
-    "complexityAccSaber": 6.7
+    "complexityAccSaber": 6.5
   },
   {
     "name": "Capsize",
@@ -124656,7 +124660,7 @@
     "nps": 2.486,
     "seconds": 164.531,
     "songCategory": 4,
-    "complexityAccSaber": 5.2
+    "complexityAccSaber": 5.1
   },
   {
     "name": "Rift",
@@ -124670,7 +124674,7 @@
     "nps": 2.41,
     "seconds": 174.266,
     "songCategory": 4,
-    "complexityAccSaber": 5.6
+    "complexityAccSaber": 6.0
   },
   {
     "name": "RUDE!",
@@ -124684,7 +124688,7 @@
     "nps": 2.982,
     "seconds": 194.531,
     "songCategory": 4,
-    "complexityAccSaber": 6.9
+    "complexityAccSaber": 7.1
   },
   {
     "name": "Magic",
@@ -124698,7 +124702,7 @@
     "nps": 2.382,
     "seconds": 163.721,
     "songCategory": 4,
-    "complexityAccSaber": 6.5
+    "complexityAccSaber": 6.9
   },
   {
     "name": "Seven (feat. Latto)",
@@ -124712,7 +124716,7 @@
     "nps": 0.992,
     "seconds": 177.36,
     "songCategory": 2,
-    "complexityAccSaber": 4.2
+    "complexityAccSaber": 3.9
   },
   {
     "name": "Capsize",
@@ -124726,7 +124730,7 @@
     "nps": 1.0,
     "seconds": 166.08,
     "songCategory": 2,
-    "complexityAccSaber": 2.5
+    "complexityAccSaber": 2.4
   },
   {
     "name": "Hush",
@@ -124740,7 +124744,7 @@
     "nps": 1.087,
     "seconds": 166.452,
     "songCategory": 2,
-    "complexityAccSaber": 3.4
+    "complexityAccSaber": 3.2
   },
   {
     "name": "HYPNOTIZE",
@@ -124754,7 +124758,7 @@
     "nps": 1.137,
     "seconds": 164.531,
     "songCategory": 2,
-    "complexityAccSaber": 3.3
+    "complexityAccSaber": 3.5
   },
   {
     "name": "We're On Fire",
@@ -124782,7 +124786,7 @@
     "nps": 3.065,
     "seconds": 221.207,
     "songCategory": 8,
-    "complexityAccSaber": 12.4
+    "complexityAccSaber": 12.1
   },
   {
     "name": "Hito Mania",
@@ -125555,7 +125559,7 @@
     "nps": 2.127,
     "seconds": 189.435,
     "songCategory": 8,
-    "complexityAccSaber": 9.1
+    "complexityAccSaber": 9.0
   },
   {
     "name": "Somewhere Only We Know",
@@ -125569,7 +125573,7 @@
     "nps": 2.283,
     "seconds": 224.259,
     "songCategory": 4,
-    "complexityAccSaber": 6.6
+    "complexityAccSaber": 6.4
   },
   {
     "name": "Cities",
@@ -125597,7 +125601,7 @@
     "nps": 2.447,
     "seconds": 169.211,
     "songCategory": 8,
-    "complexityAccSaber": 10.4
+    "complexityAccSaber": 10.5
   },
   {
     "name": "i won't run",
@@ -125611,7 +125615,7 @@
     "nps": 3.518,
     "seconds": 156.667,
     "songCategory": 4,
-    "complexityAccSaber": 6.7
+    "complexityAccSaber": 6.3
   },
   {
     "name": "It Is What It Is",
@@ -125639,7 +125643,7 @@
     "nps": 3.902,
     "seconds": 187.875,
     "songCategory": 8,
-    "complexityAccSaber": 11.9
+    "complexityAccSaber": 11.6
   },
   {
     "name": "Hide And Seek",
@@ -125653,7 +125657,7 @@
     "nps": 2.734,
     "seconds": 217.234,
     "songCategory": 8,
-    "complexityAccSaber": 9.3
+    "complexityAccSaber": 9.1
   },
   {
     "name": "Wall",
@@ -125667,7 +125671,7 @@
     "nps": 3.508,
     "seconds": 164.471,
     "songCategory": 8,
-    "complexityAccSaber": 11.4
+    "complexityAccSaber": 11.0
   },
   {
     "name": "Lumiose City",
@@ -125695,7 +125699,7 @@
     "nps": 1.165,
     "seconds": 169.054,
     "songCategory": 2,
-    "complexityAccSaber": 3.5
+    "complexityAccSaber": 3.0
   },
   {
     "name": "Drugs and Candy",
@@ -125709,7 +125713,7 @@
     "nps": 3.27,
     "seconds": 197.23,
     "songCategory": 4,
-    "complexityAccSaber": 8.2
+    "complexityAccSaber": 7.9
   },
   {
     "name": "Delulu",
@@ -125723,7 +125727,7 @@
     "nps": 1.216,
     "seconds": 140.656,
     "songCategory": 2,
-    "complexityAccSaber": 4.0
+    "complexityAccSaber": 3.9
   },
   {
     "name": "FANCY",
@@ -125737,7 +125741,7 @@
     "nps": 1.211,
     "seconds": 211.364,
     "songCategory": 2,
-    "complexityAccSaber": 1.4
+    "complexityAccSaber": 1.8
   },
   {
     "name": "Macaroni Moon",
@@ -125751,7 +125755,7 @@
     "nps": 2.381,
     "seconds": 191.08,
     "songCategory": 8,
-    "complexityAccSaber": 10.5
+    "complexityAccSaber": 10.1
   },
   {
     "name": "Downpour.vip",
@@ -125765,7 +125769,7 @@
     "nps": 0.972,
     "seconds": 230.442,
     "songCategory": 2,
-    "complexityAccSaber": 1.0
+    "complexityAccSaber": 1.4
   },
   {
     "name": "r u ok?",
@@ -125779,7 +125783,7 @@
     "nps": 3.644,
     "seconds": 158.906,
     "songCategory": 8,
-    "complexityAccSaber": 10.3
+    "complexityAccSaber": 10.4
   },
   {
     "name": "FOCUS",
@@ -125793,7 +125797,7 @@
     "nps": 2.735,
     "seconds": 173.308,
     "songCategory": 4,
-    "complexityAccSaber": 6.7
+    "complexityAccSaber": 7.2
   },
   {
     "name": "xo",
@@ -125821,7 +125825,7 @@
     "nps": 3.025,
     "seconds": 157.031,
     "songCategory": 8,
-    "complexityAccSaber": 9.3
+    "complexityAccSaber": 9.8
   },
   {
     "name": "FIRST:DREAMS",
@@ -126603,7 +126607,7 @@
     "seconds": 196.875,
     "songCategory": 5,
     "starScoreSaber": 4.190000057220459,
-    "complexityAccSaber": 5.5
+    "complexityAccSaber": 5.1
   },
   {
     "name": "Adios",
@@ -127136,7 +127140,7 @@
     "nps": 9.778,
     "seconds": 172.895,
     "songCategory": 1,
-    "starScoreSaber": 12.649999618530273
+    "starScoreSaber": 12.600000381469727
   },
   {
     "name": "Miku",
@@ -127384,7 +127388,7 @@
     "nps": 2.526,
     "seconds": 172.208,
     "songCategory": 8,
-    "complexityAccSaber": 7.4
+    "complexityAccSaber": 7.2
   },
   {
     "name": "10 Percent Jazz",
@@ -127398,7 +127402,7 @@
     "nps": 2.947,
     "seconds": 134.394,
     "songCategory": 4,
-    "complexityAccSaber": 5.9
+    "complexityAccSaber": 6.4
   },
   {
     "name": "Masterpiece",
@@ -127412,7 +127416,7 @@
     "nps": 3.028,
     "seconds": 166.116,
     "songCategory": 8,
-    "complexityAccSaber": 10.2
+    "complexityAccSaber": 10.3
   },
   {
     "name": "Lumiose City",
@@ -127426,7 +127430,7 @@
     "nps": 1.207,
     "seconds": 180.667,
     "songCategory": 4,
-    "complexityAccSaber": 4.0
+    "complexityAccSaber": 3.9
   },
   {
     "name": "Cicada",
@@ -127468,7 +127472,7 @@
     "nps": 2.511,
     "seconds": 167.682,
     "songCategory": 4,
-    "complexityAccSaber": 6.1
+    "complexityAccSaber": 6.0
   },
   {
     "name": "Midnight Sun",
@@ -127482,7 +127486,7 @@
     "nps": 2.803,
     "seconds": 167.682,
     "songCategory": 8,
-    "complexityAccSaber": 9.6
+    "complexityAccSaber": 9.8
   },
   {
     "name": "Midnight Sun",
@@ -127510,7 +127514,7 @@
     "nps": 2.105,
     "seconds": 218.083,
     "songCategory": 4,
-    "complexityAccSaber": 6.4
+    "complexityAccSaber": 6.9
   },
   {
     "name": "Kiss the Sky",
@@ -127524,7 +127528,7 @@
     "nps": 1.117,
     "seconds": 207.619,
     "songCategory": 2,
-    "complexityAccSaber": 3.2
+    "complexityAccSaber": 2.9
   },
   {
     "name": "Kiss the Sky",
@@ -127538,7 +127542,7 @@
     "nps": 2.976,
     "seconds": 207.649,
     "songCategory": 8,
-    "complexityAccSaber": 11.5
+    "complexityAccSaber": 11.4
   },
   {
     "name": "Kiss the Sky",
@@ -127552,7 +127556,7 @@
     "nps": 2.735,
     "seconds": 207.649,
     "songCategory": 4,
-    "complexityAccSaber": 6.7
+    "complexityAccSaber": 6.8
   },
   {
     "name": "My Life Would Suck Without You",
@@ -127566,7 +127570,7 @@
     "nps": 0.653,
     "seconds": 205.241,
     "songCategory": 2,
-    "complexityAccSaber": 6.7
+    "complexityAccSaber": 6.2
   },
   {
     "name": "My Life Would Suck Without You",
@@ -127580,7 +127584,7 @@
     "nps": 2.154,
     "seconds": 203.379,
     "songCategory": 4,
-    "complexityAccSaber": 9.6
+    "complexityAccSaber": 9.7
   },
   {
     "name": "Green Light",
@@ -127594,7 +127598,7 @@
     "nps": 3.609,
     "seconds": 191.458,
     "songCategory": 8,
-    "complexityAccSaber": 10.5
+    "complexityAccSaber": 9.9
   },
   {
     "name": "Cold As Ice",
@@ -127607,7 +127611,7 @@
     "nps": 2.109,
     "seconds": 183.0,
     "songCategory": 1,
-    "starScoreSaber": 3.559999942779541
+    "starScoreSaber": 4.059999942779541
   },
   {
     "name": "Cold As Ice",
@@ -127620,7 +127624,7 @@
     "nps": 5.087,
     "seconds": 183.0,
     "songCategory": 1,
-    "starScoreSaber": 6.75
+    "starScoreSaber": 7.28000020980835
   },
   {
     "name": "Nietige Wortel",
@@ -127633,7 +127637,7 @@
     "nps": 4.002,
     "seconds": 207.474,
     "songCategory": 1,
-    "starScoreSaber": 4.420000076293945
+    "starScoreSaber": 6.210000038146973
   },
   {
     "name": "Nietige Wortel",
@@ -127646,7 +127650,7 @@
     "nps": 2.486,
     "seconds": 207.474,
     "songCategory": 1,
-    "starScoreSaber": 4.039999961853027
+    "starScoreSaber": 4.690000057220459
   },
   {
     "name": "Nietige Wortel",
@@ -127659,7 +127663,7 @@
     "nps": 6.973,
     "seconds": 207.158,
     "songCategory": 1,
-    "starScoreSaber": 9.619999885559082
+    "starScoreSaber": 9.5600004196167
   },
   {
     "name": "Nietige Wortel",
@@ -127672,7 +127676,7 @@
     "nps": 4.813,
     "seconds": 207.158,
     "songCategory": 1,
-    "starScoreSaber": 4.900000095367432
+    "starScoreSaber": 7.019999980926514
   },
   {
     "name": "Anomaly",
@@ -127685,7 +127689,7 @@
     "nps": 6.492,
     "seconds": 229.05,
     "songCategory": 1,
-    "starScoreSaber": 9.729999542236328
+    "starScoreSaber": 9.680000305175781
   },
   {
     "name": "Ne Night & All Night",
@@ -127698,7 +127702,7 @@
     "nps": 4.888,
     "seconds": 173.906,
     "songCategory": 1,
-    "starScoreSaber": 4.670000076293945
+    "starScoreSaber": 5.400000095367432
   },
   {
     "name": "Deep Down",
@@ -127713,7 +127717,7 @@
     "seconds": 161.905,
     "songCategory": 5,
     "starScoreSaber": 5.46999979019165,
-    "complexityAccSaber": 8.6
+    "complexityAccSaber": 8.1
   },
   {
     "name": "Deep Down",
@@ -127726,7 +127730,7 @@
     "nps": 3.138,
     "seconds": 161.905,
     "songCategory": 1,
-    "starScoreSaber": 5.389999866485596
+    "starScoreSaber": 5.650000095367432
   },
   {
     "name": "⨍iиorzᾶ",
@@ -127739,7 +127743,7 @@
     "nps": 8.725,
     "seconds": 276.667,
     "songCategory": 1,
-    "starScoreSaber": 13.670000076293945
+    "starScoreSaber": 14.149999618530273
   },
   {
     "name": "Cold As Ice",
@@ -127765,7 +127769,7 @@
     "nps": 7.7,
     "seconds": 173.906,
     "songCategory": 1,
-    "starScoreSaber": 7.25
+    "starScoreSaber": 7.800000190734863
   },
   {
     "name": "Lavie",
@@ -127791,7 +127795,7 @@
     "nps": 3.981,
     "seconds": 29.386,
     "songCategory": 1,
-    "starScoreSaber": 4.199999809265137
+    "starScoreSaber": 6.849999904632568
   },
   {
     "name": "first death",
@@ -127804,16 +127808,20 @@
     "nps": 7.153,
     "seconds": 235.976,
     "songCategory": 1,
-    "starScoreSaber": 10.729999542236328
+    "starScoreSaber": 10.899999618530273
   },
   {
     "name": "Feel so Good",
     "scoreSaberID": "1498141",
+    "beatSaverID": "4dd57",
     "hash": "B983A7508D132BA130F65EDDF643B3DCFFF18EAA",
     "difficulty": "9",
     "characteristic": "Standard",
+    "njs": 16.0,
+    "nps": 4.134,
+    "seconds": 145.154,
     "songCategory": 1,
-    "starScoreSaber": 7.179999828338623
+    "starScoreSaber": 7.730000019073486
   },
   {
     "name": "bad times",
@@ -127826,7 +127834,7 @@
     "nps": 3.073,
     "seconds": 55.0,
     "songCategory": 1,
-    "starScoreSaber": 3.7699999809265137
+    "starScoreSaber": 5.46999979019165
   },
   {
     "name": "Deep Down",
@@ -127839,7 +127847,7 @@
     "nps": 3.829,
     "seconds": 161.905,
     "songCategory": 1,
-    "starScoreSaber": 6.28000020980835
+    "starScoreSaber": 7.230000019073486
   },
   {
     "name": "bad times",
@@ -127852,7 +127860,7 @@
     "nps": 3.964,
     "seconds": 55.0,
     "songCategory": 1,
-    "starScoreSaber": 8.289999961853027
+    "starScoreSaber": 7.769999980926514
   },
   {
     "name": "⨍iиorzᾶ",
@@ -127865,7 +127873,7 @@
     "nps": 7.554,
     "seconds": 276.667,
     "songCategory": 1,
-    "starScoreSaber": 10.5
+    "starScoreSaber": 11.170000076293945
   },
   {
     "name": "Bubblegum Bitch",
@@ -127878,16 +127886,20 @@
     "nps": 4.168,
     "seconds": 54.942,
     "songCategory": 1,
-    "starScoreSaber": 4.079999923706055
+    "starScoreSaber": 5.300000190734863
   },
   {
     "name": "Arcahv",
     "scoreSaberID": "2014597",
+    "beatSaverID": "4da66",
     "hash": "A40A59B7AE95F8D2326BEBF83621A618EB72D328",
     "difficulty": "9",
     "characteristic": "Standard",
+    "njs": 19.0,
+    "nps": 6.535,
+    "seconds": 160.681,
     "songCategory": 1,
-    "starScoreSaber": 10.359999656677246
+    "starScoreSaber": 10.5600004196167
   },
   {
     "name": "Deep Down",
@@ -127900,7 +127912,7 @@
     "nps": 1.643,
     "seconds": 161.905,
     "songCategory": 1,
-    "starScoreSaber": 3.5999999046325684
+    "starScoreSaber": 5.25
   },
   {
     "name": "Family Guy Main Title",
@@ -127913,7 +127925,7 @@
     "nps": 2.995,
     "seconds": 29.386,
     "songCategory": 1,
-    "starScoreSaber": 3.7799999713897705
+    "starScoreSaber": 5.329999923706055
   },
   {
     "name": "Lavie",
@@ -127926,7 +127938,7 @@
     "nps": 5.944,
     "seconds": 128.525,
     "songCategory": 1,
-    "starScoreSaber": 9.239999771118164
+    "starScoreSaber": 9.199999809265137
   },
   {
     "name": "Lavie",
@@ -127939,7 +127951,7 @@
     "nps": 3.003,
     "seconds": 128.525,
     "songCategory": 1,
-    "starScoreSaber": 6.190000057220459
+    "starScoreSaber": 6.329999923706055
   },
   {
     "name": "first death",
@@ -127952,7 +127964,7 @@
     "nps": 4.136,
     "seconds": 235.976,
     "songCategory": 1,
-    "starScoreSaber": 4.980000019073486
+    "starScoreSaber": 7.329999923706055
   },
   {
     "name": "Bubblegum Bitch",
@@ -127965,16 +127977,20 @@
     "nps": 5.169,
     "seconds": 54.942,
     "songCategory": 1,
-    "starScoreSaber": 7.869999885559082
+    "starScoreSaber": 6.929999828338623
   },
   {
     "name": "Arcahv",
     "scoreSaberID": "2014596",
+    "beatSaverID": "4da66",
     "hash": "A40A59B7AE95F8D2326BEBF83621A618EB72D328",
     "difficulty": "7",
     "characteristic": "Standard",
+    "njs": 17.0,
+    "nps": 4.462,
+    "seconds": 160.681,
     "songCategory": 1,
-    "starScoreSaber": 7.510000228881836
+    "starScoreSaber": 7.760000228881836
   },
   {
     "name": "Deep Down",
@@ -127987,7 +128003,7 @@
     "nps": 1.342,
     "seconds": 160.952,
     "songCategory": 1,
-    "starScoreSaber": 3.6600000858306885
+    "starScoreSaber": 4.5
   },
   {
     "name": "Bubblegum Bitch",
@@ -128000,7 +128016,7 @@
     "nps": 2.621,
     "seconds": 54.942,
     "songCategory": 1,
-    "starScoreSaber": 3.7100000381469727
+    "starScoreSaber": 4.210000038146973
   },
   {
     "name": "first death",
@@ -128013,7 +128029,7 @@
     "nps": 5.28,
     "seconds": 235.976,
     "songCategory": 1,
-    "starScoreSaber": 6.670000076293945
+    "starScoreSaber": 8.109999656677246
   },
   {
     "name": "Bubblegum Bitch",
@@ -128026,16 +128042,20 @@
     "nps": 3.622,
     "seconds": 54.942,
     "songCategory": 1,
-    "starScoreSaber": 3.869999885559082
+    "starScoreSaber": 5.269999980926514
   },
   {
     "name": "Arcahv",
     "scoreSaberID": "2014595",
+    "beatSaverID": "4da66",
     "hash": "A40A59B7AE95F8D2326BEBF83621A618EB72D328",
     "difficulty": "5",
     "characteristic": "Standard",
+    "njs": 15.0,
+    "nps": 3.691,
+    "seconds": 160.681,
     "songCategory": 1,
-    "starScoreSaber": 5.360000133514404
+    "starScoreSaber": 6.659999847412109
   },
   {
     "name": "Bubblegum Bitch",
@@ -128048,7 +128068,7 @@
     "nps": 6.261,
     "seconds": 54.942,
     "songCategory": 1,
-    "starScoreSaber": 10.010000228881836
+    "starScoreSaber": 9.319999694824219
   },
   {
     "name": "Cold As Ice",
@@ -128061,7 +128081,7 @@
     "nps": 6.071,
     "seconds": 183.006,
     "songCategory": 1,
-    "starScoreSaber": 10.489999771118164
+    "starScoreSaber": 10.520000457763672
   },
   {
     "name": "Nietige Wortel",
@@ -128087,7 +128107,7 @@
     "nps": 3.088,
     "seconds": 173.906,
     "songCategory": 1,
-    "starScoreSaber": 3.9000000953674316
+    "starScoreSaber": 4.75
   },
   {
     "name": "Anomaly",
@@ -128100,7 +128120,7 @@
     "nps": 8.836,
     "seconds": 229.05,
     "songCategory": 1,
-    "starScoreSaber": 13.1899995803833
+    "starScoreSaber": 14.25
   },
   {
     "name": "Ne Night & All Night",
@@ -128113,7 +128133,7 @@
     "nps": 9.758,
     "seconds": 173.906,
     "songCategory": 1,
-    "starScoreSaber": 11.149999618530273
+    "starScoreSaber": 10.869999885559082
   },
   {
     "name": "Classical VIP",
@@ -128150,9 +128170,13 @@
   {
     "name": "CR SPEEDRAVER",
     "beatLeaderID": "4b9fcxx91",
+    "beatSaverID": "4b9fc",
     "hash": "AC333C554BC54BBE913C4E6A65077864F2E49CC4",
     "difficulty": "9",
     "characteristic": "Standard",
+    "njs": 20.0,
+    "nps": 11.23,
+    "seconds": 181.931,
     "songCategory": 16,
     "starBeatLeader": 11.212133407592773,
     "starAccBeatLeader": 10.426121711730957,
@@ -128178,9 +128202,13 @@
   {
     "name": "Raised by Bats",
     "beatLeaderID": "4ad7exx92",
+    "beatSaverID": "4ad7e",
     "hash": "3A25265C95C1A45370B363AE6A4FE1CF51D16EE7",
     "difficulty": "9",
     "characteristic": "OneSaber",
+    "njs": 16.0,
+    "nps": 4.141,
+    "seconds": 208.911,
     "songCategory": 16,
     "starBeatLeader": 8.34358024597168,
     "starAccBeatLeader": 11.122060775756836,
@@ -128206,9 +128234,13 @@
   {
     "name": "Raised by Bats",
     "beatLeaderID": "4ad7exx91",
+    "beatSaverID": "4ad7e",
     "hash": "3A25265C95C1A45370B363AE6A4FE1CF51D16EE7",
     "difficulty": "9",
     "characteristic": "Standard",
+    "njs": 16.0,
+    "nps": 4.983,
+    "seconds": 208.911,
     "songCategory": 16,
     "starBeatLeader": 6.165684700012207,
     "starAccBeatLeader": 8.41019058227539,
@@ -128218,9 +128250,13 @@
   {
     "name": "Raised by Bats",
     "beatLeaderID": "4ad7exx72",
+    "beatSaverID": "4ad7e",
     "hash": "3A25265C95C1A45370B363AE6A4FE1CF51D16EE7",
     "difficulty": "7",
     "characteristic": "OneSaber",
+    "njs": 15.0,
+    "nps": 2.065,
+    "seconds": 208.214,
     "songCategory": 16,
     "starBeatLeader": 5.7320966720581055,
     "starAccBeatLeader": 8.579691886901855,
@@ -128278,9 +128314,13 @@
   {
     "name": "Raised by Bats",
     "beatLeaderID": "4ad7exx71",
+    "beatSaverID": "4ad7e",
     "hash": "3A25265C95C1A45370B363AE6A4FE1CF51D16EE7",
     "difficulty": "7",
     "characteristic": "Standard",
+    "njs": 15.0,
+    "nps": 2.541,
+    "seconds": 208.214,
     "songCategory": 16,
     "starBeatLeader": 3.7782368659973145,
     "starAccBeatLeader": 6.032825946807861,
@@ -128290,9 +128330,13 @@
   {
     "name": "Raised by Bats",
     "beatLeaderID": "4ad7exx52",
+    "beatSaverID": "4ad7e",
     "hash": "3A25265C95C1A45370B363AE6A4FE1CF51D16EE7",
     "difficulty": "5",
     "characteristic": "OneSaber",
+    "njs": 13.0,
+    "nps": 1.586,
+    "seconds": 208.035,
     "songCategory": 16,
     "starBeatLeader": 3.6952831745147705,
     "starAccBeatLeader": 6.226418495178223,
@@ -128318,9 +128362,13 @@
   {
     "name": "Raised by Bats",
     "beatLeaderID": "4ad7exx51",
+    "beatSaverID": "4ad7e",
     "hash": "3A25265C95C1A45370B363AE6A4FE1CF51D16EE7",
     "difficulty": "5",
     "characteristic": "Standard",
+    "njs": 13.0,
+    "nps": 2.017,
+    "seconds": 208.214,
     "songCategory": 16,
     "starBeatLeader": 2.370286226272583,
     "starAccBeatLeader": 4.360549449920654,
@@ -128346,9 +128394,13 @@
   {
     "name": "Raised by Bats",
     "beatLeaderID": "4ad7exx32",
+    "beatSaverID": "4ad7e",
     "hash": "3A25265C95C1A45370B363AE6A4FE1CF51D16EE7",
     "difficulty": "3",
     "characteristic": "OneSaber",
+    "njs": 11.0,
+    "nps": 1.027,
+    "seconds": 207.446,
     "songCategory": 16,
     "starBeatLeader": 2.060025691986084,
     "starAccBeatLeader": 4.264966011047363,
@@ -128358,9 +128410,13 @@
   {
     "name": "Raised by Bats",
     "beatLeaderID": "4ad7exx31",
+    "beatSaverID": "4ad7e",
     "hash": "3A25265C95C1A45370B363AE6A4FE1CF51D16EE7",
     "difficulty": "3",
     "characteristic": "Standard",
+    "njs": 11.0,
+    "nps": 1.441,
+    "seconds": 208.214,
     "songCategory": 16,
     "starBeatLeader": 1.5618082284927368,
     "starAccBeatLeader": 3.4504618644714355,
@@ -128370,9 +128426,13 @@
   {
     "name": "Raised by Bats",
     "beatLeaderID": "4ad7exx11",
+    "beatSaverID": "4ad7e",
     "hash": "3A25265C95C1A45370B363AE6A4FE1CF51D16EE7",
     "difficulty": "1",
     "characteristic": "Standard",
+    "njs": 10.0,
+    "nps": 1.172,
+    "seconds": 208.214,
     "songCategory": 16,
     "starBeatLeader": 1.2932662963867188,
     "starAccBeatLeader": 3.025148868560791,
@@ -128382,9 +128442,13 @@
   {
     "name": "Raised by Bats",
     "beatLeaderID": "4ad7exx12",
+    "beatSaverID": "4ad7e",
     "hash": "3A25265C95C1A45370B363AE6A4FE1CF51D16EE7",
     "difficulty": "1",
     "characteristic": "OneSaber",
+    "njs": 10.0,
+    "nps": 0.718,
+    "seconds": 207.446,
     "songCategory": 16,
     "starBeatLeader": 1.2844065427780151,
     "starAccBeatLeader": 3.007308006286621,
@@ -128395,9 +128459,13 @@
     "name": "Only For A Moment",
     "scoreSaberID": "1114000",
     "beatLeaderID": "524dc11",
+    "beatSaverID": "524dc",
     "hash": "2CDC0BCCD9259057925080DDCF21219CD89CAD59",
     "difficulty": "1",
     "characteristic": "Standard",
+    "njs": 10.0,
+    "nps": 0.733,
+    "seconds": 163.714,
     "songCategory": 2,
     "complexityAccSaber": 4.9
   },
@@ -128405,21 +128473,29 @@
     "name": "Only For A Moment",
     "scoreSaberID": "1114002",
     "beatLeaderID": "524dc51",
+    "beatSaverID": "524dc",
     "hash": "2CDC0BCCD9259057925080DDCF21219CD89CAD59",
     "difficulty": "5",
     "characteristic": "Standard",
+    "njs": 13.0,
+    "nps": 2.769,
+    "seconds": 163.929,
     "songCategory": 8,
-    "complexityAccSaber": 9.6
+    "complexityAccSaber": 9.8
   },
   {
     "name": "Only For A Moment",
     "scoreSaberID": "1114001",
     "beatLeaderID": "524dc31",
+    "beatSaverID": "524dc",
     "hash": "2CDC0BCCD9259057925080DDCF21219CD89CAD59",
     "difficulty": "3",
     "characteristic": "Standard",
+    "njs": 11.5,
+    "nps": 2.855,
+    "seconds": 163.929,
     "songCategory": 4,
-    "complexityAccSaber": 5.9
+    "complexityAccSaber": 6.1
   },
   {
     "name": "enjoy the ride",
@@ -128433,7 +128509,7 @@
     "nps": 2.305,
     "seconds": 154.467,
     "songCategory": 4,
-    "complexityAccSaber": 7.0
+    "complexityAccSaber": 7.4
   },
   {
     "name": "enjoy the ride",
@@ -128447,7 +128523,7 @@
     "nps": 2.402,
     "seconds": 154.467,
     "songCategory": 8,
-    "complexityAccSaber": 10.7
+    "complexityAccSaber": 10.9
   },
   {
     "name": "enjoy the ride",
@@ -128461,7 +128537,7 @@
     "nps": 0.832,
     "seconds": 153.831,
     "songCategory": 2,
-    "complexityAccSaber": 3.8
+    "complexityAccSaber": 3.6
   },
   {
     "name": "fantasize",
@@ -128475,7 +128551,7 @@
     "nps": 2.897,
     "seconds": 142.586,
     "songCategory": 4,
-    "complexityAccSaber": 6.6
+    "complexityAccSaber": 6.9
   },
   {
     "name": "fantasize",
@@ -128489,17 +128565,21 @@
     "nps": 2.05,
     "seconds": 142.439,
     "songCategory": 4,
-    "complexityAccSaber": 4.2
+    "complexityAccSaber": 4.5
   },
   {
     "name": "100 ways",
     "scoreSaberID": "1654892",
     "beatLeaderID": "52cd1x71",
+    "beatSaverID": "52cd1",
     "hash": "8882025601756DC2535B9223F6C8D212D57E9DFA",
     "difficulty": "7",
     "characteristic": "Standard",
+    "njs": 14.0,
+    "nps": 3.116,
+    "seconds": 165.588,
     "songCategory": 8,
-    "complexityAccSaber": 12.5
+    "complexityAccSaber": 12.0
   },
   {
     "name": "Hoshifuru Yoru to Ichirin no Hana",
@@ -128513,7 +128593,7 @@
     "nps": 2.403,
     "seconds": 168.136,
     "songCategory": 4,
-    "complexityAccSaber": 5.7
+    "complexityAccSaber": 5.4
   },
   {
     "name": "I'm talking to you!",
@@ -128527,15 +128607,19 @@
     "nps": 1.141,
     "seconds": 131.461,
     "songCategory": 2,
-    "complexityAccSaber": 4.5
+    "complexityAccSaber": 4.1
   },
   {
     "name": "Desdemona",
     "scoreSaberID": "1736691",
     "beatLeaderID": "52e27xxx91",
+    "beatSaverID": "52e27",
     "hash": "93091BB2181754757055A384BBEBB4F6C65087E5",
     "difficulty": "9",
     "characteristic": "Standard",
+    "njs": 13.0,
+    "nps": 3.179,
+    "seconds": 208.525,
     "songCategory": 8,
     "complexityAccSaber": 10.6
   },
@@ -128551,15 +128635,19 @@
     "nps": 3.77,
     "seconds": 206.64,
     "songCategory": 4,
-    "complexityAccSaber": 8.2
+    "complexityAccSaber": 7.9
   },
   {
     "name": "FOCUS",
     "scoreSaberID": "676993",
     "beatLeaderID": "4b6f151",
+    "beatSaverID": "4b6f1",
     "hash": "E5C654BFAF385FEDA0DF68A406DFADDA471DF62E",
     "difficulty": "5",
     "characteristic": "Standard",
+    "njs": 13.0,
+    "nps": 3.386,
+    "seconds": 173.077,
     "songCategory": 8,
     "complexityAccSaber": 10.0
   },
@@ -128575,7 +128663,7 @@
     "nps": 2.605,
     "seconds": 227.241,
     "songCategory": 8,
-    "complexityAccSaber": 8.5
+    "complexityAccSaber": 8.6
   },
   {
     "name": "Home",
@@ -128589,6 +128677,938 @@
     "nps": 1.693,
     "seconds": 127.595,
     "songCategory": 4,
-    "complexityAccSaber": 7.4
+    "complexityAccSaber": 7.6
+  },
+  {
+    "name": "Sell a Friend",
+    "scoreSaberID": "703540",
+    "hash": "C4CD0072E8BED696DC56D60BBD856A22470CE34A",
+    "difficulty": "3",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 4.150000095367432
+  },
+  {
+    "name": "Grandspell (-Microdose-)",
+    "scoreSaberID": "703566",
+    "beatSaverID": "4db57",
+    "hash": "8CFD658BB23597D325FD38A3D2854143BFE2D8BA",
+    "difficulty": "9",
+    "characteristic": "Standard",
+    "njs": 18.0,
+    "nps": 5.709,
+    "seconds": 165.357,
+    "songCategory": 1,
+    "starScoreSaber": 11.5600004196167
+  },
+  {
+    "name": "Sell a Friend",
+    "scoreSaberID": "703538",
+    "hash": "C4CD0072E8BED696DC56D60BBD856A22470CE34A",
+    "difficulty": "7",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 7.139999866485596
+  },
+  {
+    "name": "Grandspell (-Microdose-)",
+    "scoreSaberID": "703562",
+    "beatSaverID": "4db57",
+    "hash": "8CFD658BB23597D325FD38A3D2854143BFE2D8BA",
+    "difficulty": "5",
+    "characteristic": "Standard",
+    "njs": 15.0,
+    "nps": 3.635,
+    "seconds": 165.357,
+    "songCategory": 1,
+    "starScoreSaber": 4.5
+  },
+  {
+    "name": "Sell a Friend",
+    "scoreSaberID": "703539",
+    "hash": "C4CD0072E8BED696DC56D60BBD856A22470CE34A",
+    "difficulty": "5",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 4.769999980926514
+  },
+  {
+    "name": "Grandspell (-Microdose-)",
+    "scoreSaberID": "703565",
+    "beatSaverID": "4db57",
+    "hash": "8CFD658BB23597D325FD38A3D2854143BFE2D8BA",
+    "difficulty": "7",
+    "characteristic": "Standard",
+    "njs": 16.5,
+    "nps": 4.366,
+    "seconds": 165.357,
+    "songCategory": 1,
+    "starScoreSaber": 7.320000171661377
+  },
+  {
+    "name": "Grandspell (-Microdose-)",
+    "scoreSaberID": "703561",
+    "beatSaverID": "4db57",
+    "hash": "8CFD658BB23597D325FD38A3D2854143BFE2D8BA",
+    "difficulty": "3",
+    "characteristic": "Standard",
+    "njs": 13.0,
+    "nps": 2.649,
+    "seconds": 165.357,
+    "songCategory": 1,
+    "starScoreSaber": 4.510000228881836
+  },
+  {
+    "name": "Noncount Vibes",
+    "scoreSaberID": "2244671",
+    "beatSaverID": "525b8",
+    "hash": "2362D85BFC462E1FD7EF583C2DBFE0F45E188EB8",
+    "difficulty": "9",
+    "characteristic": "Standard",
+    "njs": 19.0,
+    "nps": 8.707,
+    "seconds": 171.005,
+    "songCategory": 1,
+    "starScoreSaber": 11.119999885559082
+  },
+  {
+    "name": "Archive of Youth",
+    "scoreSaberID": "2051028",
+    "hash": "EA4687455998A9E23FAC42AF31BE438F271F9C92",
+    "difficulty": "9",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 11.920000076293945
+  },
+  {
+    "name": "Down",
+    "scoreSaberID": "963940",
+    "beatSaverID": "51e11",
+    "hash": "7643FE70698333C10C1A703BF074F2E7D887826F",
+    "difficulty": "9",
+    "characteristic": "Standard",
+    "njs": 13.0,
+    "nps": 3.966,
+    "seconds": 138.182,
+    "songCategory": 1,
+    "starScoreSaber": 8.649999618530273
+  },
+  {
+    "name": "Thunderstrike",
+    "scoreSaberID": "2240768",
+    "beatSaverID": "5016d",
+    "hash": "AB820A74533E072EE5480A52F440A373B5726ECE",
+    "difficulty": "9",
+    "characteristic": "Standard",
+    "njs": 20.0,
+    "nps": 7.881,
+    "seconds": 303.258,
+    "songCategory": 1,
+    "starScoreSaber": 13.140000343322754
+  },
+  {
+    "name": "Gumbarlzo!",
+    "scoreSaberID": "2242170",
+    "hash": "1DEFDB592B431109172199B1FAEA40913EC6950C",
+    "difficulty": "9",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 13.699999809265137
+  },
+  {
+    "name": "Noncount Vibes",
+    "scoreSaberID": "2244669",
+    "beatSaverID": "525b8",
+    "hash": "2362D85BFC462E1FD7EF583C2DBFE0F45E188EB8",
+    "difficulty": "5",
+    "characteristic": "Standard",
+    "njs": 16.5,
+    "nps": 6.263,
+    "seconds": 171.0,
+    "songCategory": 1,
+    "starScoreSaber": 7.800000190734863
+  },
+  {
+    "name": "Dyscontrolled Galaxy",
+    "scoreSaberID": "2243676",
+    "beatSaverID": "4fdac",
+    "hash": "5A5E168EBA62CEE5B5F2A1F8664C163D5B5353D4",
+    "difficulty": "5",
+    "characteristic": "Standard",
+    "njs": 21.0,
+    "nps": 10.031,
+    "seconds": 283.416,
+    "songCategory": 1,
+    "starScoreSaber": 12.65999984741211
+  },
+  {
+    "name": "The Master II: Blades Of Chaos",
+    "scoreSaberID": "2244193",
+    "hash": "6C88F72B0999B5DB0ADA01ADDFB9560DDD2A7E3C",
+    "difficulty": "5",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 8.859999656677246
+  },
+  {
+    "name": "The Master II: Blades Of Chaos",
+    "scoreSaberID": "2244194",
+    "hash": "6C88F72B0999B5DB0ADA01ADDFB9560DDD2A7E3C",
+    "difficulty": "7",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 11.899999618530273
+  },
+  {
+    "name": "Thunderstrike",
+    "scoreSaberID": "2240766",
+    "beatSaverID": "5016d",
+    "hash": "AB820A74533E072EE5480A52F440A373B5726ECE",
+    "difficulty": "5",
+    "characteristic": "Standard",
+    "njs": 16.0,
+    "nps": 4.759,
+    "seconds": 302.813,
+    "songCategory": 1,
+    "starScoreSaber": 8.579999923706055
+  },
+  {
+    "name": "Dyscontrolled Galaxy",
+    "scoreSaberID": "2243677",
+    "beatSaverID": "4fdac",
+    "hash": "5A5E168EBA62CEE5B5F2A1F8664C163D5B5353D4",
+    "difficulty": "7",
+    "characteristic": "Standard",
+    "njs": 20.8,
+    "nps": 9.075,
+    "seconds": 283.416,
+    "songCategory": 1,
+    "starScoreSaber": 12.319999694824219
+  },
+  {
+    "name": "The Master II: Blades Of Chaos",
+    "scoreSaberID": "2244191",
+    "hash": "6C88F72B0999B5DB0ADA01ADDFB9560DDD2A7E3C",
+    "difficulty": "1",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 4.519999980926514
+  },
+  {
+    "name": "Dyscontrolled Galaxy",
+    "scoreSaberID": "2243678",
+    "beatSaverID": "4fdac",
+    "hash": "5A5E168EBA62CEE5B5F2A1F8664C163D5B5353D4",
+    "difficulty": "9",
+    "characteristic": "Standard",
+    "njs": 20.5,
+    "nps": 9.364,
+    "seconds": 283.416,
+    "songCategory": 1,
+    "starScoreSaber": 13.369999885559082
+  },
+  {
+    "name": "Dawn of the Dragonstar",
+    "scoreSaberID": "2244473",
+    "beatSaverID": "5116a",
+    "hash": "833DF762554679B10347FBC5CA80ACB5CB51A030",
+    "difficulty": "9",
+    "characteristic": "Standard",
+    "njs": 22.2,
+    "nps": 12.923,
+    "seconds": 202.971,
+    "songCategory": 1,
+    "starScoreSaber": 12.0600004196167
+  },
+  {
+    "name": "Enigma II",
+    "scoreSaberID": "2241111",
+    "beatSaverID": "4f07c",
+    "hash": "5279D5C89A0ABCCAF26FDA9C941E2967BA20F07B",
+    "difficulty": "5",
+    "characteristic": "Standard",
+    "njs": 15.11,
+    "nps": 4.426,
+    "seconds": 105.522,
+    "songCategory": 1,
+    "starScoreSaber": 5.119999885559082
+  },
+  {
+    "name": "Noncount Vibes",
+    "scoreSaberID": "2244667",
+    "beatSaverID": "525b8",
+    "hash": "2362D85BFC462E1FD7EF583C2DBFE0F45E188EB8",
+    "difficulty": "1",
+    "characteristic": "Standard",
+    "njs": 11.0,
+    "nps": 3.006,
+    "seconds": 170.333,
+    "songCategory": 1,
+    "starScoreSaber": 3.880000114440918
+  },
+  {
+    "name": "Dyscontrolled Galaxy",
+    "scoreSaberID": "2243675",
+    "beatSaverID": "4fdac",
+    "hash": "5A5E168EBA62CEE5B5F2A1F8664C163D5B5353D4",
+    "difficulty": "3",
+    "characteristic": "Standard",
+    "njs": 18.5,
+    "nps": 6.132,
+    "seconds": 283.416,
+    "songCategory": 1,
+    "starScoreSaber": 8.890000343322754
+  },
+  {
+    "name": "Archive of Youth",
+    "scoreSaberID": "2051027",
+    "hash": "EA4687455998A9E23FAC42AF31BE438F271F9C92",
+    "difficulty": "7",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 9.420000076293945
+  },
+  {
+    "name": "Fractured Angel",
+    "scoreSaberID": "780593",
+    "hash": "0E7AE885B49F48D45782163DEEBEEC6DA034C506",
+    "difficulty": "3",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 5.679999828338623
+  },
+  {
+    "name": "Dawn of the Dragonstar",
+    "scoreSaberID": "2244471",
+    "beatSaverID": "5116a",
+    "hash": "833DF762554679B10347FBC5CA80ACB5CB51A030",
+    "difficulty": "5",
+    "characteristic": "Standard",
+    "njs": 18.0,
+    "nps": 9.213,
+    "seconds": 202.971,
+    "songCategory": 1,
+    "starScoreSaber": 7.28000020980835
+  },
+  {
+    "name": "Enigma II",
+    "scoreSaberID": "2241110",
+    "beatSaverID": "4f07c",
+    "hash": "5279D5C89A0ABCCAF26FDA9C941E2967BA20F07B",
+    "difficulty": "3",
+    "characteristic": "Standard",
+    "njs": 13.11,
+    "nps": 3.317,
+    "seconds": 105.522,
+    "songCategory": 1,
+    "starScoreSaber": 4.349999904632568
+  },
+  {
+    "name": "Noncount Vibes",
+    "scoreSaberID": "2244670",
+    "beatSaverID": "525b8",
+    "hash": "2362D85BFC462E1FD7EF583C2DBFE0F45E188EB8",
+    "difficulty": "7",
+    "characteristic": "Standard",
+    "njs": 18.0,
+    "nps": 7.327,
+    "seconds": 171.0,
+    "songCategory": 1,
+    "starScoreSaber": 9.220000267028809
+  },
+  {
+    "name": "Noncount Vibes",
+    "scoreSaberID": "2242549",
+    "beatSaverID": "51137",
+    "hash": "94CA8EE37406458074085E0BA438E5026DC92A67",
+    "difficulty": "7",
+    "characteristic": "Standard",
+    "njs": 16.3,
+    "nps": 6.316,
+    "seconds": 171.007,
+    "songCategory": 1,
+    "starScoreSaber": 9.300000190734863
+  },
+  {
+    "name": "Noncount Vibes",
+    "scoreSaberID": "2242548",
+    "beatSaverID": "51137",
+    "hash": "94CA8EE37406458074085E0BA438E5026DC92A67",
+    "difficulty": "5",
+    "characteristic": "Standard",
+    "njs": 14.0,
+    "nps": 4.31,
+    "seconds": 171.0,
+    "songCategory": 1,
+    "starScoreSaber": 5.949999809265137
+  },
+  {
+    "name": "Enigma II",
+    "scoreSaberID": "2241113",
+    "beatSaverID": "4f07c",
+    "hash": "5279D5C89A0ABCCAF26FDA9C941E2967BA20F07B",
+    "difficulty": "9",
+    "characteristic": "Standard",
+    "njs": 19.11,
+    "nps": 10.328,
+    "seconds": 105.535,
+    "songCategory": 1,
+    "starScoreSaber": 12.470000267028809
+  },
+  {
+    "name": "Enigma II",
+    "scoreSaberID": "2241109",
+    "beatSaverID": "4f07c",
+    "hash": "5279D5C89A0ABCCAF26FDA9C941E2967BA20F07B",
+    "difficulty": "1",
+    "characteristic": "Standard",
+    "njs": 11.11,
+    "nps": 2.132,
+    "seconds": 105.075,
+    "songCategory": 1,
+    "starScoreSaber": 3.4200000762939453
+  },
+  {
+    "name": "Thunderstrike",
+    "scoreSaberID": "2240767",
+    "beatSaverID": "5016d",
+    "hash": "AB820A74533E072EE5480A52F440A373B5726ECE",
+    "difficulty": "7",
+    "characteristic": "Standard",
+    "njs": 18.0,
+    "nps": 6.631,
+    "seconds": 303.258,
+    "songCategory": 1,
+    "starScoreSaber": 11.010000228881836
+  },
+  {
+    "name": "Enigma II",
+    "scoreSaberID": "2241112",
+    "beatSaverID": "4f07c",
+    "hash": "5279D5C89A0ABCCAF26FDA9C941E2967BA20F07B",
+    "difficulty": "7",
+    "characteristic": "Standard",
+    "njs": 18.11,
+    "nps": 6.596,
+    "seconds": 105.522,
+    "songCategory": 1,
+    "starScoreSaber": 9.0
+  },
+  {
+    "name": "The Master II: Blades Of Chaos",
+    "scoreSaberID": "2244195",
+    "hash": "6C88F72B0999B5DB0ADA01ADDFB9560DDD2A7E3C",
+    "difficulty": "9",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 11.449999809265137
+  },
+  {
+    "name": "The Master II: Blades Of Chaos",
+    "scoreSaberID": "2244192",
+    "hash": "6C88F72B0999B5DB0ADA01ADDFB9560DDD2A7E3C",
+    "difficulty": "3",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 5.619999885559082
+  },
+  {
+    "name": "Noncount Vibes",
+    "scoreSaberID": "2244668",
+    "beatSaverID": "525b8",
+    "hash": "2362D85BFC462E1FD7EF583C2DBFE0F45E188EB8",
+    "difficulty": "3",
+    "characteristic": "Standard",
+    "njs": 14.0,
+    "nps": 4.45,
+    "seconds": 171.0,
+    "songCategory": 1,
+    "starScoreSaber": 4.590000152587891
+  },
+  {
+    "name": "Noncount Vibes",
+    "scoreSaberID": "2242550",
+    "beatSaverID": "51137",
+    "hash": "94CA8EE37406458074085E0BA438E5026DC92A67",
+    "difficulty": "9",
+    "characteristic": "Standard",
+    "njs": 18.0,
+    "nps": 8.0,
+    "seconds": 171.007,
+    "songCategory": 1,
+    "starScoreSaber": 11.550000190734863
+  },
+  {
+    "name": "Dawn of the Dragonstar",
+    "scoreSaberID": "2244469",
+    "beatSaverID": "5116a",
+    "hash": "833DF762554679B10347FBC5CA80ACB5CB51A030",
+    "difficulty": "1",
+    "characteristic": "Standard",
+    "njs": 12.0,
+    "nps": 4.055,
+    "seconds": 202.971,
+    "songCategory": 1,
+    "starScoreSaber": 4.570000171661377
+  },
+  {
+    "name": "Sell a Friend",
+    "scoreSaberID": "703506",
+    "hash": "C4CD0072E8BED696DC56D60BBD856A22470CE34A",
+    "difficulty": "9",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 8.989999771118164
+  },
+  {
+    "name": "Dawn of the Dragonstar",
+    "scoreSaberID": "2244472",
+    "beatSaverID": "5116a",
+    "hash": "833DF762554679B10347FBC5CA80ACB5CB51A030",
+    "difficulty": "7",
+    "characteristic": "Standard",
+    "njs": 20.0,
+    "nps": 10.43,
+    "seconds": 202.971,
+    "songCategory": 1,
+    "starScoreSaber": 10.770000457763672
+  },
+  {
+    "name": "Fractured Angel",
+    "scoreSaberID": "780592",
+    "hash": "0E7AE885B49F48D45782163DEEBEEC6DA034C506",
+    "difficulty": "1",
+    "characteristic": "Standard",
+    "songCategory": 1,
+    "starScoreSaber": 4.320000171661377
+  },
+  {
+    "name": "Dawn of the Dragonstar",
+    "scoreSaberID": "2244470",
+    "beatSaverID": "5116a",
+    "hash": "833DF762554679B10347FBC5CA80ACB5CB51A030",
+    "difficulty": "3",
+    "characteristic": "Standard",
+    "njs": 15.0,
+    "nps": 5.656,
+    "seconds": 202.971,
+    "songCategory": 1,
+    "starScoreSaber": 5.369999885559082
+  },
+  {
+    "name": "Sound Chimera",
+    "beatLeaderID": "4cbd0xxxx91",
+    "hash": "E29203DE6C2970254B678CBCA33A5354BEE79106",
+    "difficulty": "9",
+    "characteristic": "Standard",
+    "songCategory": 16,
+    "starBeatLeader": 13.97084903717041,
+    "starAccBeatLeader": 11.96321964263916,
+    "starPassBeatLeader": 14.562811851501465,
+    "starTechBeatLeader": 7.197717666625977
+  },
+  {
+    "name": "MIREN",
+    "beatLeaderID": "4cb5cxxx91",
+    "beatSaverID": "4cb5c",
+    "hash": "05A1E0CF2D1EE6971116D2EC5184B68D3DC1BA3F",
+    "difficulty": "9",
+    "characteristic": "Standard",
+    "njs": 18.0,
+    "nps": 6.98,
+    "seconds": 233.514,
+    "songCategory": 16,
+    "starBeatLeader": 12.954483032226562,
+    "starAccBeatLeader": 12.399272918701172,
+    "starPassBeatLeader": 8.750213623046875,
+    "starTechBeatLeader": 13.00418472290039
+  },
+  {
+    "name": "ENÛMA∇ELIŠ",
+    "beatLeaderID": "44794xxx92",
+    "beatSaverID": "44794",
+    "hash": "A201AADB8F2BF513FF4C8E4E41A0E20DC113ECB3",
+    "difficulty": "9",
+    "characteristic": "OneSaber",
+    "njs": 20.0,
+    "nps": 7.063,
+    "seconds": 161.538,
+    "songCategory": 16,
+    "starBeatLeader": 12.088434219360352,
+    "starAccBeatLeader": 13.671128273010254,
+    "starPassBeatLeader": 4.546492099761963,
+    "starTechBeatLeader": 9.653801918029785
+  },
+  {
+    "name": "ENÛMA∇ELIŠ",
+    "beatLeaderID": "44794xxx91",
+    "beatSaverID": "44794",
+    "hash": "A201AADB8F2BF513FF4C8E4E41A0E20DC113ECB3",
+    "difficulty": "9",
+    "characteristic": "Standard",
+    "njs": 20.0,
+    "nps": 12.536,
+    "seconds": 161.538,
+    "songCategory": 16,
+    "starBeatLeader": 11.919169425964355,
+    "starAccBeatLeader": 12.108664512634277,
+    "starPassBeatLeader": 9.030632972717285,
+    "starTechBeatLeader": 7.794127464294434
+  },
+  {
+    "name": "Itchy Scratchy",
+    "beatLeaderID": "4c006xx91",
+    "hash": "DA5D41909C6B53C5A31B6D3693ACEF9D90463DC2",
+    "difficulty": "9",
+    "characteristic": "Standard",
+    "songCategory": 16,
+    "starBeatLeader": 10.374431610107422,
+    "starAccBeatLeader": 10.668837547302246,
+    "starPassBeatLeader": 8.517801284790039,
+    "starTechBeatLeader": 7.461529731750488
+  },
+  {
+    "name": "BIKE",
+    "beatLeaderID": "4e47axx91",
+    "beatSaverID": "4e47a",
+    "hash": "1E342362345BBF5700D8841057A45926C9940BA2",
+    "difficulty": "9",
+    "characteristic": "Standard",
+    "njs": 18.0,
+    "nps": 5.935,
+    "seconds": 97.214,
+    "songCategory": 16,
+    "starBeatLeader": 9.91840648651123,
+    "starAccBeatLeader": 10.744972229003906,
+    "starPassBeatLeader": 6.170438289642334,
+    "starTechBeatLeader": 9.224838256835938
+  },
+  {
+    "name": "ENÛMA∇ELIŠ",
+    "beatLeaderID": "44794xxx71",
+    "beatSaverID": "44794",
+    "hash": "A201AADB8F2BF513FF4C8E4E41A0E20DC113ECB3",
+    "difficulty": "7",
+    "characteristic": "Standard",
+    "njs": 19.0,
+    "nps": 11.217,
+    "seconds": 161.538,
+    "songCategory": 16,
+    "starBeatLeader": 9.751248359680176,
+    "starAccBeatLeader": 10.616774559020996,
+    "starPassBeatLeader": 8.099566459655762,
+    "starTechBeatLeader": 4.757901668548584
+  },
+  {
+    "name": "MIREN",
+    "beatLeaderID": "4cb5cxxx71",
+    "beatSaverID": "4cb5c",
+    "hash": "05A1E0CF2D1EE6971116D2EC5184B68D3DC1BA3F",
+    "difficulty": "7",
+    "characteristic": "Standard",
+    "njs": 15.0,
+    "nps": 5.417,
+    "seconds": 233.514,
+    "songCategory": 16,
+    "starBeatLeader": 9.566572189331055,
+    "starAccBeatLeader": 10.474966049194336,
+    "starPassBeatLeader": 5.748060703277588,
+    "starTechBeatLeader": 9.374505043029785
+  },
+  {
+    "name": "ENÛMA∇ELIŠ",
+    "beatLeaderID": "44794xxx51",
+    "beatSaverID": "44794",
+    "hash": "A201AADB8F2BF513FF4C8E4E41A0E20DC113ECB3",
+    "difficulty": "5",
+    "characteristic": "Standard",
+    "njs": 18.0,
+    "nps": 7.676,
+    "seconds": 161.538,
+    "songCategory": 16,
+    "starBeatLeader": 7.642819881439209,
+    "starAccBeatLeader": 8.83420181274414,
+    "starPassBeatLeader": 6.613060474395752,
+    "starTechBeatLeader": 4.14910888671875
+  },
+  {
+    "name": "MIREN",
+    "beatLeaderID": "4cb5cxxx51",
+    "beatSaverID": "4cb5c",
+    "hash": "05A1E0CF2D1EE6971116D2EC5184B68D3DC1BA3F",
+    "difficulty": "5",
+    "characteristic": "Standard",
+    "njs": 13.0,
+    "nps": 4.18,
+    "seconds": 233.514,
+    "songCategory": 16,
+    "starBeatLeader": 5.282939434051514,
+    "starAccBeatLeader": 7.016970634460449,
+    "starPassBeatLeader": 3.319504976272583,
+    "starTechBeatLeader": 4.52105712890625
+  },
+  {
+    "name": "ENÛMA∇ELIŠ",
+    "beatLeaderID": "44794xxx31",
+    "beatSaverID": "44794",
+    "hash": "A201AADB8F2BF513FF4C8E4E41A0E20DC113ECB3",
+    "difficulty": "3",
+    "characteristic": "Standard",
+    "njs": 17.0,
+    "nps": 4.333,
+    "seconds": 161.538,
+    "songCategory": 16,
+    "starBeatLeader": 4.602712631225586,
+    "starAccBeatLeader": 6.700389862060547,
+    "starPassBeatLeader": 2.712733268737793,
+    "starTechBeatLeader": 2.4637715816497803
+  },
+  {
+    "name": "ENÛMA∇ELIŠ",
+    "beatLeaderID": "44794xxx11",
+    "beatSaverID": "44794",
+    "hash": "A201AADB8F2BF513FF4C8E4E41A0E20DC113ECB3",
+    "difficulty": "1",
+    "characteristic": "Standard",
+    "njs": 16.0,
+    "nps": 2.569,
+    "seconds": 161.538,
+    "songCategory": 16,
+    "starBeatLeader": 3.0220577716827393,
+    "starAccBeatLeader": 5.152193069458008,
+    "starPassBeatLeader": 1.4602633714675903,
+    "starTechBeatLeader": 1.2197792530059814
+  },
+  {
+    "name": "MIREN",
+    "beatLeaderID": "4cb5cxxx31",
+    "beatSaverID": "4cb5c",
+    "hash": "05A1E0CF2D1EE6971116D2EC5184B68D3DC1BA3F",
+    "difficulty": "3",
+    "characteristic": "Standard",
+    "njs": 10.0,
+    "nps": 2.081,
+    "seconds": 233.108,
+    "songCategory": 16,
+    "starBeatLeader": 2.6486024856567383,
+    "starAccBeatLeader": 4.667827606201172,
+    "starPassBeatLeader": 1.1242778301239014,
+    "starTechBeatLeader": 1.5174448490142822
+  },
+  {
+    "name": "MIREN",
+    "beatLeaderID": "4cb5cxxx11",
+    "beatSaverID": "4cb5c",
+    "hash": "05A1E0CF2D1EE6971116D2EC5184B68D3DC1BA3F",
+    "difficulty": "1",
+    "characteristic": "Standard",
+    "njs": 8.0,
+    "nps": 1.493,
+    "seconds": 233.108,
+    "songCategory": 16,
+    "starBeatLeader": 1.668835997581482,
+    "starAccBeatLeader": 3.5298378467559814,
+    "starPassBeatLeader": 0.5093153119087219,
+    "starTechBeatLeader": 0.5809136629104614
+  },
+  {
+    "name": "Gone For Good",
+    "scoreSaberID": "2055312",
+    "beatLeaderID": "53497x31",
+    "hash": "5B0AF1DE2D02A6ABB2D3C3ACC399E94466CC1615",
+    "difficulty": "3",
+    "characteristic": "Standard",
+    "songCategory": 2,
+    "complexityAccSaber": 3.2
+  },
+  {
+    "name": "KIIRI",
+    "scoreSaberID": "661497",
+    "beatLeaderID": "482f071",
+    "beatSaverID": "482f0",
+    "hash": "5E0B1F871AB9392FF1E99428BB38552A84629D18",
+    "difficulty": "7",
+    "characteristic": "Standard",
+    "njs": 15.0,
+    "nps": 3.838,
+    "seconds": 159.706,
+    "songCategory": 8,
+    "complexityAccSaber": 10.6
+  },
+  {
+    "name": "東京真中 - ドゥーマー feat. 重音テト",
+    "scoreSaberID": "2241095",
+    "beatLeaderID": "53831xx51",
+    "beatSaverID": "53831",
+    "hash": "64E73CAA29C1F037D6564768FD73279D73879127",
+    "difficulty": "5",
+    "characteristic": "Standard",
+    "njs": 13.0,
+    "nps": 2.927,
+    "seconds": 146.565,
+    "songCategory": 4,
+    "complexityAccSaber": 7.8
+  },
+  {
+    "name": "YES GODDD",
+    "scoreSaberID": "1087587",
+    "beatLeaderID": "5244771",
+    "hash": "6CF5667B1F777E722B1C2B367987FD99CC4BF8F2",
+    "difficulty": "7",
+    "characteristic": "Standard",
+    "songCategory": 8,
+    "complexityAccSaber": 11.7
+  },
+  {
+    "name": "Eurosummer",
+    "scoreSaberID": "1950558",
+    "beatLeaderID": "53271x71",
+    "beatSaverID": "53271",
+    "hash": "93EF647ED5B8C5E60187CFBE09D8D51FF9B2F89A",
+    "difficulty": "7",
+    "characteristic": "Standard",
+    "njs": 13.0,
+    "nps": 2.743,
+    "seconds": 164.754,
+    "songCategory": 4,
+    "complexityAccSaber": 7.7
+  },
+  {
+    "name": "Eurosummer",
+    "scoreSaberID": "1950559",
+    "beatLeaderID": "53271x91",
+    "beatSaverID": "53271",
+    "hash": "93EF647ED5B8C5E60187CFBE09D8D51FF9B2F89A",
+    "difficulty": "9",
+    "characteristic": "Standard",
+    "njs": 15.0,
+    "nps": 3.514,
+    "seconds": 164.754,
+    "songCategory": 8,
+    "complexityAccSaber": 11.5
+  },
+  {
+    "name": "Eurosummer",
+    "scoreSaberID": "1950557",
+    "beatLeaderID": "53271x51",
+    "beatSaverID": "53271",
+    "hash": "93EF647ED5B8C5E60187CFBE09D8D51FF9B2F89A",
+    "difficulty": "5",
+    "characteristic": "Standard",
+    "njs": 11.0,
+    "nps": 1.108,
+    "seconds": 164.262,
+    "songCategory": 2,
+    "complexityAccSaber": 3.6
+  },
+  {
+    "name": "Overworld Medley (Super Mario World)",
+    "scoreSaberID": "693918",
+    "beatLeaderID": "4bd53x31",
+    "hash": "94AAEDD7032E283120B5FD7E231E22791C850E2B",
+    "difficulty": "3",
+    "characteristic": "Standard",
+    "songCategory": 4,
+    "complexityAccSaber": 4.4
+  },
+  {
+    "name": "Eureka",
+    "scoreSaberID": "1719386",
+    "beatLeaderID": "52e67x71",
+    "beatSaverID": "52e67",
+    "hash": "9E958F63A9740AE1D0D87A8F5F2530BC0A9DB9D7",
+    "difficulty": "7",
+    "characteristic": "Standard",
+    "njs": 13.0,
+    "nps": 2.774,
+    "seconds": 170.878,
+    "songCategory": 8,
+    "complexityAccSaber": 9.6
+  },
+  {
+    "name": "Tangerine Rays",
+    "scoreSaberID": "2244116",
+    "beatLeaderID": "53f13x11",
+    "beatSaverID": "53f13",
+    "hash": "A8587D0C94955B4D3E8BF4A699B16EB94A2B4B8A",
+    "difficulty": "1",
+    "characteristic": "Standard",
+    "njs": 10.0,
+    "nps": 0.672,
+    "seconds": 173.983,
+    "songCategory": 2,
+    "complexityAccSaber": 3.0
+  },
+  {
+    "name": "Red Bottoms",
+    "scoreSaberID": "2162152",
+    "beatLeaderID": "5372591",
+    "hash": "C8170B03A7857B3B29AEA1DDB433A375463CA8E4",
+    "difficulty": "9",
+    "characteristic": "Standard",
+    "songCategory": 4,
+    "complexityAccSaber": 8.6
+  },
+  {
+    "name": "r u ok?",
+    "scoreSaberID": "669885",
+    "beatLeaderID": "49b3931",
+    "beatSaverID": "49b39",
+    "hash": "DF3CFC6591A86FF33E440B238978DA31DE0CEC4F",
+    "difficulty": "3",
+    "characteristic": "Standard",
+    "njs": 12.0,
+    "nps": 3.178,
+    "seconds": 158.906,
+    "songCategory": 4,
+    "complexityAccSaber": 6.1
+  },
+  {
+    "name": "Super Bell Hill",
+    "scoreSaberID": "700115",
+    "beatLeaderID": "5064fx31",
+    "hash": "E7FB98566ADC82F77E1B0C1600142AF6F3749B09",
+    "difficulty": "3",
+    "characteristic": "Standard",
+    "songCategory": 4,
+    "complexityAccSaber": 5.2
+  },
+  {
+    "name": "Ghost Keeper",
+    "scoreSaberID": "698475",
+    "beatLeaderID": "5001571",
+    "beatSaverID": "50015",
+    "hash": "ECECB6FCCE3EC96D50BDEC5ED4A59F0352FABDB5",
+    "difficulty": "7",
+    "characteristic": "Standard",
+    "njs": 13.0,
+    "nps": 2.532,
+    "seconds": 138.235,
+    "songCategory": 4,
+    "complexityAccSaber": 7.7
+  },
+  {
+    "name": "Three Steps Ahead",
+    "scoreSaberID": "2243826",
+    "beatLeaderID": "535e2x51",
+    "beatSaverID": "535e2",
+    "hash": "F212B9E136944B0D3E0597148341A1F24845E43C",
+    "difficulty": "5",
+    "characteristic": "Standard",
+    "njs": 14.0,
+    "nps": 2.677,
+    "seconds": 159.481,
+    "songCategory": 8,
+    "complexityAccSaber": 8.0
+  },
+  {
+    "name": "no more regrets",
+    "scoreSaberID": "2023165",
+    "beatLeaderID": "533f671",
+    "hash": "FEE6DFCD2F8A56B5025C5811F5E2789C2394C3F6",
+    "difficulty": "7",
+    "characteristic": "Standard",
+    "songCategory": 8,
+    "complexityAccSaber": 9.8
   }
 ]
