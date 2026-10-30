@@ -73,13 +73,14 @@ namespace SmartSongSuggest.Managers
             var method = songSuggestType.GetMethod("GetCoreVersion");
             if (method != null)
             {
-                Version reqCoreVersion = new Version(2, 1, 0);
+                Version reqCoreVersion = new Version(2, 4, 0);
                 coreVersionValidated = true;
                 if (SettingsController.cfgInstance.LogEnabled) Plugin.Log.Info($"Core Version: {SongSuggest.GetCoreVersion()}  Required: {reqCoreVersion}  Valid?: {SongSuggest.GetCoreVersion() >= reqCoreVersion}");
                 if (SongSuggest.GetCoreVersion() < reqCoreVersion) coreVersionValidated = false;
                 var UIVersion = Assembly.GetExecutingAssembly().GetName().Version;
                 if (SettingsController.cfgInstance.LogEnabled) Plugin.Log.Info($"UI Version: {UIVersion}  Required: {SongSuggest.MinimumUIVersion()}  Valid?: {UIVersion >= SongSuggest.MinimumUIVersion()}");
                 if (UIVersion < SongSuggest.MinimumUIVersion()) coreVersionValidated = false;
+                if (!coreVersionValidated) return;
             }
             else
             {
@@ -269,6 +270,10 @@ namespace SmartSongSuggest.Managers
                 catch (Exception e)
                 {
                     CallException(e);
+                }
+                finally
+                {
+                    await IPA.Utilities.Async.UnityMainThreadTaskScheduler.Factory.StartNew(() => TSSFlowCoordinator.Instance.ToggleBackButton(true));
                 }
             });
         }

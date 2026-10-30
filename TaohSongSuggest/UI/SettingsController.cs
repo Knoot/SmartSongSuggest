@@ -90,6 +90,9 @@ namespace SmartSongSuggest.UI
         protected override void DidActivate(bool firstActivation, bool addedToHierarchy, bool screenSystemEnabling)
         {
             base.DidActivate(firstActivation, addedToHierarchy, screenSystemEnabling);
+            // Decorative overlays must not block the settings underneath them.
+            bgProgress.raycastTarget = false;
+            statusComponent.raycastTarget = false;
             RefreshProgressBar(0f);
         }
 

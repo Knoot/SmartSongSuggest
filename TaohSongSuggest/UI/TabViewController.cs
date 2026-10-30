@@ -45,82 +45,49 @@ namespace SmartSongSuggest.UI
             NotifyPropertyChanged(nameof(loaded));
         }
 
+        private int generationBusy;
+        private string generationError;
+
         [UIAction("RegenSuggest")]
-        public void RegenSuggest()
-        {
-            Task.Run(() =>
-            {
-                try
-                {
-                    while (SongSuggestManager.toolBox == null)
-                        Thread.Sleep(500);
-
-                    SongSuggestManager.toolBox.status = "Starting Search";
-
-                    IPA.Utilities.Async.UnityMainThreadTaskScheduler.Factory.StartNew(() => UpdateProgessNew());
-
-                    PluginConfig cfg = SettingsController.cfgInstance;
-
-                    SongSuggestSettings linkedSettings = SongSuggestManager.GetSongSuggestSettingsOld(cfg);
-
-                    SongSuggestManager.toolBox.GenerateSongSuggestions(linkedSettings);
-
-                    SongSuggestManager.toolBox.songSuggest.songSuggestCompletion = 1;
-
-                    //Task.Delay(100);
-
-                    IPA.Utilities.Async.UnityMainThreadTaskScheduler.Factory.StartNew(() =>
-                    {
-                        IPlaylist pl = SongSuggestManager.UpdatePlaylists("Song Suggest");
-                        if (pl == null)
-                            return;
-
-                        var lfnc = GameObject.FindObjectOfType<LevelFilteringNavigationController>();
-                        lfnc.SelectAnnotatedBeatmapLevelCollection(pl.PlaylistLevelPack);
-                    });
-                }
-                catch (Exception e)
-                {
-                    Plugin.Log.Error(e);
-                }
-            });
-        }
+        public void RegenSuggest() => RunGeneration(false);
 
         [UIAction("RegenOldest")]
-        public void RegenOldNew()
+        public void RegenOldNew() => RunGeneration(true);
+
+        private async void RunGeneration(bool oldAndNew)
         {
-            Task.Run(() =>
+            if (Interlocked.CompareExchange(ref generationBusy, 1, 0) != 0) return;
+            generationError = null;
+            try
             {
-                try
+                var core = SongSuggestManager.toolBox;
+                if (core == null) throw new InvalidOperationException("SongSuggestCore is not ready.");
+                var cfg = SettingsController.cfgInstance;
+                var suggestSettings = oldAndNew ? null : SongSuggestManager.GetSongSuggestSettingsOld(cfg);
+                var oldSettings = oldAndNew ? SongSuggestManager.GetOldAndNewSettings(cfg) : null;
+                UpdateProgessNew();
+                await Task.Run(() =>
                 {
-                    while (SongSuggestManager.toolBox == null)
-                        Thread.Sleep(500);
-
-                    SongSuggestManager.toolBox.status = "Starting Search";
-
-                    IPA.Utilities.Async.UnityMainThreadTaskScheduler.Factory.StartNew(() => UpdateProgessNew());
-
-                    var ui = SettingsController.cfgInstance;
-
-                    OldAndNewSettings settings = SongSuggestManager.GetOldAndNewSettings(ui);
-
-                    SongSuggestManager.toolBox.GenerateOldestSongs(settings);
-
-                    IPA.Utilities.Async.UnityMainThreadTaskScheduler.Factory.StartNew(() =>
-                    {
-                        IPlaylist pl = SongSuggestManager.UpdatePlaylists("Old and New");
-                        if (pl == null)
-                            return;
-
-                        var lfnc = GameObject.FindObjectOfType<LevelFilteringNavigationController>();
-                        lfnc.SelectAnnotatedBeatmapLevelCollection(pl.PlaylistLevelPack);
-                    });
-                }
-                catch (Exception e)
+                    if (oldAndNew) core.GenerateOldestSongs(oldSettings);
+                    else core.GenerateSongSuggestions(suggestSettings);
+                });
+                IPlaylist playlist = SongSuggestManager.UpdatePlaylists(oldAndNew ? "Old and New" : "Song Suggest");
+                if (playlist != null)
                 {
-                    Plugin.Log.Error(e);
+                    var navigation = GameObject.FindObjectOfType<LevelFilteringNavigationController>();
+                    navigation?.SelectAnnotatedBeatmapLevelCollection(playlist.PlaylistLevelPack);
                 }
-            });
+            }
+            catch (Exception ex)
+            {
+                generationError = ex.Message;
+                Plugin.Log.Error(ex);
+            }
+            finally
+            {
+                Interlocked.Exchange(ref generationBusy, 0);
+                RefreshProgressBar(0);
+            }
         }
 
         [UIAction("Settings")]
@@ -131,13 +98,12 @@ namespace SmartSongSuggest.UI
 
         public async void UpdateProgessNew()
         {
-            while (SongSuggestManager.toolBox.status.ToLowerInvariant() != "ready")
+            while (Volatile.Read(ref generationBusy) != 0)
             {
                 RefreshProgressBar(SongSuggestManager.toolBox.songSuggest != null ? (float)SongSuggestManager.toolBox.songSuggest.songSuggestCompletion : 0);
                 await Task.Delay(200);
             }
 
-            SongSuggestManager.toolBox.status = "Ready";
             RefreshProgressBar(0);
         }
 
@@ -150,6 +116,11 @@ namespace SmartSongSuggest.UI
                 statusComponent.text = SongSuggestManager.toolBox != null ? SongSuggestManager.toolBox.status : "Loading" + new string('.', dots);
 
                 bgProgress.color = Color.green;
+                if (generationError != null)
+                {
+                    statusComponent.text = generationError;
+                    bgProgress.color = Color.red;
+                }
 
                 //Core was not placed in libs, lets inform user of this
                 if (!SongSuggestManager.coreDetected)

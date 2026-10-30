@@ -1,6 +1,7 @@
 ﻿using HarmonyLib;
 using SmartSongSuggest.UI;
 using SongLibraryNS;
+using System.Collections.Generic;
 
 namespace SmartSongSuggest.Patches
 {
@@ -9,6 +10,7 @@ namespace SmartSongSuggest.Patches
     {
         static void Postfix(in BeatmapKey beatmapKey, PlayerData playerData, PlayerLevelStatsData playerLevelStats, LevelCompletionResults levelCompletionResults, IReadonlyBeatmapData transformedBeatmapData, PlatformLeaderboardsModel platformLeaderboardsModel)
         {
+            if (Managers.SongSuggestManager.toolBox == null || !beatmapKey.levelId.StartsWith("custom_level_")) return;
             Managers.SongSuggestManager.toolBox.log?.WriteLine($"Processing Result Screen");
             //if (!SettingsController.cfgInstance.RecordLocalScores) return;
             
@@ -43,12 +45,29 @@ namespace SmartSongSuggest.Patches
             string speed = $"{levelCompletionResults.gameplayModifiers.songSpeed}";
             if (speed != "Normal") return;
 
-            //**Missing ... generation of the modifiers text
+            var m = levelCompletionResults.gameplayModifiers;
+            var defaults = GameplayModifiers.noModifiers;
+            var modifiers = new List<string>();
+            if (m.noFailOn0Energy) modifiers.Add("NF");
+            if (m.instaFail) modifiers.Add("IF");
+            if (m.failOnSaberClash) modifiers.Add("SABER_CLASH");
+            if (m.enabledObstacleType != defaults.enabledObstacleType) modifiers.Add("NO");
+            if (m.fastNotes) modifiers.Add("FAST_NOTES");
+            if (m.strictAngles) modifiers.Add("SA");
+            if (m.disappearingArrows) modifiers.Add("DA");
+            if (m.ghostNotes) modifiers.Add("GN");
+            if (m.noBombs) modifiers.Add("NB");
+            if (m.noArrows) modifiers.Add("NA");
+            if (m.proMode) modifiers.Add("PM");
+            if (m.zenMode) modifiers.Add("ZEN");
+            if (m.smallCubes) modifiers.Add("SC");
+            if (m.energyType != defaults.energyType) modifiers.Add(m.energyType.ToString() == "Battery" ? "BE" : "ENERGY_TYPE");
+            string modifierText = string.Join(",", modifiers);
             //Store Session Score
-            Managers.SongSuggestManager.toolBox.AddSessionScore(songID, acc, "");
+            Managers.SongSuggestManager.toolBox.AddSessionScore(songID, acc, modifierText);
 
             //Verify that recording is active)
-            if (SettingsController.cfgInstance.RecordLocalScores) Managers.SongSuggestManager.toolBox.AddLocalScore(songID, acc, "");
+            if (SettingsController.cfgInstance.RecordLocalScores) Managers.SongSuggestManager.toolBox.AddLocalScore(songID, acc, modifierText);
             
             //Update the RankPlate as data changed.
             LevelDetailViewController.persController.RankPlateChanged();

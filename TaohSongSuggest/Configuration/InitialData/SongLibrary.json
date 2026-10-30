@@ -1606,7 +1606,7 @@
     "complexityAutoBalancer": 7.59
   },
   {
-    "name": "Freedom Dive Music Box",
+    "name": "FREEDOM DiVE",
     "scoreSaberID": "133669",
     "beatLeaderID": "467a71",
     "beatSaverID": "467a",
@@ -9389,7 +9389,7 @@
     "complexityAutoBalancer": 4.87
   },
   {
-    "name": "Walk on Water",
+    "name": "WALK ON WATER",
     "scoreSaberID": "2523",
     "beatLeaderID": "1b731",
     "beatSaverID": "1b7",
@@ -16737,7 +16737,7 @@
     "complexityAutoBalancer": 8.12
   },
   {
-    "name": "1Summer",
+    "name": "EC1-Summer",
     "scoreSaberID": "29395",
     "beatLeaderID": "74651",
     "beatSaverID": "746",
@@ -16756,7 +16756,7 @@
     "complexityAutoBalancer": 5.05
   },
   {
-    "name": "[EC1]Everything Goes",
+    "name": "EC1-Everything Goes",
     "scoreSaberID": "29426",
     "beatLeaderID": "74371",
     "beatSaverID": "743",
@@ -16775,7 +16775,7 @@
     "complexityAutoBalancer": 5.28
   },
   {
-    "name": "[EC1]Haunted",
+    "name": "EC1-Haunted",
     "scoreSaberID": "29428",
     "beatLeaderID": "74471",
     "beatSaverID": "744",
@@ -16813,7 +16813,7 @@
     "complexityAutoBalancer": 4.97
   },
   {
-    "name": "[EC1]Everything Goes",
+    "name": "EC1-Everything Goes",
     "scoreSaberID": "29456",
     "beatLeaderID": "74351",
     "beatSaverID": "743",
@@ -27264,7 +27264,7 @@
     "complexityAutoBalancer": 7.97
   },
   {
-    "name": "1Gas Mask",
+    "name": "Gas Mask",
     "scoreSaberID": "33025",
     "beatLeaderID": "7a671",
     "beatSaverID": "7a6",
@@ -27297,7 +27297,7 @@
     "complexityAccSaber": 11.5
   },
   {
-    "name": "1Gas Mask",
+    "name": "Gas Mask",
     "scoreSaberID": "33081",
     "beatLeaderID": "7a651",
     "beatSaverID": "7a6",
@@ -27449,7 +27449,7 @@
     "complexityAutoBalancer": 7.85
   },
   {
-    "name": "1Gas Mask",
+    "name": "Gas Mask",
     "scoreSaberID": "33107",
     "beatLeaderID": "7a631",
     "beatSaverID": "7a6",
@@ -52254,7 +52254,7 @@
     "complexityAutoBalancer": 4.91
   },
   {
-    "name": "Happy Synthesizer ",
+    "name": "Happy Synthesizer",
     "scoreSaberID": "4359",
     "beatLeaderID": "2b451",
     "beatSaverID": "2b4",
@@ -52273,7 +52273,7 @@
     "complexityAutoBalancer": 5.03
   },
   {
-    "name": "Happy Synthesizer ",
+    "name": "Happy Synthesizer",
     "scoreSaberID": "4369",
     "beatLeaderID": "2b411",
     "beatSaverID": "2b4",
@@ -52580,7 +52580,7 @@
     "complexityAutoBalancer": 7.2
   },
   {
-    "name": "Happy Synthesizer ",
+    "name": "Happy Synthesizer",
     "scoreSaberID": "4383",
     "beatLeaderID": "2b431",
     "beatSaverID": "2b4",
@@ -68692,7 +68692,7 @@
     "complexityAutoBalancer": 7.97
   },
   {
-    "name": "iLLness LiLin ",
+    "name": "iLLness LiLin",
     "scoreSaberID": "66939",
     "beatLeaderID": "126c31",
     "beatSaverID": "126c",
@@ -68711,7 +68711,7 @@
     "complexityAutoBalancer": 4.92
   },
   {
-    "name": "iLLness LiLin ",
+    "name": "iLLness LiLin",
     "scoreSaberID": "66944",
     "beatLeaderID": "126c51",
     "beatSaverID": "126c",
@@ -68786,7 +68786,7 @@
     "complexityAutoBalancer": 7.42
   },
   {
-    "name": "Greenlights Serenade ",
+    "name": "Greenlights Serenade",
     "scoreSaberID": "68737",
     "beatLeaderID": "13a091",
     "beatSaverID": "13a0",
@@ -68805,7 +68805,7 @@
     "complexityAutoBalancer": 7.4
   },
   {
-    "name": "Greenlights Serenade ",
+    "name": "Greenlights Serenade",
     "scoreSaberID": "68758",
     "beatLeaderID": "13a071",
     "beatSaverID": "13a0",
@@ -70558,7 +70558,7 @@
     "complexityAutoBalancer": 7.67
   },
   {
-    "name": "The Merchant Guild",
+    "name": "The Merchant Guild - 100k Contest",
     "scoreSaberID": "87214",
     "beatLeaderID": "1fec11",
     "beatSaverID": "1fec",
@@ -70577,7 +70577,7 @@
     "complexityAutoBalancer": 4.28
   },
   {
-    "name": "The Merchant Guild",
+    "name": "The Merchant Guild - 100k Contest",
     "scoreSaberID": "87227",
     "beatLeaderID": "1fec31",
     "beatSaverID": "1fec",
@@ -70596,7 +70596,7 @@
     "complexityAutoBalancer": 4.81
   },
   {
-    "name": "The Merchant Guild",
+    "name": "The Merchant Guild - 100k Contest",
     "scoreSaberID": "87228",
     "beatLeaderID": "1fec51",
     "beatSaverID": "1fec",
@@ -70988,7 +70988,7 @@
     "complexityAutoBalancer": 5.19
   },
   {
-    "name": "Snakey Chantey ",
+    "name": "Snakey Chantey",
     "scoreSaberID": "94918",
     "beatLeaderID": "243e91",
     "beatSaverID": "243e",
@@ -71045,7 +71045,7 @@
     "complexityAutoBalancer": 5.25
   },
   {
-    "name": "Crocodile Cacophony ",
+    "name": "Crocodile Cacophony",
     "scoreSaberID": "94923",
     "beatLeaderID": "244171",
     "beatSaverID": "2441",
@@ -71064,7 +71064,7 @@
     "complexityAutoBalancer": 5.77
   },
   {
-    "name": "Snakey Chantey ",
+    "name": "Snakey Chantey",
     "scoreSaberID": "94935",
     "beatLeaderID": "243e71",
     "beatSaverID": "243e",
@@ -71121,7 +71121,7 @@
     "complexityAutoBalancer": 5.03
   },
   {
-    "name": "Crocodile Cacophony ",
+    "name": "Crocodile Cacophony",
     "scoreSaberID": "94955",
     "beatLeaderID": "244151",
     "beatSaverID": "2441",
@@ -71197,7 +71197,7 @@
     "complexityAutoBalancer": 7.71
   },
   {
-    "name": "Snakey Chantey ",
+    "name": "Snakey Chantey",
     "scoreSaberID": "94988",
     "beatLeaderID": "243e51",
     "beatSaverID": "243e",

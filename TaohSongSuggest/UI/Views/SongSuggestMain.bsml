@@ -1,4 +1,4 @@
-﻿<vertical preferred-width='120' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='https://monkeymanboy.github.io/BSML-Docs/ https://raw.githubusercontent.com/monkeymanboy/BSML-Docs/gh-pages/BSMLSchema.xsd'>
+﻿<vertical preferred-width='120' vertical-fit='PreferredSize' child-control-height='true' child-expand-height='false' spacing='1' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='https://monkeymanboy.github.io/BSML-Docs/ https://raw.githubusercontent.com/monkeymanboy/BSML-Docs/gh-pages/BSMLSchema.xsd'>
 
   
     <horizontal id='top-pannel'> 
@@ -9,7 +9,7 @@
 
     <horizontal bg='panel-top' bg-color='white' size-delta-y='1' pref-height='0.5'></horizontal>
     
-    <horizontal horizontal-fit='PreferredSize' pad='8' preferred-height='79' vertical-fit='PreferredSize' child-control-height='false' active='~suggest-show'>
+    <horizontal horizontal-fit='PreferredSize' pad-left='8' pad-right='8' pad-top='1' pad-bottom='2' vertical-fit='PreferredSize' child-control-height='true' child-expand-height='false' active='~suggest-show'>
       
       <vertical spacing='0.5' child-expand-height='false'>
 
@@ -71,7 +71,7 @@
 
   
 
-  <horizontal bg='panel-fade-gradient' id='buttonsPanel' bg-color='black'>
+  <horizontal bg='panel-fade-gradient' id='buttonsPanel' bg-color='black' min-height='10' pref-height='10' child-control-height='true' child-expand-height='false'>
     <button id='OldestBTN' text='Old &amp; New' align='Center' font-size='7' italics='true' on-click='GenerateOldest' active='~oldest-show' hover-hint='First time generating might take a while as it needs to fetch all your scores!'/>
     
     <button id='SuggestBTN' text='Suggest Songs' align='Center' font-size='7' italics='true' on-click='GeneratePlaylist' active='~suggest-show' hover-hint='First time generating might take a while as it needs to fetch all your scores!'/>
