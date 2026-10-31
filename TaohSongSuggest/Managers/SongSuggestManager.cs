@@ -37,6 +37,8 @@ namespace SmartSongSuggest.Managers
         internal static bool coreDetected = false;
         internal static bool coreVersionValidated = false;
         internal static SongSuggest toolBox;
+        internal static volatile string InitializationStatus = "Initializing SmartSongSuggest";
+        internal static volatile bool InitializationFailed;
         public static bool needsAssignment = false;
         public static bool readyForAssignment = false;
         internal static IPlaylist lastPlaylist;
@@ -56,6 +58,7 @@ namespace SmartSongSuggest.Managers
 
         public static void Init()
         {
+            var startupTimer = System.Diagnostics.Stopwatch.StartNew();
             //Detect if a Core is Present
             Type songSuggestType = Type.GetType("SongSuggestNS.SongSuggest, SongSuggestCore");
             if (songSuggestType != null)
@@ -119,6 +122,8 @@ namespace SmartSongSuggest.Managers
                         UpdateAccSaberLeaderboard = cfg.UpdateAccSaberLeaderboard,
                         UseBeatLeaderLeaderboard = cfg.LoadBeatLeaderLeaderboard,
                         UpdateBeatLeaderLeaderboard = cfg.UpdateBeatLeaderLeaderboard,
+                        BeatLeaderStartupCheckDelay = TimeSpan.FromSeconds(Math.Max(0, 10 - startupTimer.Elapsed.TotalSeconds)),
+                        StatusChanged = value => InitializationStatus = value,
                     };
 
                     coreSettings.UserID = cfg.CachedPlayerID;
@@ -218,6 +223,8 @@ namespace SmartSongSuggest.Managers
                 }
                 catch (Exception e)
                 {
+                    InitializationStatus = "Initialization failed: " + e.Message;
+                    InitializationFailed = true;
                     Plugin.Log.Error(e);
                 }
             });

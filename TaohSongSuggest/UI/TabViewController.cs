@@ -34,7 +34,11 @@ namespace SmartSongSuggest.UI
 
         public async void Initialize()
         {
-            while (SongSuggestManager.toolBox == null)
+            // GameplaySetup may parse the tab only after AddTab has returned.
+            while (statusComponent == null)
+                await Task.Delay(100);
+
+            while (SongSuggestManager.toolBox == null && !SongSuggestManager.InitializationFailed)
             {
                 RefreshProgressBar(0);
                 await Task.Delay(200);
@@ -107,15 +111,33 @@ namespace SmartSongSuggest.UI
             RefreshProgressBar(0);
         }
 
-        int dots = 0;
+        private int loadingDots;
+        private bool statusUpdateErrorLogged;
         public void RefreshProgressBar(float prog)
         {
             try
             {
-                dots = (dots % 3) + 1;
-                statusComponent.text = SongSuggestManager.toolBox != null ? SongSuggestManager.toolBox.status : "Loading" + new string('.', dots);
+                if (statusComponent == null) return;
+                statusComponent.raycastTarget = false;
+                statusComponent.enableAutoSizing = true;
+                statusComponent.fontSizeMin = 1.5f;
+                statusComponent.fontSizeMax = 4;
+                if (SongSuggestManager.toolBox == null && !SongSuggestManager.InitializationFailed)
+                {
+                    loadingDots = loadingDots % 3 + 1;
+                    statusComponent.text = "Loading" + new string('.', loadingDots) +
+                        " " + SongSuggestManager.InitializationStatus.Replace('\n', ' ').Replace('\r', ' ');
+                }
+                else
+                {
+                    statusComponent.text = SongSuggestManager.InitializationFailed ? SongSuggestManager.InitializationStatus :
+                        SongSuggestManager.toolBox.status;
+                }
 
+                if (bgProgress == null) return;
+                bgProgress.raycastTarget = false;
                 bgProgress.color = Color.green;
+                if (SongSuggestManager.InitializationFailed) bgProgress.color = Color.red;
                 if (generationError != null)
                 {
                     statusComponent.text = generationError;
@@ -144,9 +166,13 @@ namespace SmartSongSuggest.UI
 
                 x.ForceUpdateRectTransforms();
             }
-            catch
+            catch (Exception ex)
             {
-
+                if (!statusUpdateErrorLogged)
+                {
+                    statusUpdateErrorLogged = true;
+                    Plugin.Log.Error("Could not update SmartSongSuggest tab status: " + ex);
+                }
             }
 
         }

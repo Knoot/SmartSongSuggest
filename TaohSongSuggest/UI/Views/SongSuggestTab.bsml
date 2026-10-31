@@ -1,12 +1,9 @@
 ﻿<bg xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='https://monkeymanboy.github.io/BSML-Docs/ https://raw.githubusercontent.com/monkeymanboy/BSML-Docs/gh-pages/BSMLSchema.xsd'>
-  <settings-container child-control-width='true' child-expand-width='true' size-delta-y='-15'>
-			<button id='RegenSuggest' text='Update Song Suggest' align='Center' interactable='~loaded' italics='true' on-click='RegenSuggest'/>
-			<button id='RegenOldNew' text='Update Old &amp; New' align='Center' interactable='~loaded' italics='true' on-click='RegenOldest'/>
-      <button id='Settings' text='Settings' align='Center' italics='true' interactable='~loaded' on-click='Settings'/>
-	</settings-container>
-  
-  <vertical horizontal-fit='Unconstrained' ignore-layout='true' anchor-pos-y='-52'>
-    <label id='statusText' text='Ready' color='magenta'></label>
+  <vertical pref-width='60' horizontal-fit='PreferredSize' vertical-fit='PreferredSize' child-control-width='true' child-control-height='true' child-expand-height='false' spacing='1'>
+    <button id='RegenSuggest' text='Update Song Suggest' align='Center' interactable='~loaded' italics='true' min-height='10' pref-height='10' on-click='RegenSuggest'/>
+    <button id='RegenOldNew' text='Update Old &amp; New' align='Center' interactable='~loaded' italics='true' min-height='10' pref-height='10' on-click='RegenOldest'/>
+    <button id='Settings' text='Settings' align='Center' italics='true' interactable='~loaded' min-height='10' pref-height='10' on-click='Settings'/>
+    <label id='statusText' text='Loading...' color='magenta' font-size='4' min-height='8' pref-height='8' word-wrapping='false' align='Center'/>
   </vertical>
 	<vertical id='bgProgress' bg-color='Green' ignore-layout='true' anchor-max-x='0.0' horizontal-fit='Unconstrained' preferred-height='1' vertical-fit='PreferredSize' background='panel-fade-gradient' anchor-pos-y='-28'/>
 </bg>
