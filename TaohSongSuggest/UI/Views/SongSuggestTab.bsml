@@ -3,6 +3,7 @@
     <button id='RegenSuggest' text='Update Song Suggest' align='Center' interactable='~loaded' italics='true' min-height='10' pref-height='10' on-click='RegenSuggest'/>
     <button id='RegenOldNew' text='Update Old &amp; New' align='Center' interactable='~loaded' italics='true' min-height='10' pref-height='10' on-click='RegenOldest'/>
     <button id='Settings' text='Settings' align='Center' italics='true' interactable='~loaded' min-height='10' pref-height='10' on-click='Settings'/>
+    <button text='Retry Loading' align='Center' active='~initialization-failed' min-height='8' pref-height='8' on-click='RetryInitialization'/>
     <label id='statusText' text='Loading...' color='magenta' font-size='4' min-height='8' pref-height='8' word-wrapping='false' align='Center'/>
   </vertical>
 	<vertical id='bgProgress' bg-color='Green' ignore-layout='true' anchor-max-x='0.0' horizontal-fit='Unconstrained' preferred-height='1' vertical-fit='PreferredSize' background='panel-fade-gradient' anchor-pos-y='-28'/>

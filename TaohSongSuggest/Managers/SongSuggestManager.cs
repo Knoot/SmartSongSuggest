@@ -39,6 +39,7 @@ namespace SmartSongSuggest.Managers
         internal static SongSuggest toolBox;
         internal static volatile string InitializationStatus = "Initializing SmartSongSuggest";
         internal static volatile bool InitializationFailed;
+        private static int initializationBusy;
         public static bool needsAssignment = false;
         public static bool readyForAssignment = false;
         internal static IPlaylist lastPlaylist;
@@ -76,7 +77,7 @@ namespace SmartSongSuggest.Managers
             var method = songSuggestType.GetMethod("GetCoreVersion");
             if (method != null)
             {
-                Version reqCoreVersion = new Version(2, 5, 0);
+                Version reqCoreVersion = new Version(2, 5, 1);
                 coreVersionValidated = true;
                 if (SettingsController.cfgInstance.LogEnabled) Plugin.Log.Info($"Core Version: {SongSuggest.GetCoreVersion()}  Required: {reqCoreVersion}  Valid?: {SongSuggest.GetCoreVersion() >= reqCoreVersion}");
                 if (SongSuggest.GetCoreVersion() < reqCoreVersion) coreVersionValidated = false;
@@ -92,6 +93,10 @@ namespace SmartSongSuggest.Managers
             }
 
 
+            if (toolBox != null || Interlocked.CompareExchange(ref initializationBusy, 1, 0) != 0) return;
+            InitializationFailed = false;
+            InitializationStatus = "Initializing SmartSongSuggest";
+            readyForAssignment = false;
             Task.Run(() =>
             {
                 try
@@ -205,6 +210,7 @@ namespace SmartSongSuggest.Managers
                     toolBox.log?.WriteLine($"TestLoadValue Days: {cfg.ActiveLeaderboard.IgnorePlayedDays}");
                     toolBox.log?.WriteLine($"TestLoadValue Strength: {cfg.ActiveLeaderboard.FilterSettings.modifierStyle}");
                     //Add active default leaderboard to selection
+                    cfg.LeaderboardOptions.Clear();
                     if (cfg.LoadScoreSaberLeaderboard) cfg.LeaderboardOptions.Add("Score Saber");
                     if (cfg.LoadAccSaberLeaderboard) cfg.LeaderboardOptions.Add("Acc Saber");
                     if (cfg.LoadBeatLeaderLeaderboard) cfg.LeaderboardOptions.Add("Beat Leader");
@@ -223,10 +229,14 @@ namespace SmartSongSuggest.Managers
                 }
                 catch (Exception e)
                 {
+                    if (toolBox != null && ReferenceEquals(SongSuggest.MainInstance, toolBox)) SongSuggest.MainInstance = null;
+                    toolBox = null;
+                    readyForAssignment = false;
                     InitializationStatus = "Initialization failed: " + e.Message;
                     InitializationFailed = true;
                     Plugin.Log.Error(e);
                 }
+                finally { Interlocked.Exchange(ref initializationBusy, 0); }
             });
         }
 

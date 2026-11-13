@@ -32,21 +32,40 @@ namespace SmartSongSuggest.UI
             get => SongSuggestManager.toolBox != null;
         }
 
+        [UIValue("initialization-failed")]
+        public bool InitializationFailed => SongSuggestManager.InitializationFailed;
+
+        [UIAction("RetryInitialization")]
+        public void RetryInitialization()
+        {
+            SongSuggestManager.Init();
+            Initialize();
+        }
+
+        private bool initializationWatcherRunning;
         public async void Initialize()
         {
-            // GameplaySetup may parse the tab only after AddTab has returned.
-            while (statusComponent == null)
-                await Task.Delay(100);
-
-            while (SongSuggestManager.toolBox == null && !SongSuggestManager.InitializationFailed)
+            if (initializationWatcherRunning) return;
+            initializationWatcherRunning = true;
+            try
             {
+                NotifyPropertyChanged(nameof(InitializationFailed));
+                // GameplaySetup may parse the tab only after AddTab has returned.
+                while (statusComponent == null)
+                    await Task.Delay(100);
+
+                while (SongSuggestManager.toolBox == null && !SongSuggestManager.InitializationFailed)
+                {
+                    RefreshProgressBar(0);
+                    await Task.Delay(200);
+                }
+
                 RefreshProgressBar(0);
-                await Task.Delay(200);
+
+                NotifyPropertyChanged(nameof(loaded));
+                NotifyPropertyChanged(nameof(InitializationFailed));
             }
-
-            RefreshProgressBar(0);
-
-            NotifyPropertyChanged(nameof(loaded));
+            finally { initializationWatcherRunning = false; }
         }
 
         private int generationBusy;
